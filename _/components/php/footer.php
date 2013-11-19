@@ -1,4 +1,4 @@
-	<section class="container">	
+	<section class="container hidden-xs">	
 		<div class="row">
 			<footer class="col-md-12 ">
 						

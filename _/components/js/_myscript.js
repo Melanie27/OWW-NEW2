@@ -1,10 +1,6 @@
 $(".collapse").collapse();
 
 
-
-
-
-
 $('#collapseOne').on('show.bs.collapse', function () {
 		$('#btn-1').css("background-image", "url(http://planb-november.herokuapp.com/images/icons/icon-mobile-contract.jpg)");
 });

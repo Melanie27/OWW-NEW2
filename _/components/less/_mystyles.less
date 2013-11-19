@@ -43,7 +43,7 @@
 @district-medium: 		 'district_mediummedium', Helvetica, Arial, sans-serif; 
 @district-medium-italic: "district_medium_italicMdIt", Helvetica, Arial, sans-serif;  
 @district-thin: 		 'district_thinthin', Helvetica, Arial, sans-serif; 
-@district-thin-italic: 	 "district_thin_italicThIt", Helvetica, Arial, sans-serif;  
+@district-thin-italic: 	 "district_thin_italicThIt", Helvetica, Arial, sans-serif;
  
 
 
@@ -125,8 +125,8 @@
 
 //Small Screen Headings
 
-@oww-font-size-h1-small: 	floor(@oww-font-size-base * 1.75); // ~28px
-@oww-font-size-h2-small: 	floor(@oww-font-size-base * 1.25); // ~20px
+@oww-font-size-h1-small: 	floor(@oww-font-size-base * 1.56); // ~25px
+@oww-font-size-h2-small: 	floor(@oww-font-size-base * 1.125); // ~18px
 @oww-font-size-h3-small: 				  @oww-font-size-base; // ~16px
 
 
@@ -148,6 +148,7 @@ body {
     font-size: @oww-font-size-base;
     line-height: @line-height-large;
     padding-top:110px;
+    
     
   
     
@@ -238,7 +239,7 @@ a.grey-links:link, a.grey-links:visited {
     border: 1px solid #BBBBBB;
     border-radius: 0;
     font-size: 12px;
-    left: 35px;
+    left: 15px;
     margin-left: 0;
     margin-right: 0;
     padding: 9px;
@@ -308,7 +309,7 @@ a.grey-links:link, a.grey-links:visited {
 		border: solid 1px @oww-light-gray;
 		margin-top:15px;
 		margin-bottom:15px;
-		right:30px;
+		right:15px;
 		border-radius: 0px;
 		padding: 11px 10px;
 		background-image:url(../../images/icons/icon-mobile-menu.jpg);
@@ -862,7 +863,8 @@ article.one-third-two-thirds {
 		
 		h1 {
 		
-		margin-top: 50px;
+			margin-top: 50px;
+			margin-bottom:0px;
 		}
 	}
 	
@@ -887,7 +889,11 @@ article.one-third-two-thirds {
 		background-image:url(../../images/business-solutions/bg-image-03.jpg);
 	}
 	
-	
+	.insights {
+		
+		padding-bottom: 65px;
+		
+	}
 	
 	h2 {
 		font-family: @district-thin;
@@ -897,10 +903,11 @@ article.one-third-two-thirds {
 		font-size: 20px;
 		font-family: @district-book;
 		color:white;
-		
 		padding:15px;
 		text-transform: capitalize;
 		width:250px;
+		vertical-align:middle;
+		display:table-cell;
 	}
 	
 	h4 {
@@ -910,13 +917,18 @@ article.one-third-two-thirds {
 		text-transform: uppercase;
 	}
 	
+	.solutions-columns {
+		margin-top:50px;
+	}
+	
 	.industries {
 		background-color: @oww-poppy;
 		opacity:.9;
 		width:350px;
 		position:relative;
 		bottom:72px;
-		height:75px;	
+		height:75px;
+		display:table;	
 		
 		
 	}
@@ -933,6 +945,23 @@ article.one-third-two-thirds {
 		
 		h1 {
 			margin-top:0px;
+			margin-top:0px;
+			color: @oww-poppy;
+			font-size: 24px;
+			margin-bottom:25px;
+		}
+		
+		ul {
+			
+			list-style-type:none;
+			margin:0px;
+			padding:0px;
+			font-size: 20px;
+			font-family: @district-light;
+		}
+		
+		li {
+			line-height:32px;
 		}
 	}
 
@@ -1095,7 +1124,26 @@ footer {
 
 	body {
 		padding-top:65px;
+		padding-bottom:85px;
 	}
+	
+	.container { 
+		padding-left:15px;
+		padding-right:15px;
+	}
+
+	.five {
+		
+		h1 {
+			padding-top:25px;
+		}
+	}
+	
+	
+	.teasers {
+		padding-left:0px;
+		
+ 	}
 	
 	#marriott {
 		
@@ -1130,7 +1178,7 @@ footer {
 	#logo {
 		
 		padding-top:15px;
-		padding-left:30px;
+		padding-left:15px;
 		padding-bottom:15px;
 		
 		img {
@@ -1414,12 +1462,21 @@ footer {
      
 @media (min-width: 1px) and (max-width: 480px) { 
 
-	p, li { font-size:90%;}
+	p, li { font-size:14px;}
                     
     .heading {
+	    padding: 20px 0px;
 	    
 	    h1 {
-		    line-height:20px;
+		    line-height:28px;
+		    font-size:@oww-font-size-h1-small;
+	    }
+	    
+	    h2 {
+		    font-size:@oww-font-size-h2-small;
+		    line-height: 22px;
+		    margin-bottom:0px;
+		     margin-top:10px;
 	    }
     }
     
@@ -1450,6 +1507,57 @@ footer {
 	
 	}
 	
+	#business-solutions {
+	
+		.three {
+		
+			h1 {
+				font-size:21px;
+				margin-top:0px;
+				}
+		
+				.solutions-head {
+			
+					margin-top:25px;
+			
+				}
+		
+				h2 {
+			
+					margin-top:10px;
+					font-size:16px;
+			
+					}
+		
+				h3 {
+			
+					font-size:16px
+				}
+		
+			}
+			
+			.solutions-columns {
+				margin-top:20px;
+				}
+				
+			.five {
+			
+				h1 {
+					padding-top:20px;
+					margin-top:20px;
+					border-top:solid 1px @oww-light-gray;
+				}
+		}
+			
+		}
+	
+	
+	
+	
+	
+	.thirds {
+		padding-top:15px;
+	}
 	
 	
 	.intro {
@@ -1526,6 +1634,26 @@ footer {
 @media (min-width: 481px) {
 	.find-housing {
 		display:none;
+	}
+}	
+
+@media (min-width: 1px) and (max-width: 380px) {
+	
+	#business-solutions {
+		
+		.industries {
+			
+			width:100%;
+			max-width: 350px;
+			height: 66px;
+			bottom:65px;
+		}
+		
+		.solutions {
+			height:265px;
+		}
+		
+		
 	}
 }
 

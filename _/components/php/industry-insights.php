@@ -1,7 +1,7 @@
 					<div class="container">
 							<section class="two-a">
 						
-							<div class="row over hidden-sm hidden-xs">
+							<div class="row over">
 								<section class="col-lg-12 vert">
 										
 										
@@ -18,7 +18,7 @@
 												<p>More from <span class="tags"><a href="#">Awards</a></span>, <a href="#">Oakwood Worldwide</a></p>
 											</section> <!--end two thirds-->
 											
-											<section class="col-lg-4 col-md-4 hidden-sm hidden-xs thirds teasers">
+											<section class="col-lg-4 col-md-4 thirds teasers">
 												<?php include "_/components/php/news-thumbs.php"; ?>	
 											</section> <!--end three thirds-->	
 									
