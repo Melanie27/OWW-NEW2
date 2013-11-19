@@ -1,0 +1,1532 @@
+//
+// OWW Variables
+// --------------------------------------------------
+
+
+// Global values
+// --------------------------------------------------
+
+// Grays
+// -------------------------
+
+@oww-dark-gray:             #3b3b3b; 
+@oww-light-gray:			#bbbbbb;
+
+// Brand Colors
+
+@oww-poppy: 				#f05323;
+
+// Scaffolding
+// -------------------------
+
+@oww-body-bg:               #fff;
+@oww-text-color:            @oww-dark-gray;
+@oww-container-width:       1280px;
+
+// Links
+// -------------------------
+
+// Typography
+// -------------------------
+
+
+@district-black: 		 "district_blackblack", Helvetica, Arial, sans-serif;
+@district-black-italic:  "district_black_italicBlkIt", Helvetica, Arial, sans-serif;
+@district-bold: 		 'district_boldbold', Helvetica, Arial, sans-serif; 
+@district-bold-italic:   "district_bold_italicBdIt", Helvetica, Arial, sans-serif; 
+@district-book: 		 'district_bookbook', Helvetica, Arial, sans-serif; 
+@district-book-italic:   "district_book_italicBkIt", Helvetica, Arial, sans-serif; 
+@district-demi: 		 "district_demidemi", Helvetica, Arial, sans-serif; 
+@district-demi-italic:   "district_demi_italicdemiIt", Helvetica, Arial, sans-serif;
+@district-light: 		 'district_lightlight', Helvetica, Arial, sans-serif; 
+@district-light-italic:  "district_light_italicLtIt", Helvetica, Arial, sans-serif;
+@district-medium: 		 'district_mediummedium', Helvetica, Arial, sans-serif; 
+@district-medium-italic: "district_medium_italicMdIt", Helvetica, Arial, sans-serif;  
+@district-thin: 		 'district_thinthin', Helvetica, Arial, sans-serif; 
+@district-thin-italic: 	 "district_thin_italicThIt", Helvetica, Arial, sans-serif;  
+ 
+
+
+@font-face {
+	
+	 font-family: 'district_lightlight';
+    src: url('../District-Light/district-light-webfont.eot');
+    src: url('../District-Light/district-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../District-Light/district-light-webfont.woff') format('woff'),
+         url('../District-Light/district-light-webfont.ttf') format('truetype'),
+         url('../District-Light/district-light-webfont.svg#district_lightlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+       
+    font-family: 'district_bookbook';
+    src: url('../District-Book/district-book-webfont.eot');
+    src: url('../District-Book/district-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../District-Book/district-book-webfont.woff') format('woff'),
+         url('../District-Book/district-book-webfont.ttf') format('truetype'),
+         url('../District-Book/district-book-webfont.svg#district_bookbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    
+    
+}
+
+@font-face {
+    font-family: 'district_thinthin';
+    src: url('../District-Thin/district-thin-webfont.eot');
+    src: url('../District-Thin/district-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../District-Thin/district-thin-webfont.woff') format('woff'),
+         url('../District-Thin/district-thin-webfont.ttf') format('truetype'),
+         url('../District-Thin/district-thin-webfont.svg#district_thinthin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'district_mediummedium';
+    src: url('../District-Medium/district-medium-webfont.eot');
+    src: url('../District-Medium/district-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../District-Medium/district-medium-webfont.woff') format('woff'),
+         url('../District-Medium/district-medium-webfont.ttf') format('truetype'),
+         url('../District-Medium/district-medium-webfont.svg#district_mediummedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'district_boldbold';
+    src: url('../District-Bold/district-bold-webfont.eot');
+    src: url('../District-Bold/district-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../District-Bold/district-bold-webfont.woff') format('woff'),
+         url('../District-Bold/district-bold-webfont.ttf') format('truetype'),
+         url('../District-Bold/district-bold-webfont.svg#district_boldbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@oww-font-size-base:16px;
+
+//Headings
+
+@oww-font-size-h1:            floor(@oww-font-size-base * 2.25); // ~36px
+@oww-font-size-h2:            floor(@oww-font-size-base * 1.5); // ~24px
+@oww-font-size-h3:            ceil(@oww-font-size-base * 1.125); // ~18px
+@oww-font-size-links: 		  ceil(@oww-font-size-base * .875); // ~14px
+@oww-font-size-menu: 		  ceil(@oww-font-size-base * .8125); // ~13px
+@oww-font-size-date: 		  ceil(@oww-font-size-base * .75); // ~12px
+
+
+//Small Screen Headings
+
+@oww-font-size-h1-small: 	floor(@oww-font-size-base * 1.75); // ~28px
+@oww-font-size-h2-small: 	floor(@oww-font-size-base * 1.25); // ~20px
+@oww-font-size-h3-small: 				  @oww-font-size-base; // ~16px
+
+
+//Extra Small Screen Headings
+
+@oww-font-size-h1-xs: 	floor(@oww-font-size-base * 1.25); // ~20px
+@oww-font-size-h2-xs: 				  @oww-font-size-base; // ~16px
+@oww-font-size-h3-xs: 	ceil(@oww-font-size-base * .8125); // ~13px
+
+
+// Components
+@line-height-large:              1.3125;
+
+
+
+body {
+    color: @oww-dark-gray; 
+    font-family: @district-book;
+    font-size: @oww-font-size-base;
+    line-height: @line-height-large;
+    padding-top:110px;
+    
+  
+    
+}
+
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.container {
+	padding:0px;
+}
+ul, li {
+	line-height:20px;	
+}
+
+h1 {
+		color: @oww-poppy !important;
+		font-family: 'district_thinthin';
+		font-weight:300;
+		font-size: @oww-font-size-h1;
+	
+} 
+
+h2 {
+	font-size: @oww-font-size-h2;
+	font-weight:normal;
+	color: @oww-dark-gray; 
+	font-family: @district-light;
+}
+
+h3 {
+	font-family:@district-medium;
+	text-transform:uppercase;
+	font-family: @oww-dark-gray;
+	font-size: @oww-font-size-h3;
+		
+}
+		
+p {
+		
+	font-size:@oww-font-size-base;
+	font-family: @district-book;
+	color: @oww-dark-gray;
+	line-height:@line-height-large;
+		
+}
+
+sup {
+	font-size:10px;
+	vertical-align:top;
+	line-height:18px;
+}
+
+.orange-link {
+	text-transform:uppercase;
+	color: @oww-poppy;
+	font-family: @district-bold;
+	font-size: @oww-font-size-links; 
+}		
+
+a.grey-links:link, a.grey-links:visited {
+	color:@oww-dark-gray;
+	text-decoration:underline;
+}
+
+// Container
+
+.container.landing {
+	width:auto !important;	
+	padding:0px;
+	margin:0px;
+	overflow:hidden;
+	
+}
+
+.landing {
+	position:relative;
+}
+
+
+//Navigation Styles
+
+.btn.find-housing  {
+	background-color: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    border-radius: 0;
+    font-size: 12px;
+    left: 35px;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 9px;
+    position: relative;
+    top: 16px;
+    width: auto;
+	
+}
+
+.btn.active.mobile-toggle.contraction {
+	border:solid 1px purple;
+	background-image: url(../../images/icons/icon-mobile-contract.jpg);
+}
+
+.btn.mobile-toggle.contraction {
+	border:solid 1px purple;
+	background-image: url(../../images/icons/icon-mobile-contract.jpg);
+}
+
+.btn.mobile-toggle.expansion {
+	border:solid 1px blue;
+	background-image: url(../../images/icons/icon-mobile-expand.jpg) !important;
+}
+
+.btn.mobile-toggle {
+	background-image: url(../../images/icons/icon-mobile-expand.jpg);
+	width:13px;
+	height:13px;
+	background-repeat:no-repeat;
+	background-color:white;
+	position:absolute;
+	right: 10px;
+    top: 32px;
+	
+}
+
+
+.btn:active.mobile-toggle,
+.btn.active.mobile-toggle {
+    background-image: url(../../images/icons/icon-mobile-contract.jpg);
+    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.125) inset;
+    outline: 0 none;
+}
+
+
+#logo {
+
+	padding-top:25px;
+	padding-bottom:25px;
+	display:block;
+	float:left;
+
+	img {
+		float:left;
+		}
+	}
+	
+.navbar-nav {
+	float:right;
+}
+
+.navbar-default {
+
+	background-color:white;
+
+	.navbar-toggle {
+		border: solid 1px @oww-light-gray;
+		margin-top:15px;
+		margin-bottom:15px;
+		right:30px;
+		border-radius: 0px;
+		padding: 11px 10px;
+		background-image:url(../../images/icons/icon-mobile-menu.jpg);
+	
+		.icon-bar {
+		
+		background-color:transparent;
+			
+		}
+	
+	}	
+
+}	
+
+
+.navbar-nav > li > a {
+	color: @oww-dark-gray;
+	font-size: @oww-font-size-menu;
+	font-family: @district-book;
+}
+
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:active {
+	color: @oww-poppy;
+	background-color:none;
+} 
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: @oww-poppy;
+	background-color: transparent;
+	
+}
+
+nav > li > a:hover, .navbar-nav > li > a:focus, .navbar-nav > li.active > a {
+		background-color:none;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+	background-color: #ffffff;
+} 
+
+.nav {
+	
+	font-size:14px;
+	
+	.container {
+		padding-left:0px;
+		padding-right:0px;
+	}
+}
+
+.navbar {
+	margin-bottom:0px;
+}
+
+nav.navbar-fixed-top {
+	background-color:white;
+	border:solid 1px blue;
+}
+
+
+/*HEADER OVERLAY*/
+
+#home .over, #vision-leadership .over {
+	background-color:white;
+	margin: 45px auto;
+	padding:35px 30px 35px 30px;
+			
+}
+
+#news 
+
+	{
+		.over {
+			background-color:white;
+			margin:45px auto;
+			
+			}
+
+}
+
+.over2 {
+	margin: 0px auto;
+	
+}
+
+
+
+.news-columns {
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.thirds {
+	padding-top:35px;
+}
+
+.heading {
+	background-color: @oww-poppy;
+	opacity:.85;
+	padding: 28px 0px 26px 0px;;
+	
+	
+		h1 {
+			margin:0px 0px 10px 0px;
+			color:white !important;
+			line-height:22px;
+		}
+		
+		h2 {
+			color:white;
+			font-family:@district-thin;
+		}
+		
+		h3 {
+			font-weight:300;
+			margin-bottom:0px;
+		}
+	}
+
+
+.oww-header {
+	padding-top:30px;
+}
+
+
+
+/*NEWS PAGE*/
+
+.two, .news.two {
+	background-image: url(../../images/sitewide/bg-image-01.jpg);
+	height:512px;	
+}
+
+
+.four, .news.four {
+	background-image: url(../../images/sitewide/bg-image-02.jpg);
+	height:380px;
+}
+
+.six, .news.six {
+	background-image: url(../../images/sitewide/02.jpg);
+	height:200px;
+}
+
+.two, .four, .six {
+	background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    width:100%;
+}
+
+
+.three, .five {
+	background-color: #FFFFFF;	
+}
+
+.five {
+	
+	.container {
+		height:420px;
+	}
+	
+	.col-md-6 {
+		padding-left:35px;
+	}
+	
+	.link-archives {
+		margin-top:15px;
+	}
+}
+
+
+.date {
+	color: @oww-light-gray;
+	font-size:@oww-font-size-date;
+
+	
+}
+
+
+
+.blurb {
+	border-right:solid 1px @oww-light-gray;
+	padding-bottom:50px;
+	
+		h2 {
+			color: @oww-poppy;
+			margin-top:0px;
+			
+		}
+		
+		.full-story {
+			display:block;
+			margin-bottom:35px;
+			
+			
+		}
+		
+		a:link, a:visited{
+			color: @oww-poppy !important;
+			font-size: @oww-font-size-menu;
+			text-transform: uppercase;
+			
+		}
+}
+
+.teasers {
+	padding-left:35px;
+	padding-right:30px;
+	
+}
+
+.cover-image {
+	padding-left:40px;
+}
+
+.news-thumbnails {
+
+	padding:0px;
+	
+	li {
+		list-style-type:none;
+		margin-bottom:20px;
+	}
+	
+	img {
+		margin-right: 13px;
+	}
+}
+
+
+.five .col-md-8{
+	padding-top:105px;
+	
+}
+
+
+.link-archives {
+	display:block;
+	height: 60px;
+	color: @oww-poppy;
+	font-size: @oww-font-size-base;
+	font-family: @district-medium;
+	border: solid 1px @oww-light-gray;
+	line-height:60px;
+	margin-bottom:15px;
+	margin-top:40px;
+	text-align:center;
+	text-transform: uppercase;
+}
+//Section 3
+
+
+.three {
+
+	.first-col {
+		border-right:solid 1px @oww-light-gray;
+		padding-top:42px;
+		padding-bottom:42px;
+		padding-right:70px;
+
+	
+	}
+	
+	.second-col  {
+		border-right:solid 1px @oww-light-gray;
+		padding: 42px 35px;
+	}
+	
+	
+	.third-col {
+		border-right:none;
+		padding: 42px 35px;
+		
+	}
+	
+	
+	.media-relations {
+		margin-bottom: 65px;
+		
+			img {
+				margin-top:12px;
+				margin-right:10px;
+			}
+		
+			h3 {
+				margin-bottom:0px;
+			}
+			
+			p {
+				margin:0px;
+			}
+	}
+	
+	.awards-honors {
+		
+		.link-archives {
+			margin-top:90px;	
+		}
+		
+		
+	}
+
+	
+		
+	h3 {
+		
+		margin-top: 25px;
+		margin-bottom: 20px;
+
+	}
+
+}
+
+.latest-releases {
+	/*margin-bottom:45px;*/
+	
+	}
+
+.recent-releases {
+	margin-top:10px;
+		
+	li {
+		padding:13px 0px;
+		border-bottom: solid 1px @oww-light-gray;
+		
+	}
+}
+
+.awards-honors {
+	
+	li {
+		padding:12px 0px;
+		border-bottom: solid 1px @oww-light-gray;
+	}
+}
+
+.upcoming-events {
+	
+	h1 {
+		color: @oww-poppy;
+		font-weight:300;
+		margin-top:55px;
+	}
+}
+
+.first-third-one-third {
+	
+	border-right:solid 1px @oww-light-gray;
+	
+	img {
+		margin-bottom:10px;
+	}
+	
+}
+
+
+/*MARRIOTT PAGE*/
+
+#marriott {
+	
+	.heading {
+		
+		
+		
+		h3 {
+			margin-top:0px;
+		}
+	}
+	
+	.over {
+		display:none !important;
+	}
+	
+	.two {
+		background-image: url(../../images/marriott/bg-image-01.jpg);
+	}
+	
+	.four {
+		background-image: url(../../images/marriott/bg-image-02.jpg);
+		height:200px;
+	}
+	
+	.three {
+		
+		
+		h2{
+			text-align:center;
+			line-height:30px;
+			font-family:@district-thin;
+			
+			
+		}
+		
+		
+	}
+	
+	p.active {
+		margin-left:15px;
+	}
+}
+
+
+.intro {
+			padding: 40px 0px;
+			
+		}
+
+hr {
+	padding:0px;
+	margin:0px;
+	color: @oww-light-gray;
+}		
+
+article.one-third-two-thirds {
+	padding: 30px 0px 60px;
+	
+	h1 {
+		margin-bottom:23px;
+		
+	}
+	
+	ul {
+		margin:12px 0px 20px 0px;
+		padding:0px 0px 0px 30px;
+	}
+}
+
+/*VISION AND LEADERSHIP*/
+
+
+
+
+
+#vision-leadership {
+
+	.two {
+		background-image:url(../../images/vision-leadership/bg-image-01.jpg);
+		
+	}
+	
+	.four {
+		
+		background-image:url(../../images/vision-leadership/bg-image-02.jpg);
+	}
+	
+	.five {
+		
+		.container {
+			height:auto;
+		}
+	}
+	
+	.six {
+		
+		background-image:url(../../images/vision-leadership/bg-image-03.jpg);
+	}
+	
+	h2 {
+		color:@oww-poppy;
+	}
+	
+	.industry-affiliations {
+		
+		h1 {
+			margin:55px 0px 35px;
+			
+			
+		}
+	}
+	
+} 
+
+
+.executive-committee {
+	
+	h1 {
+		margin-top:60px;
+		margin-bottom:20px;
+	}
+	
+	.blurb {
+		
+		border-right:none;
+	}
+	
+	.link-archives {
+		margin-top:10px;
+		
+	}
+	
+	.leaders {
+	padding-top:120px;
+	padding-bottom:55px;
+	
+	}
+
+	ul.leadership-photos {
+	margin-bottom:0px;
+	
+		li {
+		
+			list-style-type:none;
+			
+			}
+	
+		img {
+		
+		margin-bottom:20px;
+		margin-right:20px;	
+		
+		}
+		
+		h3.name {
+			margin-top:0px;
+			margin-bottom:10px;
+		}
+			
+	}
+}
+
+
+
+/*Industry Affiliations*/
+
+.industry-logos {
+	
+	
+}
+
+
+/*BUSINESS SOLUTIONS*/
+
+#business-solutions {
+	
+	.two {
+		background-image:url(../../images/business-solutions/bg-image-01.jpg);
+		height:316px;
+		
+	}
+	
+	.three {
+		
+		h3 {
+			
+			margin-top:0px;
+			margin-bottom:0px;	
+		}
+		
+		h1 {
+		
+		margin-top: 50px;
+		}
+	}
+	
+	.four {
+		
+		background-image:url(../../images/business-solutions/bg-image-02.jpg);
+		height:310px;
+	}
+	
+	.five {
+		
+		h1 {
+			
+			margin-top:50px;
+			margin-bottom:0px;
+			
+		}
+	}
+	
+	.six {
+		
+		background-image:url(../../images/business-solutions/bg-image-03.jpg);
+	}
+	
+	
+	
+	h2 {
+		font-family: @district-thin;
+	}
+	
+	h3 {
+		font-size: 20px;
+		font-family: @district-book;
+		color:white;
+		
+		padding:15px;
+		text-transform: capitalize;
+		width:250px;
+	}
+	
+	h4 {
+		font-size:12px;
+		font-family: @district-book;
+		color: @oww-light-gray;
+		text-transform: uppercase;
+	}
+	
+	.industries {
+		background-color: @oww-poppy;
+		opacity:.9;
+		width:350px;
+		position:relative;
+		bottom:72px;
+		height:75px;	
+		
+		
+	}
+	
+	
+		
+	.industry-text {
+		
+		position:relative;
+		bottom: 50px;
+	}	
+	
+	.additional {
+		
+		h1 {
+			margin-top:0px;
+		}
+	}
+
+}
+
+
+
+/*FOOTER */
+
+footer {
+	
+	
+	section.page-links, section.footer-brands {
+		margin-top:0px;
+		padding-top:50px;	
+	}
+	
+	section.footer-brands {
+		
+		
+	}
+	
+	.footer-lists {
+		font-size:12px;
+		padding:0px;
+		
+		li {
+			list-style-type:none;
+		}
+	}
+	
+	.social-media {
+		
+		li {
+			float:left;
+			margin-right:3px;
+			display:block;
+			width:20px;
+			height:20px;
+		}
+	}
+	
+	.btn-footer {
+		display:block;
+		color:white;
+		background-color: @oww-poppy;
+		text-align:center;
+		text-transform:uppercase;
+		width:140px;
+		height:45px;
+		line-height:42px;
+		margin-right:2px;
+		position:fixed;
+		bottom:0px;
+	}
+	
+	h5 {
+		text-transform:uppercase;
+		color: @oww-light-gray;
+	}
+	
+	.page-links {
+	
+		a:link, a:visited {
+			color:@oww-dark-gray;
+		
+		}
+	
+	}
+	
+	.footer-brands {
+		
+		border-left: solid 1px #bbb;
+	}
+	
+	.orange-link {
+		margin-bottom:80px;
+		display:block;
+	}
+	
+	.icon-housing {
+		margin-right:10px;
+		float:left;
+	}
+	
+	.copyright {
+		
+		p { 
+	
+		font-size:14px;
+		padding-top: 5px;
+		}
+	}
+	
+	
+}
+
+
+/*Accordion Style*/
+
+	.accordion {
+		padding:none;
+	}
+
+
+	
+     
+     .panel-default > .panel-heading {
+	     background-color:white;
+	     border-bottom: solid 1px @oww-light-gray;
+	     border-right: none;
+	     border-top: none;
+	     border-radius:none;
+     }
+     
+     .latest-news .panel-default > .panel-heading {
+	     border-top:none;
+	     
+     }
+     
+     .panel-heading.last-item {
+	     border-bottom: solid 1px @oww-light-gray;
+     }
+ 
+     
+    
+     .panel-default {
+	     border:none;
+     }
+     
+     .panel {
+	     margin-bottom:0px;
+	     box-shadow:none;
+	    
+     }
+     
+     .panel-heading {
+	     border-bottom:none;
+	     border-radius:0px;
+     }
+     
+     
+      .panel-body {
+	       border-bottom: none;
+	       
+      }  
+      
+      .panel-default > .panel-heading + .panel-collapse .panel-body {
+	      border-top:none;
+      }
+      
+/*End Accordion*/
+
+/*Media Queries*/
+
+
+/* Extra Small Screens 1 - 768 */
+
+@media (min-width: 1px) and (max-width: 767px) {
+
+	body {
+		padding-top:65px;
+	}
+	
+	#marriott {
+		
+		.intro {
+	
+			h2 	{
+					padding-left:15px;
+					padding-right:15px;
+					
+				}
+			}
+	
+	}
+	
+	article.one-third-two-thirds {
+    	padding: 30px 0 0;
+		
+	}
+	
+	
+	footer {
+		
+		border-top:solid 1px #bbb;
+		padding-top:20px;
+		margin-top:20px;
+		
+			.btn-footer {
+				display:none;
+				}
+	}
+	
+	#logo {
+		
+		padding-top:15px;
+		padding-left:30px;
+		padding-bottom:15px;
+		
+		img {
+			width:120px;
+		}
+	}
+	
+	.navbar {
+		min-height:65px !important;
+		
+	}
+	
+	.navbar-nav {
+		float:left;
+		padding-left:15px;
+		width:100%;
+		margin-bottom:10px;
+		margin-top:10px;
+		margin-right:0px;
+		
+			li.active {
+				background-color: @oww-light-gray;
+			}
+			
+			li {
+				
+				a {
+					font-size:14px;
+				}
+			}
+		
+	}
+	
+	.navbar-collapse {
+		padding-right:0px;
+		margin-right: -30px;
+	}
+	
+	.container > .navbar-header, .container > .navbar-collapse {
+		margin-right: -30px;
+		
+	}
+	
+	
+	#footer-find-housing {
+		right:375px;
+	}
+
+}
+
+/*Small Screens 768 - 992 */
+
+@media (min-width: 768px) and (max-width: 991px) {
+	
+	.navbar-nav > li > a {
+		font-size:12px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	
+	#logo {
+		
+		img {
+			display:none;
+		}
+	}
+	
+	.navbar-nav {
+		
+		float:left;
+	}
+	
+	article.one-third-two-thirds {
+			
+			ul {
+				margin-bottom:40px;
+			}
+			
+		}
+		
+	.first-third-one-third {
+		
+		.blurb {
+			margin-top:100px;
+		}
+	}
+	
+	#vision-leadership {
+	
+		.industry-affiliations {
+		
+			h1 {
+				margin:5px 0px 35px;
+			
+			
+				}
+			}
+		}
+	
+}
+
+/* Medium Screens 992 - 1200 */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+	.navbar-nav > li > a {
+		font-size: 12px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	
+	#logo {
+		
+		img {
+			width:140px;
+			padding-top:10px;
+		}
+	}
+	
+	.teasers {
+    	padding-left: 20px;
+	}
+	
+	.blurb {
+    	padding-bottom: 5px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	
+	.three {
+		
+		.first-col {
+   
+			padding: 42px 20px 42px 15px;
+		}
+	}
+	
+	#footer-find-housing {
+		right:0px;
+	}
+	
+	#business-solutions {
+	
+		.industries {
+		width:303px;
+		}
+
+	}
+}
+
+/* Large Screens 1200+ */
+
+@media (min-width: 1200px) {
+
+}
+
+/*Small and Medium Screens*/
+
+@media (min-width: 768px) and (max-width: 1200px) {
+
+
+	
+}
+
+
+/*Medium and Large screens */
+
+@media (min-width: 992px)
+{
+    #collapseTwo,  #collapseThree,  #collapseFour, #collapseFive
+    {
+        display: block;
+    }
+    
+    .panel-heading {
+	    display:none;
+    }
+    
+    .panel-body {
+		padding:0px;    
+	    
+    }
+    
+    
+}
+
+/* Extra Small and Small Screens */
+
+@media (max-width:971px) {
+	.three .first-col, .three .second-col  {
+		border-right:none
+	}
+	
+	
+	
+}
+
+
+/*Extra Small, Small and Medium*/
+
+@media (min-width: 1px) and (max-width: 992px) { 
+
+		
+	.executive-committee {
+	
+		.leaders {
+			padding-top:40px;
+			padding-bottom:0px;
+		}
+		
+		
+		.first-third-one-third {
+			padding-left:55px;
+		}
+	}
+	
+	
+	
+	.three {
+	
+
+		.cols, .latest-news, .events-mobile  {
+			padding: 0px !important;
+		}
+		
+		.link-archives {
+			line-height:40px;
+			height:40px;
+			margin:0px;
+		}
+		
+		.awards-honors {
+		
+			.link-archives {
+				margin-top:10px !important;	
+			}
+
+	
+		}
+				
+		
+	}
+
+	.five .col-md-8{
+		padding-top:0px;
+	
+		}
+
+		.five h1 {
+			padding-top:50px;
+	}
+	
+	.heading {
+		padding-left:15px;
+		
+	}
+	
+	.panel-default {
+		
+		padding-left:15px;
+	}
+	
+	footer {
+		margin-left:15px;
+	}
+	
+}   
+
+
+
+/* Small, Medium and Large Screens */
+
+@media (min-width: 768px) {
+		
+	
+}
+
+
+      
+/* Phone - Portrait and Landscape*/      
+     
+@media (min-width: 1px) and (max-width: 480px) { 
+
+	p, li { font-size:90%;}
+                    
+    .heading {
+	    
+	    h1 {
+		    line-height:20px;
+	    }
+    }
+    
+    h1 { 
+    
+    	font-size: @oww-font-size-h1-xs;
+    
+    }
+    
+     h2 { 
+    
+		 font-size: @oww-font-size-h2-xs;
+    
+    }
+    
+     h3 { 
+    
+		 font-size: @oww-font-size-h3-xs;
+    
+    }
+
+	.two {
+	
+		
+		height:200px;
+		background-attachment:scroll;
+	
+	
+	}
+	
+	
+	
+	.intro {
+			padding: 40px 15px 50px;
+			
+		}
+	
+	.executive-committee {
+	
+		.leaders {
+			padding-top:0px;
+			padding-bottom:0px;
+		}
+	}
+	
+	article.one-third-two-thirds {
+		
+		ul {
+			margin-bottom: 20px;
+			padding-left: 15px;
+		}
+	}
+
+}   
+
+
+
+
+
+
+
+
+
+@media (min-width: 481px) and (max-width: 1200px) {
+	
+	h1 {
+		font-size:@oww-font-size-h1-small;
+	}
+	
+	h2 {
+		font-size:@oww-font-size-h2-small;
+	}
+	
+	h3 {
+		font-size:@oww-font-size-h3-small;
+	}
+	
+	
+	
+	p {
+		font-size: 15px;
+	}
+	
+		
+	.three {
+	
+		h3 {
+		font-size: 16px;
+	}	
+	
+		
+		
+		.second-col {
+			padding: 42px 20px;
+		}
+		
+		.third-col {
+			padding: 42px 20px;
+		}
+	}
+} 
+
+
+@media (min-width: 481px) {
+	.find-housing {
+		display:none;
+	}
+}
+
+ /*End Media query*/
