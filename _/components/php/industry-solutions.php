@@ -57,7 +57,7 @@
 											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">	
 												<div class="solutions government">
 													<a href="government.php" class="industry-sections">
-														<img src="images/business-solutions/government.jpg" alt="Man Texting" class="img-responsive" />
+														<img src="images/business-solutions/government.jpg" alt="Man Texting" class="img-responsive " />
 														<header class="industries">
 															<h3>Government</h3>
 															<div class="clearfix"></div>
