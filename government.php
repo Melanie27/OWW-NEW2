@@ -8,6 +8,7 @@
     <!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
+   
      <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">-->
    
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -20,7 +21,7 @@
  
    
   </head>
-  <body id="news">
+  <body id="government">
   <div class="container-full">
   
   		<section class="container landing">
@@ -29,7 +30,7 @@
 				<div class="row heading">
 					<section class="col-lg-12">
 						<div class="container">
-							<h1>News</h1>
+							<h1>Government</h1>
 						</div>
 					</section>		
 				</div><!--heading-->
