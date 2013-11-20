@@ -8,6 +8,7 @@
     <!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
+     <link href="_/css/mystyles_govt.css" rel="stylesheet" media="screen">
    
      <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">-->
    
@@ -34,7 +35,7 @@
 						</div>
 					</section>		
 				</div><!--heading-->
-				<?php include "_/components/php/hero-thirds.php"; ?>
+				<?php include "_/components/php/hero-government.php"; ?>
 		  	</section> <!--two-->	
 		  				
 						
