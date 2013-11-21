@@ -1368,6 +1368,27 @@ footer {
 
 
 
+/*STYLING BACKGROUND IMAGES - FROM LATIS*/
+
+/* iPads (portrait) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+
+	.two, .four, .six, .eight, .ten {
+		background-attachment:scroll;
+		background-position:center; 
+		background-size:768px!important;
+		}
+
+
+	.two {background-position:top;}
+
+
+}
+
+
 /* iPads (landscape) ----------- */
 @media only screen 
 and (min-device-width : 768px) 
@@ -1384,6 +1405,29 @@ and (orientation : landscape) {
 
 
 }
+
+/* Media Queries for Screens with a max size of 768 px */
+
+@media (max-width: 767px) {
+
+.two, .four, .six, .eight, .ten  {
+    background-attachment: scroll;
+    background-position: center center; 
+    background-size: cover;
+}
+
+}
+
+
+/* Media Queries for Screens between 768 and 979 */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+.two {background-position-y: 0px;}
+
+}
+
+/*End Latis*/
 
 
 
