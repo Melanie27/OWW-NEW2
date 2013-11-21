@@ -204,6 +204,7 @@ h2 {
 	}
 	
 	
+	
 }
 
 .overview-sections {
@@ -211,7 +212,21 @@ h2 {
 	h2 {
 		color:@oww-poppy;
 		font-family:@district-light;
+		margin-bottom:20px;
 	}
+	
+	
+}
+
+.overview-gsa {
+	
+	h2 {
+		text-align:center;
+			padding-left:45px;
+			line-height:32px;
+	}
+	
+	
 }
 
 .overview-gsa, .tab-section {
@@ -223,6 +238,7 @@ h2 {
 		h2 {
 			margin:0px;
 			padding-bottom:10px;
+			
 		}
 		
 		h1 {
@@ -231,11 +247,11 @@ h2 {
 		
 		ul {
 			padding-left:0px;
-			margin-top:35px;
+			margin-top:25px;
 		}
 		
 		li {
-			line-height:24px;
+			line-height:30px;
 			font-size:18px;
 			list-style-type:none;
 			padding:0px;
@@ -243,15 +259,57 @@ h2 {
 	
 }
 
+.nav-tabs > li {
+	font-size: @oww-font-size-h2;
+	font-family: @district-thin;
+	color: @oww-dark-gray;
+}
+
+.nav-tabs > li > a {
+	color: @oww-dark-gray;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+	color:@oww-poppy;
+}
+
+
 .govt-cover {
 	margin-right:40px;
 	margin-bottom: 20px;
 }
 
-.nav-tabs > li.active > a{
-	color:@oww-poppy;
+
+.military, .federal-civilian {
+	
+	h1 {
+		margin-top:50px;
+		margin-bottom:10px;
+	}
+	
+	h2 {
+		margin-top:10px;
+		margin-bottom:25px;
+	}
 }
 
+.two-col-text {
+	padding-bottom:30px;
+}
+
+.federal-civilian {
+	padding-bottom:30px;
+}
+
+.military-carousel {
+	
+	h2 {
+		color:@oww-poppy;
+		border-top:solid 1px @oww-light-gray;
+		padding-top:35px;
+		margin-bottom:35px;
+	}
+}
 
 .contact-us {
 	
@@ -259,6 +317,7 @@ h2 {
 	
 	h2 {
 		margin-top:60px;
+		margin-bottom:20px;
 		color: @oww-poppy;
 		font-family: @district-light;
 	}
@@ -274,7 +333,7 @@ h2 {
     width: 350px;
 }
 
-.three {
+.three, .five, .seven {
 
 	.contact-us {
 		
@@ -284,6 +343,8 @@ h2 {
 			text-transform: uppercase;
 			padding-left:0px;
 			padding-bottom:0px;
+			padding-top:0px;
+			margin-top:0px;
 		}
 	}	
 	
@@ -320,6 +381,10 @@ h2 {
 
 /*Carousel*/
 
+.carousel {
+	margin-bottom:63px;
+}
+
 .carousel-caption {
     bottom: 0;
     color: #FFFFFF;
@@ -350,14 +415,47 @@ h2 {
     }
 }
 
-.carousel-control.right {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.5) 100%);
-    background-repeat: repeat-x;
-    left: auto;
-    right: 20px;
+.carousel-control {
+	color: #000;
 }
 
+.carousel-control.right {
+    background-image:none;
+    background-repeat: repeat-x;
+    left: 1110px;
+    
+}
 
+.carousel-control.left {
+	background-image:none;
+	left: -100px;
+}
+
+.carousel-control:hover, .carousel-control:focus {
+	color: #000;
+}
+
+.carousel-control .icon-prev {
+   
+    background-image:url(../../images/icons/carousel-arrow-left.jpg);
+    width:25px;
+    height:50px;
+}
+
+.carousel-control .icon-next {
+   
+    background-image:url(../../images/icons/carousel-arrow-right.jpg);
+    width:25px;
+    height:50px;
+}
+
+.carousel-control .icon-prev:before {
+	 content: "";
+}
+
+.carousel-control .icon-next:before {
+    content: "";
+}
 
 /*Large Screens 1201+*/
 
@@ -389,6 +487,25 @@ h2 {
 			
 			width:100%
 		}
+		
+		.carousel-caption {
+    
+			width:305px;
+    
+		}
+		
+		.carousel-control.right {
+   
+			left: 940px;
+    
+		}
+		
+		.carousel-control.left {
+   
+			left: -75px;
+    
+		}
+
 	
 	
 }
