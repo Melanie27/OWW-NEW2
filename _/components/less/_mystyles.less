@@ -1366,19 +1366,26 @@ footer {
 }
 
 
-/*Mobile*/
-@media (min-width: 1px) and (max-width:1024px) {
-	
-	.two, .four, .six, .eight {
-	background-attachment: scroll;
-    background-position: center center;
-    background-size: cover;
-    background-repeat:no-repeat;
-    width:100%;
+
+
+/* iPads (landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+
+	.two, .four, .six, .eight, .ten {
+		background-attachment:scroll;
+		background-position:center; 
+		background-size:1024px auto;
+		}
+
+.two {background-position-y: -100px;}
+
+
 }
 
-	
-}
+
 
 /* Large Screens 1200+ */
 
