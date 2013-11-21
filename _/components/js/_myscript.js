@@ -1,3 +1,9 @@
+$('.carousel').carousel({
+  interval: false
+});
+
+
+
 $(".collapse").collapse();
 
 
