@@ -56,7 +56,7 @@
 					</div>
 				</div><!--content 4-->
 				
-				<div class="content row">
+				<div class="content row industry-insights">
 					<div class="col-lg-12">
 						<section class="five">
 							<div class="container">

@@ -1,3 +1,10 @@
+/*Scroll to Request Apartment part of page*/
+	/*$('#military1').click(function() {
+		//$("html").animate({ scrollTop: "5000px" }, 1000);
+		console.log('yo');	 
+	});*/
+
+
 $('.carousel').carousel({
   interval: false
 });
@@ -119,4 +126,44 @@ if ( $(window).width() > 992) {
 	$('nav').addClass("navbar-fixed-top");
 
 }*/
+
+
+/*sub-nav*/
+
+/*$('#military1').click(function () {
+	$('.sub-nav').addClass("military-position");
+	console.log('military');
+	
+})*/
+
+/*Scroll to Request Apartment part of page*/
+	$('#overview1').click(function() {
+		$("html").animate({ scrollTop: "420px" }, 1000);
+		console.log('yo');	 
+		$('.sub-nav').addClass("sub-move");
+	});
+	
+	$('#military1').click(function() {
+		$("html").animate({ scrollTop: "2000px" }, 1000);
+		console.log('yo');
+		$('.sub-nav').addClass("sub-move"); 
+	});
+	
+	$('#federal-civilian1').click(function() {
+		$("html").animate({ scrollTop: "3200px" }, 1000);
+		console.log('yo');	
+		$('.sub-nav').addClass("sub-move"); 
+	});
+	
+	$('#government-contractors1').click(function() {
+		$("html").animate({ scrollTop: "4000px" }, 1000);
+		console.log('yo');	 
+		$('.sub-nav').addClass("sub-move"); 
+	});
+	
+	$('#gsa1').click(function() {
+		$("html").animate({ scrollTop: "4900px" }, 1000);
+		console.log('yo');	 
+		$('.sub-nav').addClass("sub-move");	  
+	});
 

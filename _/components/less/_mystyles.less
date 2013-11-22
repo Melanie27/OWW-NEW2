@@ -154,6 +154,10 @@ body {
     
 }
 
+body#government {
+	padding-top:0px;
+}
+
 
 .container-full {
   margin: 0 auto;
@@ -1450,7 +1454,7 @@ and (orientation : landscape) {
 
 @media (min-width: 992px)
 {
-    #collapseTwo,  #collapseThree,  #collapseFour, #collapseFive
+    #collapseTwo,  #collapseThree,  #collapseFour, #collapseFive, #government #collapseOne
     {
         display: block;
     }
@@ -1609,6 +1613,15 @@ and (orientation : landscape) {
 	
 	}
 	
+	.industry-insights {
+		
+		h1 {
+					padding-top:20px;
+					margin-top:20px;
+					border-top:solid 1px @oww-light-gray;
+				}
+	}
+	
 	#business-solutions {
 	
 		.three {
@@ -1642,14 +1655,7 @@ and (orientation : landscape) {
 				margin-top:20px;
 				}
 				
-			.five {
 			
-				h1 {
-					padding-top:20px;
-					margin-top:20px;
-					border-top:solid 1px @oww-light-gray;
-				}
-		}
 		
 		.solutions {
 			height:320px;

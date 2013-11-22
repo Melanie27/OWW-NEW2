@@ -184,17 +184,35 @@ h2 {
 }
 /*Navigation*/
 
-.sub-navigation {
+.sub-nav {
 	
 	.navbar-nav {
 		float:none;
-		font-size:21px;
+		height: 75px !important;
+		
 	}
 	
 	.navbar-fixed-top {
 			
 	}
+	
+	.navbar-nav > li > a {
+		font-size:21px;
+		padding:25px;
+	}
 }
+
+.sub-move {
+	position:fixed;
+	top:105px;
+}
+
+.military-position {
+	
+	border:solid 1px red;
+	top:560px;
+}
+
 
 .overview {
 	
@@ -278,6 +296,8 @@ h2 {
 	margin-right:40px;
 	margin-bottom: 20px;
 }
+
+
 
 
 .military, .federal-civilian {
@@ -458,6 +478,19 @@ h2 {
 }
 
 /*Large Screens 1201+*/
+
+@media (min-width: 1px) and (max-width:768px) {
+	.overview-gsa {
+	
+		h2 {
+			text-align:left;
+			padding-left:0px;
+			line-height:20px;
+		}	
+	
+}
+
+}
 
 @media (min-width:1201px) {
 	

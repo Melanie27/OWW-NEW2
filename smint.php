@@ -1,14 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>OWW Project</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+<head>
+  <title>OWW Project</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <!-- Bootstrap -->
+<!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
-    <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
-     <link href="_/css/mystyles_govt.css" rel="stylesheet" media="screen">
+     <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
+    <link href="_/css/mystyles_govt.css" rel="stylesheet" media="screen">
+    
+    
    
      <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">-->
    
@@ -18,15 +20,37 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-  
- 
-   
-  </head>
-  <body id="government">
-  <div class="container-full">
-  
-  		<section class="container landing">
-		  	<?php include "_/components/php/header.php"; ?>
+
+<link href="_/css/smint-demo.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body id="government">
+<div class="container-full">
+<section class="container landing">
+
+
+
+
+
+
+	<div class="wrap">
+
+	 	 <section class="subMenu-smint" >
+		 	 <div class="inner">
+			 	 <a href="#" id="sTop" class="subNavBtn">Home</a> 
+			 	 <a href="#" id="s1" class="subNavBtn">Overview</a>
+			 	 <a href="#" id="s2" class="subNavBtn">Military</a>
+			 	 <a href="#" id="s3" class="subNavBtn">Federal Civilian</a>
+			 	 <a href="#" id="s4" class="subNavBtn">Government Contractors</a>
+			 	 <a href="#" id="s5" class="subNavBtn end">GSA Schedule 48</a>
+			 </div><!--end inner-->	
+		</section><!--end submenu-->
+
+
+		<div class="section sTop">
+			<div class="inner">
+				<?php include "_/components/php/header.php"; ?>
 		  	<section class="two">
 				<div class="row heading">
 					<section class="col-lg-12">
@@ -37,52 +61,33 @@
 				</div><!--heading-->
 				<?php include "_/components/php/hero-government.php"; ?>
 		  	</section> <!--two-->	
-		  				
-						
-			<div class="container">
-				<section class="row">
-					<div class="col-lg-12">
-				
-						<nav class="navbar navbar-default sub-nav" role="navigation">
-					
-							<!-- Collect the nav links, forms, and other content for toggling -->
-							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-								<ul class="nav navbar-nav">
-									<li id="overview1" class="active"><a href="#overview">Overview</a></li>
-									<li id="military1"><a href="#">Military</a></li>
-									<li id="federal-civilian1"><a href="#federal-civilian">Federal Civilian</a></li>
-									<li id="government-contractors1"><a href="#government-contractors">Government Contractors</a></li>
-									<li id="gsa1"><a href="#gsa">GSA Schedule 48</a></li>
-									
-								</ul>
-							</div><!-- /.navbar-collapse -->
-						</nav>
-
-					</div>
-				</section>
 			</div>
-			
-			
-			<div class="container">
-				<?php include "_/components/php/government-overview.php"; ?>
-			</div><!--end container-->
-					
-				
+		</div><!--end stop-->
+
+
+		<div class="section s1">
+			<div class="inner">
+				<div class="container">
+					<?php include "_/components/php/government-overview.php"; ?>
+				</div><!--end container-->
 				<div class="content row">
 					<div class="col-lg-12 col-md-12">
 						<section class="four hidden-sm hidden-xs">
 						</section>
 					</div>
 				</div><!--content 4-->
-				
-				
 				<div class="row industry-insights">
 					<section class="col-sm-12 hidden-lg hidden-md">
 						<h1>Industry Insights</h1>
 						<?php include "_/components/php/industry-insights.php"; ?>
 					</section>
-				</div>
+				</div><!--end industry insights-->
 				
+			</div>
+		</div><!--end s1-->
+
+		<div class="section s2">
+			<div class="inner">
 				
 				<!--ACCORDION-->
 				<div class="row">
@@ -95,14 +100,17 @@
 						</section>
 					</div>
 				</div><!--content 6-->
-				
-		
+			
+			</div>
+		</div><!--end s2-->
+
+		<div class="section s3">
+			<div class="inner">
 				<!--Federal Civilian Accordion Panel-->
 				
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
-															
+				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">										
 						<?php include "_/components/php/government-federal-civilian.php"; ?>
-					</section>
+				</section>
 					
 				
 				<div class="content row">
@@ -111,9 +119,12 @@
 						</section>
 					</div>
 				</div><!--content 8-->
-				
-				
-			<!--Government Contractors Accordion Panel-->
+			</div>
+		</div><!--end s3-->
+
+		<div class="section s4">
+			<div class="inner">
+				<!--Government Contractors Accordion Panel-->
 				
 			<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">		
 				<?php include "_/components/php/government-government-contractors.php"; ?>													</section>
@@ -124,7 +135,11 @@
 					</section>
 				</div>
 			</div><!--content 10-->
-				
+			</div>
+		</div><!--end s4-->
+
+		<div class="section s5">
+			<div class="inner">
 				<!--GSA Schedule 48 Accordion Panel-->
 				
 				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
@@ -139,18 +154,29 @@
 						</section>
 					</div>
 				</div><!--content 12-->
+			</div>
+		</div><!--end s5-->
 
 
-				
-				
-				<?php include "_/components/php/footer.php"; ?>	
-
-  			
-  		
-  	</section><!-- container -->
+	</div><!--wrap-->
+	
+	<?php include "_/components/php/footer.php"; ?>	
+</section><!-- container -->
   	
-  </div>
-  	<script src="_/js/bootstrap.js"></script>
-  	<script src="_/js/myscript.js"></script>
-  </body>
+</div>	
+
+	<script src="_/js/bootstrap.js"></script>
+	<script src="_/js/myscript.js"></script>
+	<script type="text/javascript" 	src="_/js/jquery.smint.js"></script>
+	
+	<script type="text/javascript">
+	
+		$(document).ready( function() {
+			$('.subMenu-smint').smint({
+				'scrollSpeed' : 1000
+			});
+		});
+
+	</script>
+</body>
 </html>
