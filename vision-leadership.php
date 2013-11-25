@@ -37,6 +37,12 @@
 							<?php include "_/components/php/hero-halves.php"; ?>
 		  				</section> <!--two container-->	
 		  				
+		  				
+		  				<section class="hidden-lg hidden-md hidden-sm col-md-6 col-xs-12 hero-halves">
+							<h1>2013</h1>
+							<h2>Oakwood Worldwide</h2>
+							<p>Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor.</p>
+						</section><!--End two halves-->
 						
 							<section class="three container">
 								<div class="row over2">
@@ -44,9 +50,15 @@
 											<?php include "_/components/php/executive-committee.php"; ?>												
 									</section>
 								</div><!--row-->
+								<div class="row archives">
+									<div class="hidden-lg hidden-md hidden-sm col-xs-10 col-xs-offset-1">
+										<a class="link-archives text-center" href="#">View All Executive Bios</a>
+									</div>
+								</div>
 							</section><!--three-->
 						
-					
+					<hr>
+				
 				
 				<div class="content row">
 					<div class="col-lg-12">
@@ -62,6 +74,11 @@
 								
 								
 								<?php include "_/components/php/industry-affiliations.php"; ?>	
+								<div class="row archives">
+									<div class="hidden-lg hidden-md hidden-sm col-xs-8 col-xs-offset-2">
+										<a class="link-archives learn-more text-center" href="#">Learn More</a>
+									</div>
+								</div>
 
 							</div><!--container-->
 						</section><!--five-->
@@ -71,7 +88,7 @@
   				
   				<div class="content row">
 					<div class="col-lg-12">
-						<section class="six hidden-sm hidden-xs">
+						<section class="six hidden-sm">
 						</section>
 					</div>
 				</div><!--content 6-->

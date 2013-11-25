@@ -3,36 +3,30 @@
 		
 		
 		<section class="row">
-		<div class="col-lg-12 col-md-12 col-sm-6">		
-		
+			<div class="col-lg-12 col-md-12 col-sm-6">		
 				<h1>Executive Committee</h1>
-				<img src="images/news/upcoming-events-01.jpg" alt="upcoming-events-01" class="img-responsive">
-		</div>		
+				<img src="images/news/upcoming-events-01.jpg" alt="upcoming-events-01" class="img-responsive hidden-xs">
+			</div>		
 		
-		<div class="col-lg-12 col-md-12 col-sm-6">		
+			<div class="col-lg-12 col-md-12 col-sm-6 hidden-xs">		
 				
 				<p class="blurb">Sed aucto lorem ipsum dolore sit amet ndisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posu aesent. Vestibulum ante ipsum primis in faucibus orci luctus.</p>
-				
-			
-		
-		
-			<div class="row archives">
-				<div class="col-md-12 col-sm-12">
-					<a class="link-archives text-center" href="#">View All Executive Bios</a>
+						
+				<div class="row archives">
+					<div class="col-md-12 col-sm-12">
+						<a class="link-archives text-center" href="#">View All Executive Bios</a>
+					</div>
+				</div>
+				<div class="row archives">
+					<div class="col-md-12 col-sm-12">
+						<a class="link-archives text-center" href="#">Meet Our Regional Leadership</a>
+					</div>
 				</div>
 			</div>
-			<div class="row archives">
-				<div class="col-md-12 col-sm-12">
-					<a class="link-archives text-center" href="#">Meet Our Regional Leadership</a>
-				</div>
-			</div>
-		</div>
-		</section>
-			
-		
-										
+		</section>									
 	</div>
-	<div class="col-lg-4 col-md-4 col-sm-6 leaders top">
+	
+	<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 leaders top">
 		<ul class="leadership-photos">
 			<li class="clearfix">
 				<img src="images/vision-leadership/_players/howard-ruby-tb.jpg" alt="Howard Ruby" class="pull-left" />
@@ -57,7 +51,7 @@
 			</li>
 		</ul>
 	</div>
-	<div class="col-lg-4 col-md-4 col-sm-6">
+	<div class="col-lg-4 col-md-4 col-sm-6 leaders bottom">
 		<ul class="leadership-photos leaders">
 			<li class="clearfix">
 				<img src="images/vision-leadership/_players/ric-villarreal-tb.jpg" alt="Ric Villarreal" class="pull-left" />
