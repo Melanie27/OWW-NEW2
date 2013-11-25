@@ -39,7 +39,7 @@
 		  	</section> <!--two-->	
 		  				
 						
-			<div class="container">
+			<div class="container hidden-sm hidden-xs">
 				<section class="row">
 					<div class="col-lg-12">
 				
@@ -60,7 +60,7 @@
 
 					</div>
 				</section>
-			</div>
+			</div><!--end sub-nav-->
 			
 			
 			<div class="container">

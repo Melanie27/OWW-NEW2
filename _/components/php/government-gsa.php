@@ -15,7 +15,7 @@
 									<div class="container">
 										<section class="row">								
 											<div class="col-lg-8 col-md-8 two-col-text">
-												<h1>GSA Schedule 48</h1>
+												<h1 class="hidden-xs hidden-sm">GSA Schedule 48</h1>
 												<h2>What's the military's secret weapon? A home base away from home. Not just comfort efficiency. Not just amenities capabilities.</h2>
 												<img src="images/government/cover-story-federal-civilian.jpg" alt="cover-story-military" class="img-responsive pull-left govt-cover">
 												<p>From San Diego to Fort Belvoir, from London to Seoul: Oakwood has empowered military organizations with customized lodging solutions for 50 years offering efficient, stress-free procurement through the Defense Travel System, GSA Schedule 48, and all major Global Distribution Stystems.</p>

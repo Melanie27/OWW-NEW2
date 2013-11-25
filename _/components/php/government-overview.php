@@ -2,7 +2,7 @@
 								<div class="row over2">
 									<section class="col-lg-12 col-md-12">
 										<div class="row overview-top">
-											<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12 no-left-padding" >
+											<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12 no-padding" >
 												<h1>Extended Stay Lodging for the Federal Government</h1>
 												<h2>For over 50 years, Oakwood Worldwide has given those who serve America a place they could call home.</h2>
 												<p>As the first, largest and leading provider of extended stay lodging (ESL) solutions to the federal government, Oakwood offers a welcoming environment for government employees, with convenient locations, and access to various transportation options.</p>
@@ -27,7 +27,7 @@
 											<section class="col-lg-12 hidden-xs">
 												<h2>Proudly Serving:</h2>
 											</section>
-											<section class="col-lg-4 col-md-4 col-sm-6 col-xm-12 no-left-padding">
+											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12 no-left-padding">
 												<div class="solutions military">
 													<a href="#" class="industry-sections">
 														<img src="images/government/overview-01.jpg" alt="Woman Texting" class="img-responsive" />
@@ -42,7 +42,7 @@
 													</section>
 												</div><!--end military-->
 											</section>
-											<section class="col-lg-4 col-md-4 col-sm-6 col-xm-12">
+											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 												<div class="solutions military">
 													<a href="#" class="industry-sections">
 														<img src="images/government/overview-02.jpg" alt="Woman Texting" class="img-responsive" />
@@ -57,7 +57,7 @@
 													</section>
 												</div><!--end military-->
 											</section>
-											<section class="col-lg-4 col-md-4 col-sm-6 col-xm-12 big-left no-right-padding">
+											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12 big-left no-right-padding">
 												<div class="solutions military">
 													<a href="#" class="industry-sections">
 														<img src="images/government/overview-03.jpg" alt="Woman Texting" class="img-responsive" />
@@ -75,7 +75,7 @@
 										</div>
 										
 										<div class="row overview-gsa">
-											<section class="col-lg-11 col-md-11">
+											<section class="col-lg-11 col-md-11 col-xs-12">
 												<h2>Oakwood Worldwide is an approved <a href="#">GSA Schedule 48</a> vendor and proud to be an extended stay lodging provider for FedRooms with rates that fall within TDY and most PCS per diems.</h2>
 												<a href="#" class="orange-link col-lg-offset-6 col-md-offset-6">Learn More--></a>
 											</section>
