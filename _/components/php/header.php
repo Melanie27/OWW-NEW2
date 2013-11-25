@@ -10,7 +10,7 @@
 				<span class="icon-bar"></span>
 			</button>
          
-		  	<button class="btn find-housing" type="button" >Find Housing</button>
+		  	<button class="btn find-housing" type="button" ></button>
 		  	<a href="index.php" id="logo" >
 			  	<img src="images/sitewide/logo-oww.jpg" alt="Oakwood Worldwide Logo"/>
 			</a>	

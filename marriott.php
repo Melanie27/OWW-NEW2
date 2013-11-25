@@ -39,26 +39,42 @@
 						<?php include "_/components/php/hero.php"; ?>
 		  			</section> <!--two container-->	
 						
+						<div class="content row">
+							<div class="col-lg-12 intro">
+								<h2>Oakwood Worldwide is proud to be Marriott International's preferred corporate housing provider. Through this partnership, you and your guests enjoy greater flexibility and a broader variety of housing options - for immediate placement, long term relocation and everything in between.</h2>
+								<section class="three-a hidden-lg hidden-md hidden-sm">
+								</section>
+							</div>
+						</div><!--content 3-a-->
+					
+						
 							<section class="three container">
 								<div class="row over2">
 									<section class="col-lg-12 col-md-12">
 										<div class="row">
-											<section class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1 intro">
+											<section class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1 intro hidden-xs">
 												<h2>Oakwood Worldwide is proud to be Marriott International's preferred corporate housing provider. Through this partnership, you and your guests enjoy greater flexibility and a broader variety of housing options - for immediate placement, long term relocation and everything in between.</h2>
 											</section><!-- end intro-->
 										</div><!--end nested row-->
 										<hr>
+										
+										
+										
 										<article class="one-third-two-thirds">
 											<div class="row">
-												<section class="col-lg-8 col-md-9">
+												<section class="col-lg-8 col-md-9 hidden-xs">
 													<h1>Oakwood Worldwide guests benefit from:</h1>
 												</section>
 											</div><!--end nested row-->
+											
+											
+											
 											<div class="row">
-												<section class="col-lg-4 col-md-5 col-sm-6">
+												<section class="col-lg-4 col-md-5 col-sm-6 hidden-xs">
 													<img src="images/marriott/marriott-international-01.png" alt="Marriott Building">
 												</section>
 												<section class="col-lg-8 col-md-7 col-sm-6">
+													<h1 class="hidden-lg hidden-md hidden-sm">Oakwood Worldwide guests benefit from:</h1>
 													<ul class="two-col-bullets">
 														<li>Direct access to nearly 4,000 additional Marriott International locations worldwide</li>
 														<li>A seamless experience with coordination of all stay requirements</li>
@@ -79,7 +95,7 @@
 				
 				<div class="content row">
 					<div class="col-lg-12">
-						<section class="four hidden-sm hidden-xs">
+						<section class="four hidden-sm">
 						</section>
 					</div>
 				</div><!--content 4-->
