@@ -9,7 +9,6 @@
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
      <link href="_/css/mystyles_govt.css" rel="stylesheet" media="screen">
-   
      <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">-->
    
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -35,11 +34,11 @@
 						</div>
 					</section>		
 				</div><!--heading-->
-				<?php include "_/components/php/hero-government.php"; ?>
+					<?php include "_/components/php/hero-government.php"; ?>
 		  	</section> <!--two-->	
-		  				
-						
-			<div class="container hidden-sm hidden-xs">
+		  	
+		  	
+		  	<div class="container hidden-sm hidden-xs">
 				<section class="row">
 					<div class="col-lg-12">
 				
@@ -61,20 +60,18 @@
 					</div>
 				</section>
 			</div><!--end sub-nav-->
-			
-			
-			<div class="container">
+		  	
+		  				
+		  	<div class="container">
 				<?php include "_/components/php/government-overview.php"; ?>
 			</div><!--end container-->
-					
-				
-				<div class="content row">
+			
+			<div class="content row">
 					<div class="col-lg-12 col-md-12">
 						<section class="four hidden-sm hidden-xs">
 						</section>
 					</div>
 				</div><!--content 4-->
-				
 				
 				<div class="row industry-insights">
 					<section class="col-sm-12 hidden-lg hidden-md">
@@ -82,7 +79,6 @@
 						<?php include "_/components/php/industry-insights.php"; ?>
 					</section>
 				</div>
-				
 				
 				<!--ACCORDION-->
 				<div class="row">
@@ -96,7 +92,7 @@
 					</div>
 				</div><!--content 6-->
 				
-		
+				
 				<!--Federal Civilian Accordion Panel-->
 				
 				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
@@ -113,7 +109,7 @@
 				</div><!--content 8-->
 				
 				
-			<!--Government Contractors Accordion Panel-->
+				<!--Government Contractors Accordion Panel-->
 				
 			<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">		
 				<?php include "_/components/php/government-government-contractors.php"; ?>													</section>
@@ -124,24 +120,53 @@
 					</section>
 				</div>
 			</div><!--content 10-->
+			
+			<!--GSA Schedule 48 Accordion Panel-->
 				
-				<!--GSA Schedule 48 Accordion Panel-->
 				
-				<!--<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
-					<?php include "_/components/php/government-gsa.php"; ?>
 				
-				</section>-->
-			</div><!--end row that holds accordion-->		
+				
+							
+		  				
+						
+						<div class="container">
+							<section class="three">
+								<div class="row over2">
+									<section class="col-lg-12 col-md-12 news-columns" style="padding-left:0px;">
+										<?php include "_/components/php/industry-solutions.php"; ?>
+									</section>
+								</div><!--row-->
+							</section><!--three-->
+						</div>
+					
 				
 				<div class="content row">
 					<div class="col-lg-12">
-						<section class="eight hidden-sm hidden-xs">
+						<section class="four hidden-sm hidden-xs">
 						</section>
 					</div>
-				</div><!--content 12-->
-
-
+				</div><!--content 4-->
 				
+				<div class="content row industry-insights">
+					<div class="col-lg-12">
+						<section class="five">
+							<div class="container">
+								
+								<h1>Industry Insights</h1>
+								<?php include "_/components/php/industry-insights.php"; ?>	
+
+							</div><!--container-->
+						</section><!--five-->
+					</div>
+				</div>
+  				
+  				
+  				<div class="content row">
+					<div class="col-lg-12">
+						<section class="six hidden-sm hidden-xs">
+						</section>
+					</div>
+				</div><!--content 6-->
 				
 				<?php include "_/components/php/footer.php"; ?>	
 
