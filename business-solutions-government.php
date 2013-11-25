@@ -123,7 +123,12 @@
 			
 			<!--GSA Schedule 48 Accordion Panel-->
 				
-				
+				<div class="content row">
+					<div class="col-lg-12">
+						<section class="eight hidden-sm hidden-xs">
+						</section>
+					</div>
+				</div><!--content 12-->
 				
 		</div><!--end row that holds accordion-->	
 							
@@ -135,12 +140,7 @@
 				
 				
   				
-  				<div class="content row">
-					<div class="col-lg-12">
-						<section class="eight hidden-sm hidden-xs">
-						</section>
-					</div>
-				</div><!--content 12-->
+  				
   				
 				
 				<?php include "_/components/php/footer.php"; ?>	

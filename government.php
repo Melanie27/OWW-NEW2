@@ -127,10 +127,10 @@
 				
 				<!--GSA Schedule 48 Accordion Panel-->
 				
-				<!--<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
+				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
 					<?php include "_/components/php/government-gsa.php"; ?>
 				
-				</section>-->
+				</section>
 			</div><!--end row that holds accordion-->		
 				
 				<div class="content row">
