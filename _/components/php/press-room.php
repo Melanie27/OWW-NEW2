@@ -29,7 +29,7 @@
 															</section><!--Latest Releases-->
 															<div class="clearfix"></div>
 															<?php include "_/components/php/recent-releases.php"; ?>
-															<?php include "_/components/php/btn-view-archives.php"; ?>
+															<?php include "_/components/php/btn-see-all.php"; ?>
 														</div><!--panel body-->
 													</div><!--Collapse Two-->
 												</div><!--panel-->

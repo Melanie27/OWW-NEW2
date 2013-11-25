@@ -379,6 +379,8 @@ nav.navbar-fixed-top {
 }
 
 
+
+
 /*HEADER OVERLAY*/
 
 #home .over, #vision-leadership .over {
@@ -459,7 +461,7 @@ nav.navbar-fixed-top {
 }
 
 .six, .news.six {
-	background-image: url(../../images/sitewide/02.jpg);
+	background-image: url(../../images/sitewide/bg-image-03.jpg);
 	height:200px;
 }
 
@@ -471,6 +473,27 @@ nav.navbar-fixed-top {
     width:100%;
 }
 
+
+.media-relations.phone {
+	padding-left:15px;
+	padding-right:15px;
+	
+	img {
+		
+		margin-right:15px;
+	}
+	
+	h3 {
+		
+		margin-top:0px;
+		margin-bottom:5px;
+	}
+	
+	p {
+		margin-bottom:0px;
+		margin-top:0px;
+	}
+}
 
 .three, .five {
 	background-color: #FFFFFF;	
@@ -1105,7 +1128,7 @@ footer {
      }
      
      .panel-heading.last-item {
-	     border-bottom: solid 1px @oww-light-gray;
+	     border-bottom: none;
      }
  
      
@@ -1133,7 +1156,19 @@ footer {
       
       .panel-default > .panel-heading + .panel-collapse .panel-body {
 	      border-top:none;
+	      padding-top:0px;
+	      border-bottom: solid 1px @oww-light-gray;
       }
+      
+      .panel-title {
+      
+      	a {
+	      	text-decoration:none;
+      	}
+      
+      }
+      
+      
       
 /*End Accordion*/
 
@@ -1165,6 +1200,11 @@ footer {
 	h3 {
 		font-size:@oww-font-size-h3-small;
 	}
+	
+	.two {
+		height:200px;
+		background-attachment:scroll;
+	}
 
 	.five {
 		
@@ -1173,10 +1213,18 @@ footer {
 		}
 	}
 	
+	.six {
+		height:85px;
+	}
 	
 	.teasers {
 		padding-left:0px;
 		
+ 	}
+ 	
+ 	.link-archives.see-all {
+	 	margin-bottom:25px;
+	 	margin-top:15px;
  	}
 	
 	#marriott {
@@ -1680,7 +1728,7 @@ and (orientation : landscape) {
 	
 	.panel-default {
 		
-		padding-left:15px;
+		padding-left:0px;
 	}
 	
 	footer {
@@ -1740,14 +1788,7 @@ and (orientation : landscape) {
     
     }
 
-	.two {
-	
-		
-		height:200px;
-		background-attachment:scroll;
-	
-	
-	}
+
 	
 		
 	.industry-insights {

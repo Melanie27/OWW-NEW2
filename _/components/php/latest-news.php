@@ -5,7 +5,7 @@
 												<div class="panel-heading collapse1" id="collapse1">
 													<h1 class="title1 panel-title">
 														<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="collapser">
-															<h1 class="accords">Latest News</h1>
+															<h1 class="accords">Latest</h1>
 															<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseOne" id="btn-1"></button>
 														</a>
 														<div class="clearfix"></div>
@@ -21,7 +21,10 @@
 														</section><!--Latest Releases-->
 											
 											
+														<div class="hidden-xs">
 														<?php include "_/components/php/btn-view-archives.php"; ?>
+														</div>
+													
 													</div><!--panel body-->
 												</div><!--Collapse One-->
 											</div><!--panel-->

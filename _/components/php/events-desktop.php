@@ -8,9 +8,9 @@
 									</div>
 									<div class="col-md-8 col-sm-12 two-thirds-one-third">
 										<div class="row">
-											<div class="col-md-6 col-sm-6">
+											
 												<?php include "_/components/php/upcoming-events.php"; ?>												
-											</div>
+											
 											<div class="row">
 												<div class="col-md-6 col-md-offset-3 col-sm-10 col-sm-offset-1">
 													<a href="#" class="link-archives">All 2013 Events</a>

@@ -122,7 +122,7 @@
 	<!--Buttons Visible xs screens-->
 	
 	<footer>
-	<div class="row hidden-lg hidden-md hidden-sm">
+	<div class="row hidden-lg hidden-md hidden-sm hidden-xs">
 		<section class="col-lg-4 col-lg-offset-2 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-2 col-xs-6">
 			<a href="#" class="btn-footer" id="footer-find-housing">Find Housing</a>
 		</section>

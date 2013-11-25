@@ -29,7 +29,7 @@
 																		</ul>
 																	</section>
 																</div>		
-																<?php include "_/components/php/btn-view-archives.php"; ?>
+																<?php include "_/components/php/btn-see-all.php"; ?>
 															</section><!--Awards and Honors-->
 															
 														</div><!--panel body-->
