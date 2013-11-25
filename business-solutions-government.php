@@ -125,48 +125,23 @@
 				
 				
 				
-				
+		</div><!--end row that holds accordion-->	
 							
 		  				
 						
-						<div class="container">
-							<section class="three">
-								<div class="row over2">
-									<section class="col-lg-12 col-md-12 news-columns" style="padding-left:0px;">
-										<?php include "_/components/php/industry-solutions.php"; ?>
-									</section>
-								</div><!--row-->
-							</section><!--three-->
-						</div>
-					
+											
 				
-				<div class="content row">
-					<div class="col-lg-12">
-						<section class="four hidden-sm hidden-xs">
-						</section>
-					</div>
-				</div><!--content 4-->
 				
-				<div class="content row industry-insights">
-					<div class="col-lg-12">
-						<section class="five">
-							<div class="container">
-								
-								<h1>Industry Insights</h1>
-								<?php include "_/components/php/industry-insights.php"; ?>	
-
-							</div><!--container-->
-						</section><!--five-->
-					</div>
-				</div>
-  				
+				
+				
   				
   				<div class="content row">
 					<div class="col-lg-12">
-						<section class="six hidden-sm hidden-xs">
+						<section class="eight hidden-sm hidden-xs">
 						</section>
 					</div>
-				</div><!--content 6-->
+				</div><!--content 12-->
+  				
 				
 				<?php include "_/components/php/footer.php"; ?>	
 
