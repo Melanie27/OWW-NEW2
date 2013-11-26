@@ -52,43 +52,37 @@
 		  				
 						
 							<div class="container">
-							<section class="three">
-								<div class="row over2">
-									<section class="col-lg-12 col-md-12 news-columns" style="padding-left:0px;">
-
-										<div class="row">
-											<section class="col-lg-8 col-md-8 col-xs-12">
-												<h1>Our Brands: Oakwood and ExecuStay</h1>
-												<p>Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum.</p>
-												<div class-"row">
-													<section class="col-lg-6 col-md-6 col-xs-12">
-														<img src="images/homepage/logo-oakwood-homepage.jpg" alt="logo-oakwood-homepage" width="234" height="86">
-													</section>
-													<section class="col-lg-6 col-md-6 col-xs-12">
-														<img src="images/homepage/logo-execustay-homepage.jpg" alt="logo-execustay-homepage" width="256" height="86">
-													</section>
-												</div><!--end nested logos-->
-											</section><!--end two thirds-->
-											<section class="col-lg-4 col-md-4 col-xs-12">
-												<div class="solutions promo-video">
-													<a href="#" class="industry-sections">
-														<img src="images/homepage/video-promo.jpg" alt="video-promo" class="img-responsive">												<header class="industries">
-															<h3>Promo Video Title Lorem Ipsum Dolore Sit Amet</h3>
-															<div class="clearfix"></div>
-														</header>
-													</a>
-													
-												</div><!--end consulting-->
-											</section>
-										</div><!--end nested row-->
-										
-										
-										
-										
-									</section>
-								</div><!--row-->
-							</section><!--three-->
-						</div>
+								<section class="three">
+									<div class="row over2">
+										<section class="col-lg-12 col-md-12" style="padding-left:0px;">
+											<div class="row">
+												<section class="col-lg-7 col-md-8 col-xs-12">
+													<h1>Our Brands: Oakwood and ExecuStay</h1>
+													<p>Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum.</p>
+													<div class="row">
+														<section class="col-lg-5 col-md-5 col-sm-6 col-xs-6 logos">
+															<img src="images/homepage/logo-oakwood-homepage.jpg" alt="oakwood" class="logo">
+														</section>
+														<section class="col-lg-5 col-md-5 col-sm-6 col-xs-6 logos">
+															<img src="images/homepage/logo-execustay-homepage.jpg" alt="execustay" class="logo">
+														</section>
+													</div><!--end nested logos-->
+												</section><!--end two thirds-->
+												<section class="col-lg-4 col-lg-offset-1 col-md-4 col-sm-6 col-xs-6">
+													<div class="solutions promo-video">
+														<a href="#" class="industry-sections">
+															<img src="images/homepage/video-promo.jpg" alt="video-promo" class="img-responsive">												<header class="industries">
+																<h3>Promo Video Title Lorem Ipsum Dolore Sit Amet</h3>
+																<div class="clearfix"></div>
+															</header>
+														</a>
+													</div><!--end consulting-->
+												</section>
+											</div><!--end nested row-->
+										</section>
+									</div><!--row-->
+								</section><!--three-->
+							</div><!--container-->
 
 						
 					
@@ -100,12 +94,9 @@
 					</div>
 				</div><!--content 4-->
 				
-				<div class="content row hidden-sm hidden-xs">
-					<div class="col-lg-12">
-						<section class="five">
-							<div class="container">
-								
-								
+				<div class="row hidden-sm hidden-xs">
+					<section class="col-lg-12 five">
+						<div class="container">	
 							<section class="row one-third-two-thirds">
 								<div class="col-lg-4 col-md-4 hidden-sm first-third-one-third">
 									<h1><a href="vision-leadership.php">Vision & Leadership</a></h1>
@@ -120,13 +111,10 @@
 								<div class="col-lg-4 col-md-4">
 									<h1>Industry Insights</h1>
 									<?php include "_/components/php/news-thumbs.php"; ?>												
-								</div>
-									
+								</div>	
 							</section>
-
-							</div><!--container-->
-						</section><!--five-->
-					</div>
+						</div><!--container-->						
+					</section><!--end five-->
 				</div>
   				
   				
@@ -136,31 +124,30 @@
 						</section>
 					</div>
 				</div><!--content 6-->
-				
-				<section class="row">
-					<div class="col-lg-12">
-						<section class="row seven">
-							<div class="col-lg-4 col-md-4 col-xs-12">
-								<img src="images/homepage/promo-1.jpg" alt="promo-1" width="350" height="170">
-							</div>
-						</section>
-						<section class="row">
-							<div class="col-lg-4 col-md-4 col-xs-12">
-								<img src="images/homepage/promo-1.jpg" alt="promo-1" width="350" height="170">
-							</div>
-						</section>
-						<section class="row">
-							<div class="col-lg-4 col-md-4 col-xs-12">
-								<img src="images/homepage/promo-1.jpg" alt="promo-1" width="350" height="170">
-							</div>
-						</section>
-					</div>
-				</section><!--content 7-->
+			
+				<div class="row">
+					<section class="col-lg-12 seven">
+						<div class="container">
+							<section class="row promotions">
+								<div class="col-lg-4 col-md-4 hidden-sm">
+									<img src="images/homepage/promo-1.jpg" alt="promo-1" >	
+								</div><!--end first third-->
+								<div class="col-lg-4 col-md-4">
+									<img src="images/homepage/promo-middle.jpg" alt="promo-middle" class="center-block">	
+								</div>
+								<div class="col-lg-4 col-md-4">
+									<img src="images/homepage/promo-1.jpg" alt="promo-1" class="pull-right">				
+								</div>
+							</section>
+						</div><!--container-->
+					</section><!--seven-->
+				</div><!--row-->
+
 				
 				
 				<div class="content row">
 					<div class="col-lg-12">
-						<section class="six hidden-sm hidden-xs">
+						<section class="eight hidden-sm hidden-xs">
 						</section>
 					</div>
 				</div><!--content 8-->
