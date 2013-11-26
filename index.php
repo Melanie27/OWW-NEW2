@@ -8,6 +8,7 @@
     <!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
+    <link href="_/css/mystyles_home.css" rel="stylesheet" media="screen">
      <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">-->
      
      
@@ -41,7 +42,7 @@
 					<div class="row heading">
 						<section class="col-lg-12">
 							<div class="container">
-								<h1>Home Page</h1>
+								<h1>Oakwood Worldwide lorem ipsum dolor sit amet conse ctetur adipisicing elit.</h1>
 							</div>
 						</section>		
 					</div><!--heading-->
@@ -54,30 +55,35 @@
 							<section class="three">
 								<div class="row over2">
 									<section class="col-lg-12 col-md-12 news-columns" style="padding-left:0px;">
-									
-										
-										<div class="row"  >
-											
-											<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 hidden-md hidden-lg latest-news">		
-											<?php include "_/components/php/latest-news.php"; ?>
-											</section><!--Latest News-->
-											
-											<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 cols first-col">	
-												<?php include "_/components/php/press-room.php"; ?>	
-											</section><!--Press Room-->	
-											
-											<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 cols second-col ">
-												<?php include "_/components/php/in-the-news.php"; ?>
-											</section><!--In the News-->
-												
-											<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 cols third-col">	
-													<?php include "_/components/php/awards-honors.php"; ?>
-											</section><!--Awards-->		
-											
-											<section class ="hidden-lg hidden-md">
-												<?php include "_/components/php/events-mobile.php"; ?>
-											</section>	
+
+										<div class="row">
+											<section class="col-lg-8 col-md-8 col-xs-12">
+												<h1>Our Brands: Oakwood and ExecuStay</h1>
+												<p>Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum.</p>
+												<div class-"row">
+													<section class="col-lg-6 col-md-6 col-xs-12">
+														<img src="images/homepage/logo-oakwood-homepage.jpg" alt="logo-oakwood-homepage" width="234" height="86">
+													</section>
+													<section class="col-lg-6 col-md-6 col-xs-12">
+														<img src="images/homepage/logo-execustay-homepage.jpg" alt="logo-execustay-homepage" width="256" height="86">
+													</section>
+												</div><!--end nested logos-->
+											</section><!--end two thirds-->
+											<section class="col-lg-4 col-md-4 col-xs-12">
+												<div class="solutions promo-video">
+													<a href="#" class="industry-sections">
+														<img src="images/homepage/video-promo.jpg" alt="video-promo" class="img-responsive">												<header class="industries">
+															<h3>Promo Video Title Lorem Ipsum Dolore Sit Amet</h3>
+															<div class="clearfix"></div>
+														</header>
+													</a>
+													
+												</div><!--end consulting-->
+											</section>
 										</div><!--end nested row-->
+										
+										
+										
 										
 									</section>
 								</div><!--row-->
@@ -100,7 +106,23 @@
 							<div class="container">
 								
 								
-								<?php include "_/components/php/events-desktop.php"; ?>	
+							<section class="row one-third-two-thirds">
+								<div class="col-lg-4 col-md-4 hidden-sm first-third-one-third">
+									<h1><a href="vision-leadership.php">Vision & Leadership</a></h1>
+									<img src="images/homepage/vision-leadership-01.jpg" alt="vision-leadership-01">
+									<p class="hidden-sm hidden-xs">Sed aucto lorem ipsum dolore sit amet ndisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posu aesent. Vestibulum ante ipsum primis in faucibus orci luctus.</p>
+										
+								</div><!--end first third-->
+								<div class="col-lg-4 col-md-4">
+									<h1><a href="news.php">News</a></h1>
+									<?php include "_/components/php/news-thumbs.php"; ?>												
+								</div>
+								<div class="col-lg-4 col-md-4">
+									<h1>Industry Insights</h1>
+									<?php include "_/components/php/news-thumbs.php"; ?>												
+								</div>
+									
+							</section>
 
 							</div><!--container-->
 						</section><!--five-->
@@ -114,6 +136,35 @@
 						</section>
 					</div>
 				</div><!--content 6-->
+				
+				<section class="row">
+					<div class="col-lg-12">
+						<section class="row seven">
+							<div class="col-lg-4 col-md-4 col-xs-12">
+								<img src="images/homepage/promo-1.jpg" alt="promo-1" width="350" height="170">
+							</div>
+						</section>
+						<section class="row">
+							<div class="col-lg-4 col-md-4 col-xs-12">
+								<img src="images/homepage/promo-1.jpg" alt="promo-1" width="350" height="170">
+							</div>
+						</section>
+						<section class="row">
+							<div class="col-lg-4 col-md-4 col-xs-12">
+								<img src="images/homepage/promo-1.jpg" alt="promo-1" width="350" height="170">
+							</div>
+						</section>
+					</div>
+				</section><!--content 7-->
+				
+				
+				<div class="content row">
+					<div class="col-lg-12">
+						<section class="six hidden-sm hidden-xs">
+						</section>
+					</div>
+				</div><!--content 8-->
+				
 				
 				<?php include "_/components/php/footer.php"; ?>	
 

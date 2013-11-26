@@ -39,7 +39,7 @@
 		  	</section> <!--two-->	
 		  				
 						
-			<div class="container hidden-sm hidden-xs">
+			<div class="container hidden-lg hidden-md hidden-sm hidden-xs">
 				<section class="row">
 					<div class="col-lg-12">
 				
