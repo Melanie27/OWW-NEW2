@@ -54,7 +54,7 @@
 							<div class="container">
 								<section class="three">
 									<div class="row over2">
-										<section class="col-lg-12 col-md-12" style="padding-left:0px;">
+										<section class="col-lg-12 col-md-12">
 											<div class="row">
 												<section class="col-lg-7 col-md-8 col-sm-6 col-xs-12">
 													<h1>Our Brands: Oakwood and ExecuStay</h1>
