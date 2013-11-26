@@ -173,8 +173,20 @@ body#home {
 	.five {
 		
 		padding-top:50px;
-		padding-bottom:50px;
+		padding-bottom:40px;
+		
+		
+		h1 {
+			
+			margin-top:0px;
+		}
+		
+		a:link, a:visited {
+			color: @oww-poppy;
+		}
 	}
+	
+	
 }
 
 .heading {
@@ -209,6 +221,10 @@ body#home {
 	
 }
 
+.third-promo {
+	float:right;
+}
+
 
 /*Media Queries*/
 
@@ -216,6 +232,93 @@ body#home {
 /* Extra Small Screens 1 - 768 */
 
 @media (min-width: 1px) and (max-width: 767px) {
+
+	#home {
+	
+		.three {
+		
+			padding-top:30px;
+			padding-bottom: 30px;
+			
+			.logo {
+				
+				margin-top: 15px;
+				margin-bottom:30px;
+				
+				}
+			
+			}
+			
+		.five {
+		
+			padding-top:0px;
+			padding-bottom:0px;
+			border-top:solid 1px @oww-light-gray;
+			
+			
+				h1 {
+					padding-top:25px;
+				}
+				
+				.first-third-one-third {
+					border-bottom:solid 1px @oww-light-gray;
+					border-right:none;
+				}
+				
+				.middle-third {
+					border-bottom:solid 1px @oww-light-gray;
+				}
+				
+				.last-third {
+					border-bottom:solid 1px @oww-light-gray;
+				}
+		
+			}		
+			
+			
+	}
+
+		.two {
+		
+			height:345px;
+			}
+			
+			
+		
+
+		.heading {
+	
+			h1 {
+				line-height:28px;
+				}
+			}
+			
+		.industries {
+			
+			max-width:350px;
+		}	
+		
+		.no-right-padding {
+			padding-right:0px;
+		}
+		
+	
+	
+		.promotions {
+	
+			div {
+		
+				padding:15px;
+				
+			}
+			
+			div.third-promo {
+				float:none;
+			}
+		}
+		
+		
+		
 
 	
 }

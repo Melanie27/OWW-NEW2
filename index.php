@@ -61,14 +61,14 @@
 													<p>Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum.</p>
 													<div class="row">
 														<section class="col-lg-5 col-md-5 col-sm-6 col-xs-6 logos">
-															<img src="images/homepage/logo-oakwood-homepage.jpg" alt="oakwood" class="logo">
+															<img src="images/homepage/logo-oakwood-homepage.jpg" alt="oakwood" class="img-responsive logo">
 														</section>
 														<section class="col-lg-5 col-md-5 col-sm-6 col-xs-6 logos">
-															<img src="images/homepage/logo-execustay-homepage.jpg" alt="execustay" class="logo">
+															<img src="images/homepage/logo-execustay-homepage.jpg" alt="execustay" class="img-responsive logo">
 														</section>
 													</div><!--end nested logos-->
 												</section><!--end two thirds-->
-												<section class="col-lg-4 col-lg-offset-1 col-md-4 col-sm-6 col-xs-6">
+												<section class="col-lg-4 col-lg-offset-1 col-md-4 col-sm-6 col-xs-12 no-right-padding">
 													<div class="solutions promo-video">
 														<a href="#" class="industry-sections">
 															<img src="images/homepage/video-promo.jpg" alt="video-promo" class="img-responsive">												<header class="industries">
@@ -94,21 +94,21 @@
 					</div>
 				</div><!--content 4-->
 				
-				<div class="row hidden-sm hidden-xs">
+				<div class="row">
 					<section class="col-lg-12 five">
 						<div class="container">	
 							<section class="row one-third-two-thirds">
-								<div class="col-lg-4 col-md-4 hidden-sm first-third-one-third">
+								<div class="col-lg-4 col-md-4 first-third-one-third">
 									<h1><a href="vision-leadership.php">Vision & Leadership</a></h1>
-									<img src="images/homepage/vision-leadership-01.jpg" alt="vision-leadership-01" class="img-responsive">
-									<p class="hidden-sm hidden-xs">Sed aucto lorem ipsum dolore sit amet ndisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posu aesent. Vestibulum ante ipsum primis in faucibus orci luctus.</p>
+									<img src="images/homepage/vision-leadership-01.jpg" alt="vision-leadership-01" class="img-responsive hidden-xs">
+									<p class="">Sed aucto lorem ipsum dolore sit amet ndisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posu aesent. Vestibulum ante ipsum primis in faucibus orci luctus.</p>
 										
 								</div><!--end first third-->
-								<div class="col-lg-4 col-md-4">
+								<div class="col-lg-4 col-md-4 middle-third">
 									<h1><a href="news.php">News</a></h1>
 									<?php include "_/components/php/news-thumbs.php"; ?>												
 								</div>
-								<div class="col-lg-4 col-md-4">
+								<div class="col-lg-4 col-md-4 last-third">
 									<h1>Industry Insights</h1>
 									<?php include "_/components/php/news-thumbs.php"; ?>												
 								</div>	
@@ -129,14 +129,14 @@
 					<section class="col-lg-12 seven">
 						<div class="container">
 							<section class="row promotions">
-								<div class="col-lg-4 col-md-4 hidden-sm">
-									<img src="images/homepage/promo-1.jpg" alt="promo-1" >	
+								<div class="col-lg-4 col-md-4 col-xs-12">
+									<img src="images/homepage/promo-1.jpg" alt="promo-1" class="img-responsive" >	
 								</div><!--end first third-->
-								<div class="col-lg-4 col-md-4">
-									<img src="images/homepage/promo-middle.jpg" alt="promo-middle" class="center-block">	
+								<div class="col-lg-4 col-md-4 col-xs-12">
+									<img src="images/homepage/promo-middle.jpg" alt="promo-middle" class="img-responsive center-block">	
 								</div>
-								<div class="col-lg-4 col-md-4">
-									<img src="images/homepage/promo-1.jpg" alt="promo-1" class="pull-right">				
+								<div class="col-lg-4 col-md-4 col-xs-12 third-promo">
+									<img src="images/homepage/promo-1.jpg" alt="promo-1" class="img-responsive">				
 								</div>
 							</section>
 						</div><!--container-->
