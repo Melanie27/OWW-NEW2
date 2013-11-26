@@ -56,7 +56,7 @@
 									<div class="row over2">
 										<section class="col-lg-12 col-md-12" style="padding-left:0px;">
 											<div class="row">
-												<section class="col-lg-7 col-md-8 col-xs-12">
+												<section class="col-lg-7 col-md-8 col-sm-6 col-xs-12">
 													<h1>Our Brands: Oakwood and ExecuStay</h1>
 													<p>Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum.</p>
 													<div class="row">
@@ -84,9 +84,6 @@
 								</section><!--three-->
 							</div><!--container-->
 
-						
-					
-				
 				<div class="content row">
 					<div class="col-lg-12">
 						<section class="four hidden-sm hidden-xs">
@@ -98,17 +95,17 @@
 					<section class="col-lg-12 five">
 						<div class="container">	
 							<section class="row one-third-two-thirds">
-								<div class="col-lg-4 col-md-4 first-third-one-third">
+								<div class="col-lg-4 col-md-4 col-sm-12 first-third-one-third">
 									<h1><a href="vision-leadership.php">Vision & Leadership</a></h1>
 									<img src="images/homepage/vision-leadership-01.jpg" alt="vision-leadership-01" class="img-responsive hidden-xs">
 									<p class="">Sed aucto lorem ipsum dolore sit amet ndisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posu aesent. Vestibulum ante ipsum primis in faucibus orci luctus.</p>
 										
 								</div><!--end first third-->
-								<div class="col-lg-4 col-md-4 middle-third">
+								<div class="col-lg-4 col-md-4 col-sm-6 middle-third">
 									<h1><a href="news.php">News</a></h1>
 									<?php include "_/components/php/news-thumbs.php"; ?>												
 								</div>
-								<div class="col-lg-4 col-md-4 last-third">
+								<div class="col-lg-4 col-md-4 col-sm-6 last-third">
 									<h1>Industry Insights</h1>
 									<?php include "_/components/php/news-thumbs.php"; ?>												
 								</div>	
@@ -129,13 +126,13 @@
 					<section class="col-lg-12 seven">
 						<div class="container">
 							<section class="row promotions">
-								<div class="col-lg-4 col-md-4 col-xs-12">
+								<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
 									<img src="images/homepage/promo-1.jpg" alt="promo-1" class="img-responsive" >	
 								</div><!--end first third-->
-								<div class="col-lg-4 col-md-4 col-xs-12">
-									<img src="images/homepage/promo-middle.jpg" alt="promo-middle" class="img-responsive center-block">	
+								<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+									<img src="images/homepage/promo-middle.jpg" alt="promo-middle" class="img-responsive">	
 								</div>
-								<div class="col-lg-4 col-md-4 col-xs-12 third-promo">
+								<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 third-promo">
 									<img src="images/homepage/promo-1.jpg" alt="promo-1" class="img-responsive">				
 								</div>
 							</section>
