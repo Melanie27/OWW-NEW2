@@ -40,7 +40,7 @@
 		  			</section> <!--two container-->	
 						
 						<div class="content row">
-							<div class="col-lg-12 intro">
+							<div class="hidden-lg hidden-md hidden-xs intro">
 								<h2>Oakwood Worldwide is proud to be Marriott International's preferred corporate housing provider. Through this partnership, you and your guests enjoy greater flexibility and a broader variety of housing options - for immediate placement, long term relocation and everything in between.</h2>
 								<section class="three-a hidden-lg hidden-md hidden-sm">
 								</section>
