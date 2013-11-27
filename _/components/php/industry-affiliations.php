@@ -8,7 +8,7 @@
 	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 		<img src="images/vision-leadership/_industry-affiliations/worldwide-erc.jpg" alt="The Workforce Mobility Association" class="img-responsive"/>
 	</div> 
-	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-8">
 		<img src="images/vision-leadership/_industry-affiliations/chpa.jpg" alt="Corporate Housing Providers Association" class="img-responsive"  />
 	</div> 
 	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
@@ -21,7 +21,7 @@
 </section>
 
 <section class="row industry-logos">
-	<div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-6 col-xs-6">
+	<div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-6 col-xs-8">
 		<img src="images/vision-leadership/_industry-affiliations/afci.jpg" alt="AFCI" class="img-responsive" />
 	</div>
 	<div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">
