@@ -12,7 +12,7 @@
 								<div class="row">
 									<section class="col-lg-6 col-md-6">
 										<h5>Global Solutions</h5>
-										<ul class="footer-lists">
+										<ul class="footer-lists" id="footer-global">
 											<li><a href="#">North America</a></li>
 											<li><a href="#">South America</a></li>
 											<li><a href="#">Europe/Middle East</a></li>
@@ -29,7 +29,7 @@
 									</section>
 									<section class="col-lg-6 col-md-6">
 										<h5>Industry Insights</h5>
-										<ul class="footer-lists">
+										<ul class="footer-lists" id="footer-industry">
 											<li><a href="#">Government</a></li>
 											<li><a href="#">Consulting</a></li>
 											<li><a href="#">Entertainment</a></li>
@@ -45,7 +45,7 @@
 								<div class="row">
 									<section class="col-lg-6 col-md-6">
 										<h5>Vision & Leadership</h5>
-										<ul class="footer-lists">
+										<ul class="footer-lists" id="footer-vision">
 											<li><a href="#">Executive Committee</a></li>
 											<li><a href="#">Industry Affiliations</a></li>
 										</ul>
@@ -58,7 +58,7 @@
 									</section>
 									<section class="col-lg-6 col-md-6">
 										<h5>News</h5>
-										<ul class="footer-lists">
+										<ul class="footer-lists" id="footer-news">
 											<li><a href="#">Press Releases</a></li>
 											<li><a href="#">In The News</a></li>
 											<li><a href="#">Awards</a></li>

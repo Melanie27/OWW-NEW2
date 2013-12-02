@@ -61,7 +61,7 @@
 									<div class="row over2">
 										<section class="col-lg-12 col-md-12">
 											<div class="row">
-												<section class="col-lg-7 col-md-8 col-sm-6 col-xs-12">
+												<section class="col-lg-7 col-md-8 col-sm-6 col-xs-12 our-brands">
 													<h1>Our Brands: Oakwood and ExecuStay</h1>
 													<p>Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum.</p>
 													<div class="row">
