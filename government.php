@@ -39,9 +39,9 @@
 		  	</section> <!--two-->	
 		  				
 						
-			<div class="container hidden-lg hidden-md hidden-sm hidden-xs">
+			<div class="hidden-sm hidden-xs sub-navigation">
 				<section class="row">
-					<div class="col-lg-12">
+					<div class="col-lg-12 center-block">
 						<nav class="navbar navbar-default sub-nav" role="navigation">
 							<!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -58,6 +58,7 @@
 				</section>
 			</div><!--end sub-nav-->
 			
+			<hr>
 			
 			<div class="container">
 				<?php include "_/components/php/government-overview.php"; ?>

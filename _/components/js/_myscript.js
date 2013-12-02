@@ -138,32 +138,38 @@ if ( $(window).width() > 992) {
 
 /*Scroll to Request Apartment part of page*/
 	$('#overview1').click(function() {
-		$("html").animate({ scrollTop: "420px" }, 1000);
-		console.log('yo');	 
-		$('.sub-nav').addClass("sub-move");
+		$("html").animate({ scrollTop: "435px" }, 1000);	 
+		$('.sub-navigation').addClass("sub-move");
+		$('#government-contractors1, #military1, #federal-civilian1, #gsa1').removeClass("active");
+		$('#overview1').addClass("active");
 	});
 	
 	$('#military1').click(function() {
-		$("html").animate({ scrollTop: "2000px" }, 1000);
-		console.log('yo');
-		$('.sub-nav').addClass("sub-move"); 
+		$("html").animate({ scrollTop: "1955px" }, 1000);
+		$('.sub-navigation').addClass("sub-move");
+		$('#overview1, #government-contractors1, #federal-civilian1, #gsa1').removeClass("active");
+		$('#military1').addClass("active");
 	});
 	
 	$('#federal-civilian1').click(function() {
-		$("html").animate({ scrollTop: "3200px" }, 1000);
-		console.log('yo');	
-		$('.sub-nav').addClass("sub-move"); 
+		$("html").animate({ scrollTop: "3190px" }, 1000);	
+		$('.sub-navigation').addClass("sub-move");
+		$('#overview1, #military1, #government-contractors1, #gsa1').removeClass("active"); 
+		$('#federal-civilian1').addClass("active");
 	});
 	
 	$('#government-contractors1').click(function() {
-		$("html").animate({ scrollTop: "4000px" }, 1000);
-		console.log('yo');	 
-		$('.sub-nav').addClass("sub-move"); 
+		$('.sub-navigation').addClass("sub-move");
+		$("html").animate({ scrollTop: "3900px" }, 1000);
+		$('#government-contractors1').addClass("active");
+		$('#military1, #overview1, #federal-civilian1, #gsa1').removeClass("active");
+				
 	});
 	
 	$('#gsa1').click(function() {
-		$("html").animate({ scrollTop: "4900px" }, 1000);
-		console.log('yo');	 
-		$('.sub-nav').addClass("sub-move");	  
+		$("html").animate({ scrollTop: "4610px" }, 1000);	 
+		$('.sub-navigation').addClass("sub-move");
+		$('#overview1, #military1, #federal-civilian1, #government-contractors1').removeClass("active");	 
+		$('#gsa1').addClass("active"); 
 	});
 

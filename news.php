@@ -41,9 +41,7 @@
 							<section class="three">
 								<div class="row over2">
 									<section class="col-lg-12 col-md-12 news-columns" style="padding-left:0px;">
-									
-										
-										<div class="row"  >
+										<div class="row">
 											
 											<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 hidden-md hidden-lg latest-news">		
 											<?php include "_/components/php/latest-news.php"; ?>
@@ -74,7 +72,7 @@
 				
 				<div class="content row">
 					<div class="col-lg-12">
-						<section class="four hidden-sm hidden-xs">
+						<section class="four hidden-xs">
 						</section>
 					</div>
 				</div><!--content 4-->
@@ -100,20 +98,21 @@
 					</div>
 				</div><!--content 6-->
 				
-				
-				<section class="row">
-					<div class="col-xs-12">
-						<section class="media-relations phone hidden-lg hidden-md">
-							<h1>Media Relations</h1>
-							<img src="images/news/media-relations-tb-01.jpg" alt="Sharron Saunders" width="75" height="75" class="pull-left">
-							<h3>Sharron Saunders</h3>
-							<p>Global Communications Lead</p>
-							<a href="#">ssaunders@oakwood.com</a>
-							<p>(240) 720 3003</p>
-							<div class="clearfix"></div>
-						</section><!-Media Relations-->
-					</div>
-				</section>
+				<div class="container">
+					<section class="row">
+						<div class="col-xs-12">
+							<section class="media-relations phone hidden-lg hidden-md">
+								<h1>Media Relations</h1>
+								<img src="images/news/media-relations-tb-01.jpg" alt="Sharron Saunders" width="75" height="75" class="pull-left">
+								<h3>Sharron Saunders</h3>
+								<p>Global Communications Lead</p>
+								<a href="#">ssaunders@oakwood.com</a>
+								<p>(240) 720 3003</p>
+								<div class="clearfix"></div>
+							</section><!-Media Relations-->
+						</div>
+					</section>
+				</div>
 				
 				<?php include "_/components/php/footer.php"; ?>	
 

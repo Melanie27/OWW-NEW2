@@ -522,8 +522,7 @@ nav.navbar-fixed-top {
 
 
 .media-relations.phone {
-	padding-left:15px;
-	padding-right:15px;
+	
 	
 	img {
 		
@@ -580,7 +579,7 @@ nav.navbar-fixed-top {
 		
 		.full-story {
 			display:block;
-			margin-bottom:35px;
+			margin-bottom:55px;
 			
 			
 		}
@@ -620,11 +619,13 @@ nav.navbar-fixed-top {
 
 .five .col-md-8{
 	padding-top:105px;
+	padding-left:35px;
 	
 }
 
 
-.link-archives {
+
+.link-archives:link, link-archives:visited {
 	display:block;
 	height: 60px;
 	color: @oww-poppy;
@@ -637,6 +638,12 @@ nav.navbar-fixed-top {
 	text-align:center;
 	text-transform: uppercase;
 }
+
+.link-archives:hover, link-archives:active {
+	color: @oww-poppy;
+	text-decoration:underline;
+}
+
 //Section 3
 
 
@@ -684,7 +691,7 @@ nav.navbar-fixed-top {
 	.awards-honors {
 		
 		.link-archives {
-			margin-top:90px;	
+			margin-top:60px;	
 		}
 		
 		
@@ -714,6 +721,12 @@ nav.navbar-fixed-top {
 		border-bottom: solid 1px @oww-light-gray;
 		
 	}
+	
+	h3 {
+		
+		margin-bottom:0px;
+		margin-top:10px;
+	}
 }
 
 .awards-honors {
@@ -731,11 +744,18 @@ nav.navbar-fixed-top {
 		font-weight:300;
 		margin-top:55px;
 	}
+	
+	.link-archives:link, .link-archives:visited {
+		margin-bottom:50px;
+		margin-top:15px;
+		
+	}
 }
 
 .first-third-one-third {
 	
 	border-right:solid 1px @oww-light-gray;
+	padding-bottom:47px;
 	
 	
 	img {
@@ -1006,8 +1026,20 @@ article.one-third-two-thirds {
 	}
 	
 	
-	
-	
+	.industry-insights {
+		
+		.blurb {
+			
+			margin-bottom:70px;
+			padding-bottom:0px;
+		}
+		
+		.thirds {
+			padding-top:0px;
+			margin-top:40px;
+		}
+	}
+ 	
 		
 	.industry-text {
 		
@@ -1215,7 +1247,7 @@ footer {
       .panel-default > .panel-heading + .panel-collapse .panel-body {
 	      border-top:none;
 	      padding-top:0px;
-	      border-bottom: solid 1px @oww-light-gray;
+	      border-bottom: none;
       }
       
       .panel-title {
@@ -1274,6 +1306,10 @@ footer {
 	.six {
 		height:85px;
 	}
+	
+	.panel-default > .panel-heading + .panel-collapse .panel-body {
+	      border-bottom: solid 1px @oww-light-gray;
+      }
 	
 	.upcoming-events {
 		
@@ -1554,6 +1590,10 @@ footer {
 		
 	}
 	
+	.panel-default > .panel-heading + .panel-collapse .panel-body {
+	      border-bottom: solid 1px @oww-light-gray;
+      }
+	
 	#logo {
 		
 		img {
@@ -1666,7 +1706,7 @@ footer {
 		
 		.first-third-one-third {
 			
-			padding-bottom:35px;
+			padding-bottom:70px;
 		}
 	}
 	
@@ -1691,7 +1731,8 @@ footer {
 	#business-solutions {
 	
 		.industries {
-		width:303px;
+		
+			width:303px;
 		}
 
 	}
@@ -1799,23 +1840,16 @@ and (orientation : landscape) {
     
 }
 
-/* Extra Small and Small Screens */
 
-@media (max-width:971px) {
-	.three .first-col, .three .second-col  {
-		border-right:none
-	}
-	
-	
-	
-}
 
 
 /*Extra Small, Small and Medium*/
 
 @media (min-width: 1px) and (max-width: 992px) { 
 
-			
+	.three .first-col, .three .second-col  {
+		border-right:none;
+	}		
 	
 	.link-archives {
 			line-height:40px;

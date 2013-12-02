@@ -1,5 +1,5 @@
 														<div class="row archives">
-																<div class="col-md-8 col-md-offset-2 col-sm-6 col-sm-offset-0 col-xs-6 col-xs-offset-3">
+																<div class="col-lg-9 col-lg-offset-1 col-md-9 col-md-offset-1 col-sm-6 col-sm-offset-0 col-xs-6 col-xs-offset-3">
 																	<a class="link-archives see-all text-center" href="#">See All</a>
 																</div>
 															</div>

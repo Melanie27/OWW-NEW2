@@ -24,7 +24,7 @@
 										</div><!--end nested row-->
 										
 										<div class="row overview-sections solutions-columns">
-											<section class="col-lg-12 hidden-xs">
+											<section class="col-lg-12 hidden-xs no-left-padding">
 												<h2>Proudly Serving:</h2>
 											</section>
 											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12 no-left-padding">
