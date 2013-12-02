@@ -42,7 +42,12 @@
 					<div class="row heading">
 						<section class="col-lg-12">
 							<div class="container">
-								<h1>Oakwood Worldwide lorem ipsum dolor sit amet conse ctetur adipisicing elit.</h1>
+								<section class="row">
+									<div class="col-lg-10">
+										<h1>Oakwood Worldwide lorem ipsum dolor sit amet conse ctetur adipisicing elit.</h1>
+										<p><a href="#" class="learn-more">Learn more --></a></p>
+									</div>
+								</section>
 							</div>
 						</section>		
 					</div><!--heading-->
@@ -95,17 +100,17 @@
 					<section class="col-lg-12 five">
 						<div class="container">	
 							<section class="row one-third-two-thirds">
-								<div class="col-lg-4 col-md-4 col-sm-12 first-third-one-third">
+								<div class="col-lg-4 col-md-4 col-sm-12 thirds first-third-one-third">
 									<h1><a href="vision-leadership.php">Vision & Leadership</a></h1>
 									<img src="images/homepage/vision-leadership-01.jpg" alt="vision-leadership-01" class="img-responsive hidden-xs">
 									<p class="">Sed aucto lorem ipsum dolore sit amet ndisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posu aesent. Vestibulum ante ipsum primis in faucibus orci luctus.</p>
 										
 								</div><!--end first third-->
-								<div class="col-lg-4 col-md-4 col-sm-6 middle-third">
+								<div class="col-lg-4 col-md-4 col-sm-6 thirds middle-third">
 									<h1><a href="news.php">News</a></h1>
 									<?php include "_/components/php/news-thumbs.php"; ?>												
 								</div>
-								<div class="col-lg-4 col-md-4 col-sm-6 last-third">
+								<div class="col-lg-4 col-md-4 col-sm-6 thirds last-third">
 									<h1>Industry Insights</h1>
 									<?php include "_/components/php/news-thumbs.php"; ?>												
 								</div>	
