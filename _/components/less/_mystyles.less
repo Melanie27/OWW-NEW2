@@ -207,11 +207,22 @@ sup {
 	line-height:18px;
 }
 
-.orange-link {
+.orange-link:link, .orange-link:visited {
 	text-transform:uppercase;
 	color: @oww-poppy;
 	font-family: @district-bold;
 	font-size: @oww-font-size-links; 
+}
+
+.orange-link:hover, .orange-link:active {
+	color: @oww-poppy;
+	text-decoration:underline;
+}
+
+.gray-link:link, .gray-link:visited {	
+	color: @oww-dark-gray;
+	text-decoration:underline;
+		
 }
 
 .heading {	
@@ -1131,6 +1142,8 @@ footer {
 		margin-bottom:80px;
 		display:block;
 	}
+	
+	
 	
 	.icon-housing {
 		margin-right:10px;

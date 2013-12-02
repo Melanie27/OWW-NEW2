@@ -42,9 +42,7 @@
 			<div class="container hidden-lg hidden-md hidden-sm hidden-xs">
 				<section class="row">
 					<div class="col-lg-12">
-				
 						<nav class="navbar navbar-default sub-nav" role="navigation">
-					
 							<!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 								<ul class="nav navbar-nav">
@@ -53,11 +51,9 @@
 									<li id="federal-civilian1"><a href="#federal-civilian">Federal Civilian</a></li>
 									<li id="government-contractors1"><a href="#government-contractors">Government Contractors</a></li>
 									<li id="gsa1"><a href="#gsa">GSA Schedule 48</a></li>
-									
 								</ul>
 							</div><!-- /.navbar-collapse -->
 						</nav>
-
 					</div>
 				</section>
 			</div><!--end sub-nav-->
@@ -78,7 +74,9 @@
 				
 				<div class="row industry-insights">
 					<section class="col-sm-12 hidden-lg hidden-md">
-						<h1>Industry Insights</h1>
+						<div class="container">
+							<h1>Industry Insights</h1>
+						</div>
 						<?php include "_/components/php/industry-insights.php"; ?>
 					</section>
 				</div>

@@ -1,4 +1,4 @@
-<section class="three overview" id="overview">
+					<section class="three overview" id="overview">
 								<div class="row over2">
 									<section class="col-lg-12 col-md-12">
 										<div class="row overview-top">
@@ -8,14 +8,14 @@
 												<p>As the first, largest and leading provider of extended stay lodging (ESL) solutions to the federal government, Oakwood offers a welcoming environment for government employees, with convenient locations, and access to various transportation options.</p>
 											</section><!--end two thirds-->
 											<section class="col-lg-4 col-md-4 hidden-sm hidden-xs contact-us">
-												<h2>Contact Us</h2>
+											<h2>Contact Us</h2>
 												<div class="row">
-													<section class="col-lg-6 col-md-8 col-sm-6">
+													<section class="col-lg-6 col-md-6">
 														<h3>US & Canada: </h3>
 														<p class="phone">1-888-268-9998</p>
-														<p class="email"><img src="images/icons/icon-email.jpg" alt="icon-email" width="25" height="20"> Email Us</p>
+														<p class="email"><img src="images/icons/icon-email.jpg" alt="icon-email" width="25" height="20">Email Us</p>
 													</section>
-													<section class="col-lg-6 col-md-8">
+													<section class="col-lg-6 col-md-6">
 														<h3>Everywhere Else: </h3>
 														<p class="phone">1-757-648-7171</p>
 													</section>
@@ -76,7 +76,7 @@
 										
 										<div class="row overview-gsa">
 											<section class="col-lg-11 col-md-11 col-xs-12">
-												<h2>Oakwood Worldwide is an approved <a href="#">GSA Schedule 48</a> vendor and proud to be an extended stay lodging provider for FedRooms with rates that fall within TDY and most PCS per diems.</h2>
+												<h2>Oakwood Worldwide is an approved <a href="#" class="gray-link">GSA Schedule 48</a> vendor and proud to be an extended stay lodging provider for FedRooms with rates that fall within TDY and most PCS per diems.</h2>
 												<a href="#" class="orange-link col-lg-offset-6 col-md-offset-6">Learn More--></a>
 											</section>
 										</div><!--end gsa-->

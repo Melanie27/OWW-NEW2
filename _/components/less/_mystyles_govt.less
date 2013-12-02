@@ -318,7 +318,7 @@ h2 {
 }
 
 .federal-civilian {
-	padding-bottom:30px;
+	padding-bottom:0px;
 }
 
 
@@ -354,13 +354,7 @@ h2 {
     width: 350px;
 }
 
-.five {
-	height: 907px;
-}
 
-.seven, .nine {
-	
-}
 
 .three, .five, .seven {
 
@@ -374,6 +368,7 @@ h2 {
 			padding-bottom:0px;
 			padding-top:0px;
 			margin-top:0px;
+			margin-bottom:2px;
 		}
 	}	
 	
@@ -495,6 +490,14 @@ h2 {
 	
 	}
 	
+	
+	.collapser {
+	
+		.container {
+		padding-left:0px;
+		}
+	}
+	
 	.overview {
 	
 		h1 {
@@ -513,16 +516,19 @@ h2 {
 		p {
 			margin-bottom:25px;
 		}
+		
+		h2 {
+			margin-top:5px;
+		}
 	}
 	
 	
 	.over2 {	
 		
-	section.col-xs-12 {
-		
-		padding-left:0px;
-		padding-right:0px;
-	
+		section.col-xs-12 {
+			
+			padding-left:0px;
+			padding-right:0px;
 		}
 	
 	}
@@ -532,6 +538,8 @@ h2 {
 		
 		display:block;
 	}
+	
+	
 	
 	.industry-insights {
 		padding-left:0px;
@@ -569,11 +577,22 @@ h2 {
 
 }
 
+/*small screen*/
+
+@media (min-width:767px) and (max-width: 991px) {
+	
+	.over {
+		
+		margin:0px;
+	}
+	
+}
+
 @media (min-width:1201px) {
 	
 	.no-left-padding {
-	padding-left:0px;
-	padding-right:10px;
+		padding-left:0px;
+		padding-right:10px;
 
 }
 
@@ -619,8 +638,15 @@ h2 {
 			left: -75px;
     
 		}
+		
+		.contact-us {
+			
+			padding-left:15px;
+		}
 
-	
+		.phone, .email {
+			font-size:18px;
+		}
 	
 }
 
@@ -641,7 +667,7 @@ h2 {
 		}
 		
 		.solutions {
-			height:305px;
+			height:290px;
 		}
 		
 		

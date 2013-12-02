@@ -3,7 +3,9 @@
 						<div class="panel-heading collapse1" id="collapse1">
 							<h1 class="title1 panel-title">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="collapser">
-									<h1 class="accords">Military</h1>
+									<div class="container">
+										<h1 class="accords">Military</h1>
+									</div>
 										<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseOne" id="btn-1"></button>
 								</a>
 								<div class="clearfix"></div>
