@@ -88,8 +88,6 @@
 					</section><!--end two thirds section-->
 						
 					<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-						
-
 							<section class="col-lg-12 col-md-12 col-sm-6 col-xs-12 footer-brands">
 								<h5>Our Brands</h5>
 									<div class="row">
@@ -122,11 +120,11 @@
 	<!--Buttons Visible xs screens-->
 	
 	<footer>
-	<div class="row hidden-lg hidden-md hidden-sm hidden-xs">
+	<div class="row hidden-lg hidden-md hidden-sm">
 		<section class="col-lg-4 col-lg-offset-2 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-2 col-xs-6">
 			<a href="#" class="btn-footer" id="footer-find-housing">Find Housing</a>
 		</section>
-		<section class="col-lg-4 col-lg-offset-1 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-1 col-xs-6">
+		<section class="col-lg-4 col-lg-offset-1 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-1 col-xs-6 footer-buttons">
 			<a href="#" class="btn-footer" id="footer-contact-us">Contact Us</a>
 		</section>
 	</div>

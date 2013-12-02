@@ -212,7 +212,9 @@ sup {
 	color: @oww-poppy;
 	font-family: @district-bold;
 	font-size: @oww-font-size-links; 
-}	
+}
+
+.heading {	
 
 a.learn-more:link, a.learn-more:visited {
 	color:white;
@@ -221,6 +223,8 @@ a.learn-more:link, a.learn-more:visited {
 	font-size: @oww-font-size-links; 
 	
 }	
+
+}
 
 a.grey-links:link, a.grey-links:visited {
 	color:@oww-dark-gray;
@@ -317,6 +321,7 @@ a.grey-links:link, a.grey-links:visited {
 .navbar-default {
 
 	background-color:white;
+	border:none;
 
 	.navbar-toggle {
 		border: solid 1px @oww-light-gray;
@@ -1257,6 +1262,21 @@ footer {
 		height:85px;
 	}
 	
+	.upcoming-events {
+		
+		div {
+			
+			padding-left:0px;
+		}
+	}
+	
+	.media-relations {
+		
+		h1 {
+			margin-top:30px;
+		}
+	}
+	
 	.teasers {
 		padding-left:0px;
 		
@@ -1434,6 +1454,12 @@ footer {
 		
 			.btn-footer {
 				
+				position:static;
+				margin-top:65px;
+			}
+			
+			.footer-buttons {
+				padding-left:0px;
 			}
 	}
 	
@@ -1452,6 +1478,8 @@ footer {
 		min-height:65px !important;
 		
 	}
+	
+	
 	
 	.navbar-nav {
 		float:left;
@@ -1621,8 +1649,16 @@ footer {
     	padding-left: 20px;
 	}
 	
+	#news {
+		
+		.first-third-one-third {
+			
+			padding-bottom:35px;
+		}
+	}
+	
 	.blurb {
-    	padding-bottom: 5px;
+    	padding-bottom: 28px;
 		padding-left: 10px;
 		padding-right: 10px;
 	}
@@ -1844,6 +1880,7 @@ and (orientation : landscape) {
 	    h1 {
 		    line-height:28px;
 		    font-size:@oww-font-size-h1-small;
+		    margin:0px;
 	    }
 	    
 	    h2 {
@@ -1856,7 +1893,7 @@ and (orientation : landscape) {
     
     h1 { 
     
-    	font-size: @oww-font-size-h1-xs;
+    	font-size: 23px;
     
     }
     
