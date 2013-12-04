@@ -111,8 +111,10 @@ $("#global-corporate-housing a:contains('Global Corporate Housing')").parent().a
 $("#business-solutions a:contains('Business Solutions')").parent().addClass('active');
 $("#vision-leadership a:contains('Vision and Leadership')").parent().addClass('active');
 $("#news a:contains('News')").parent().addClass('active');
+$("#press-releases a:contains('News')").parent().addClass('active');
 $("#marriott a:contains('Marriott')").parent().addClass('active');
 $("#careers a:contains('Careers')").parent().addClass('active');
+
 
 
 /*if ( $(window).width() < 992) {

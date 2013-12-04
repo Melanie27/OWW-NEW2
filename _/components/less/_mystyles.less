@@ -162,7 +162,9 @@ body {
 }
 
 ul, li {
-	line-height:20px;	
+	line-height:20px;
+	padding:0px;
+	list-style-type:none;	
 }
 
 h1 {
@@ -247,6 +249,16 @@ a.grey-links:link, a.grey-links:visited {
 
 .landing {
 	position:relative;
+}
+
+.pagination a {
+	color:@oww-poppy;
+}
+
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+	
+	background-color:@oww-poppy;
+	border-color: @oww-poppy;
 }
 
 
@@ -589,7 +601,7 @@ nav.navbar-fixed-top {
 
 
 
-.link-archives:link, link-archives:visited {
+a.link-archives:link, a.link-archives:visited {
 	display:block;
 	height: 60px;
 	color: @oww-poppy;
@@ -603,7 +615,7 @@ nav.navbar-fixed-top {
 	text-transform: uppercase;
 }
 
-.link-archives:hover, link-archives:active {
+a.link-archives:hover, a.link-archives:active {
 	color: @oww-poppy;
 	text-decoration:underline;
 }
@@ -650,6 +662,11 @@ nav.navbar-fixed-top {
 			p {
 				margin:0px;
 			}
+			
+			a {
+				color:@oww-poppy
+			}
+
 	}
 	
 	.awards-honors {

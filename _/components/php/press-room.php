@@ -13,20 +13,7 @@
 														<h1 class="hidden-xs hidden-sm">Press Room</h1>	
 															<section class="latest-releases">
 																<h3 class="hidden-sm hidden-xs">Latest Releases</h3>
-																	<ul class="news-thumbnails">
-																		<li class="clearfix">
-																			<img src="images/news/press-room-tb-01.jpg" alt="Press Room 1" class="pull-left img-responsive">	
-																			<p class="date ">Oct 5, 2013</p>
-																			<p class="headline">Hello Ipsum Dolore Sit Amet Oakwood</p>
-																		</li>
-																		<li class="clearfix">		
-																			<img src="images/news/press-room-tb-02.jpg" alt="Press Room 2" class="pull-left">
-																			<p class="date">Oct 5, 2013</p>
-																			<p class="headline">Lorem Ipsum Dolore Sit Amet Oakwood</p>
-															
-																		</li>	
-																	</ul>
-															</section><!--Latest Releases-->
+															<?php include "_/components/php/news-press-thumbs.php"; ?>																		</section><!--Latest Releases-->
 															<div class="clearfix"></div>
 															<?php include "_/components/php/recent-releases.php"; ?>
 															<?php include "_/components/php/btn-see-all.php"; ?>
