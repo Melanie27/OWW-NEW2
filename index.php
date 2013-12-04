@@ -7,7 +7,6 @@
 
     <!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
-    <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
     <link href="_/css/mystyles_home.css" rel="stylesheet" media="screen">
      <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">-->
      
@@ -45,7 +44,7 @@
 								<section class="row">
 									<div class="col-lg-10">
 										<h1>Oakwood Worldwide lorem ipsum dolor sit amet conse ctetur adipisicing elit.</h1>
-										<p><a href="#" class="learn-more">Learn more --></a></p>
+										<p><a href="#" class="learn-more">Learn more &#8594;</a></p>
 									</div>
 								</section>
 							</div>

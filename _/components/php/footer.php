@@ -99,7 +99,7 @@
 										</section>
 									</div><!--end nested row-->
 								<h2>Contact Us to Create Your Housing Program</h2>
-								<p><a href="#" class="orange-link">Contact Us --></a></p>
+								
 								<div class="row">
 									<section class="col-lg-4 col-lg-offset-2 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-2">
 										<a href="#" class="btn-footer" id="footer-find-housing">Find Housing</a>

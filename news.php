@@ -7,7 +7,7 @@
 
     <!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
-    <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
+     <link href="_/css/mystyles_news.css" rel="stylesheet" media="screen">
      <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">-->
    
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -40,7 +40,7 @@
 						<div class="container">
 							<section class="three">
 								<div class="row over2">
-									<section class="col-lg-12 col-md-12 news-columns" style="padding-left:0px;">
+									<section class="col-lg-12 col-md-12 news-columns">
 										<div class="row">
 											
 											<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 hidden-md hidden-lg latest-news">		
