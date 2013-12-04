@@ -68,7 +68,7 @@
 																<section class="col-lg-8 col-md-8 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																	<p class="full-story "><a href="#" class="orange-link">Full Story &#8594;</a></p>	
+																	<p class="full-story "><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>	
 																</section><!--end first position-->
 																<div class="clearfix"></div>
 															</li>
@@ -79,7 +79,7 @@
 																<section class="col-lg-8 col-md-8 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																<p class="full-story"><a href="#" class="orange-link">Full Story &#8594;</a></p>
+																<p class="full-story"><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>
 																</section><!--end second position-->
 																<div class="clearfix"></div>
 															</li>
@@ -90,7 +90,7 @@
 																<section class="col-lg-8 col-md-8 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																	<p class="full-story"><a href="#" class="orange-link">Full Story &#8594;</a></p>
+																	<p class="full-story"><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>
 																</section><!--end third position-->
 																<div class="clearfix"></div>
 															</li>
@@ -101,7 +101,7 @@
 																<section class="col-lg-8 col-md-8 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																	<p class="full-story"><a href="#" class="orange-link">Full Story &#8594;</a></p>
+																	<p class="full-story"><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>
 																</section><!--end fourth position-->
 																<div class="clearfix"></div>
 															</li>	
@@ -112,7 +112,7 @@
 																<section class="col-lg-8 col-md-8 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																	<p class="full-story"><a href="#" class="orange-link">Full Story &#8594;</a></p>
+																	<p class="full-story"><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>
 																</section><!--end fifth position-->
 																<div class="clearfix"></div>
 														</li>

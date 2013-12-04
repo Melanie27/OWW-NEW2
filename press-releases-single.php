@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>OWW Project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Bootstrap -->
+    <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
+     <link href="_/css/mystyles_news.css" rel="stylesheet" media="screen">
+     <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">-->
+   
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  
+ 
+   
+  </head>
+  <body id="press-releases-single">
+  <div class="container-full">
+  
+  		<section class="container landing">
+		  	<?php include "_/components/php/header.php"; ?>
+		  	<section class="two">
+				<div class="row heading">
+					<section class="col-lg-12">
+						<div class="container">
+							<h1>Press Releases</h1>
+						</div>
+					</section>		
+				</div><!--heading-->
+				<?php include "_/components/php/hero-thirds-internal.php"; ?>
+		  	</section> <!--two-->	
+		  				
+		  				
+		  						  				
+		  				
+
+						
+						<div class="container">
+							<section class="three">
+								<div class="row over2">
+									<section class="col-lg-12 col-md-12">
+										<div class="row">
+											<section class="col-lg-8 col-md-8 press-release-list">
+												<h1>Featured Story Title Lorem Ipsum</h1>
+													<section class="press-release-hero">
+														<img src="images/news/press-releases/press-release-splash-01.jpg" alt="press-release-splash-01" class="img-responsive">
+													</section>
+													
+													<section class="press-release-content">	
+														<p class="press-release-text">LOS ANGELES - July 31, 2013 - Sed vamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna diam porttitor mauris, quis sollicitudin sapien justo in libero. Vestibulum mollis mauris enim. Morbi euismod magna ac lorem rutrum elementum. Donec viverra auctor lobortis. Pellentesque eu est a nulla placerat dignissim. Morbi a enim in magna semper bibendum. Etiam scelerisque, nunc ac egestas consequat.</p>
+														<p class="press-release-text">
+													Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante, ac egestas est urna sit amet arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed molestie augue sit amet leo consequat posuere. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin vel ante a orci tempus eleifend ut et magna. 
+													</p>
+														<h2 class="press-release-sub-head">Lorem ipsum heading dolor sit amet</h2>
+														<p class="press-release-text">
+													Consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna diam porttitor mauris, quis sollicitudin sapien justo in libero. Vestibulum mollis mauris enim. Morbi euismod magna ac lorem rutrum elementum. 
+														</p>
+														<p class="press-release-text">
+													Donec viverra auctor lobortis. Pellentesque eu est a nulla placerat dignissim. Morbi a enim in magna semper bibendum. Etiam scelerisque, nunc ac egestas consequat, odio nibh euismod nulla, eget auctor orci nibh vel nisi. Aliquam erat volutpat. Mauris vel neque sit amet nunc gravida congue sed sit amet purus. Quisque lacus quam, egestas ac tincidunt a, lacinia vel velit. Aenean facilisis nulla vitae urna tincidunt congue sed ut dui. Morbi malesuada nulla nec purus convallis consequat. Vivamus id mollis quam. Morbi ac commodo nulla. In condimentum orci id nisl volutpat bibendum. 
+														</p>
+														<p class="press-release-text">
+													Quisque commodo hendrerit lorem quis egestas. Maecenas quis tortor arcu. Vivamus rutrum nunc non neque consectetur quis placerat neque lobortis. Nam vestibulum, arcu sodales feugiat consectetur, nisl orci bibendum elit, eu euismod magna sapien ut nibh. Donec semper quam scelerisque tortor dictum gravida. In hac habitasse platea dictumst. Nam pulvinar, odio sed rhoncus suscipit, sem diam ultrices mauris, eu consequat purus metus eu velit. Proin metus odio, aliquam eget molestie nec, gravida ut sapien. Phasellus quis est sed turpis sollicitudin venenatis sed eu odio. Praesent eget neque.
+														</p>
+														<p>More from <span class="tags"><a href="#">Awards</a></span>, <a href="#">Oakwood Worldwide</a></p>
+													</section>
+
+													
+													
+											<hr>		
+													
+													
+											</section><!--end two thirds-->
+											
+											
+											<section class="hidden-lg hidden-md hidden-sm">
+														<?php include "_/components/php/news-press-thumbs.php"; ?>	
+													</section>
+											
+											<section class="col-lg-4 col-md-4 hidden-xs">
+												
+												<section class="news hidden-xs">
+													<h1>News</h1>
+														<ul>
+															<li><h4>Press Releases</h4></li>
+																<ul class="release-years">
+																	<li class="active"><a href="#">2013</a></li>
+																	<li><a href="#">2012</a></li>
+																	<li><a href="#">2011</a></li>
+																</ul>
+															<li><h4>In the News</h4></li>
+															<li><h4>Awards & Honors</h4></li>
+															<li><h4>Upcoming Events</h4></li>
+														</ul>
+												</section><!--end news-->	
+												<section class="media-relations">
+													 	<?php include "_/components/php/media-relations.php"; ?>
+													
+												
+												</section><!-Media Relations-->	
+											</section><!--end one third-->										
+																					
+										</div><!--end nested row-->
+									</section>
+								</div><!--row-->
+							</section><!--three-->
+						</div>
+					
+				
+				<div class="content row">
+					<div class="col-lg-12">
+						<section class="four hidden-xs">
+						</section>
+					</div>
+				</div><!--content 4-->
+				
+				  				
+  				<hr>
+  			
+				
+				<div class="container">
+					<section class="row">
+						<div class="col-xs-12">
+							<section class="media-relations phone hidden-lg hidden-md">
+								<h1>Media Relations</h1>
+								<img src="images/news/media-relations-tb-01.jpg" alt="Sharron Saunders" width="75" height="75" class="pull-left">
+								<h3>Sharron Saunders</h3>
+								<p>Global Communications Lead</p>
+								<a href="#">ssaunders@oakwood.com</a>
+								<p>(240) 720 3003</p>
+								<div class="clearfix"></div>
+							</section><!-Media Relations-->
+						</div>
+					</section>
+				</div>
+				
+				<?php include "_/components/php/footer.php"; ?>	
+
+  			
+  		
+  	</section><!-- container -->
+  	
+  </div>
+  	<script src="_/js/bootstrap.js"></script>
+  	<script src="_/js/myscript.js"></script>
+  </body>
+</html>
