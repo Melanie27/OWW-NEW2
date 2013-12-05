@@ -72,8 +72,12 @@
 						<section class="five">
 							<div class="container">
 								
-								
-								<?php include "_/components/php/industry-affiliations.php"; ?>	
+								<section class="row industry-affiliations">
+									<div class="col-lg-4 col-md-4">
+										<h1>Industry Affiliations</h1>
+									</div>
+									<?php include "_/components/php/industry-affiliations.php"; ?>	
+								</section>
 								<div class="row archives">
 									<div class="hidden-lg hidden-md hidden-sm col-xs-8 col-xs-offset-2">
 										<a class="link-archives learn-more text-center" href="#">Learn More</a>
