@@ -61,7 +61,7 @@
 									<section class="col-lg-12 col-md-12">						
 										<div class="row">
 											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">		
-												<div class="solutions consulting">
+												<div class="solutions">
 													<a href="#" class="industry-sections">
 														<img src="images/global-services/global-reach.jpg" alt="global-reach" class="img-responsive">
 														<header class="industries">
@@ -73,7 +73,7 @@
 											</section>
 											<section class="col-lg-8 col-md-8 col-sm-6">
 												<p>Learn about how Oakwood Worldwide continues to set the global standard for corporate housing with the largest flexible inventory, in-depth regional expertise across six continents, and a streamlined supply chain to ensure the highest quality and greatest efficiency for our guests.</p>
-												<a class="orange-link" href="#">Learn More &#8594;</a>	
+												<a class="orange-link" href="global-reach.php">Learn More &#8594;</a>	
 											</section>
 										</div><!--end nested row-->	
 									</section>		
