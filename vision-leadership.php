@@ -80,7 +80,7 @@
 								</section>
 								<div class="row archives">
 									<div class="hidden-lg hidden-md hidden-sm col-xs-8 col-xs-offset-2">
-										<a class="link-archives learn-more text-center" href="#">Learn More</a>
+										<a class="link-archives learn-more text-center" href="#">Learn More &#8594;</a>
 									</div>
 								</div>
 

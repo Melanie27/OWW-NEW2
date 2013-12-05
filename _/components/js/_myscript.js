@@ -107,7 +107,7 @@ $('.panel-heading a').each(function (index) {
 /*Navigation*/
 $("#home a:contains('Home')").parent().addClass('active');
 $("#our-brands a:contains('Our Brands')").parent().addClass('active');
-$("#global-corporate-housing a:contains('Global Corporate Housing')").parent().addClass('active');
+$("#global-services a:contains('Global Services')").parent().addClass('active');
 $("#business-solutions a:contains('Business Solutions')").parent().addClass('active');
 $("#government a:contains('Business Solutions')").parent().addClass('active');
 $("#vision-leadership a:contains('Vision and Leadership')").parent().addClass('active');
