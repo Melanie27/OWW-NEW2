@@ -45,93 +45,15 @@
 												</div><!--end second nested row-->
 											</section><!--end contact us-->
 										</section><!--end row-->
-
-										<section class="row hidden-sm hidden-xs military-carousel">
+										<hr>
+										
+										<section class="row hidden-sm hidden-xs carousel-heading">
 											<div class="col-lg-12">
 												<h2>Search Fully Furnished Oakwood Military Lodging In Key US Cities at Oakwood.com</h2>
 											</div>
 										</section>
-								
-										<section class="row hidden-sm hidden-xs">
-											<div class="col-lg-12">
-									
-												<div id="carousel-example-generic" class="carousel slide">
-													<!-- Indicators -->
-													<!--<ol class="carousel-indicators">
-															<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-															<li data-target="#carousel-example-generic" data-slide-to="1"></li>
-															<li data-target="#carousel-example-generic" data-slide-to="2"></li>
-														</ol>-->
-
-														<!-- Wrapper for slides -->
-														<div class="carousel-inner"> 
-															<!-- Slide -->
-															<div class="item active">
-																<div class="row">
-																	<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-01.jpg" alt="military-01" class="img-responsive">
-																		<div class="carousel-caption">
-																			<h3>Washington DC<br/> Military Lodging</h3>
-																		</div>
-																	</div>
-																	<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-02.jpg" alt="military-01" class="img-responsive">
-																		<div class="carousel-caption">
-																			<h3>New York, NY<br/> Military Lodging</h3>
-																		</div>
-																	</div>
-																	<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-03.jpg" alt="military-01" class="img-responsive">
-																		<div class="carousel-caption">
-																			<h3>New York, NY<br/> Military Lodging</h3>
-																		</div>
-																	</div>
-																</div><!--end row-->
-															</div><!--end item-->
-															<!-- Slide -->
-															<div class="item">
-																<div class="row">
-																	<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-01.jpg" alt="military-01" class="img-responsive">
-																		<div class="carousel-caption">
-																			<h3>Washington DC<br/> Military Lodging</h3>
-																		</div>
-																	</div>
-																	<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-02.jpg" alt="military-01" class="img-responsive">
-																		<div class="carousel-caption">
-																			<h3>New York, NY<br/> Military Lodging</h3>
-																		</div>
-																	</div>
-																	<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-03.jpg" alt="military-01" class="img-responsive">
-																		<div class="carousel-caption">
-																			<h3>New York, NY<br/> Military Lodging</h3>
-																		</div>
-																	</div>
-																</div><!--end row-->
-															</div><!--end item-->
-															<!-- Slide -->
-															<div class="item">
-																<div class="row">
-																	<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-01.jpg" alt="military-01" class="img-responsive">
-																		<div class="carousel-caption">
-																			<h3>Washington DC<br/> Military Lodging</h3>
-																			</div>
-																		</div>
-																		<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-02.jpg" alt="military-01" class="img-responsive">
-																			<div class="carousel-caption">
-																				<h3>New York, NY<br/> Military Lodging</h3>
-																			</div>
-																		</div>
-																		<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-03.jpg" alt="military-01" class="img-responsive">
-																		<div class="carousel-caption">
-																			<h3>New York, NY<br/> Military Lodging</h3>
-																		</div>
-																	</div>
-																</div><!--end row-->
-															</div><!--end item-->
-														</div><!--end carousel-inner-->
-													</div><!--end carousel-example-->
-													<!-- Controls --> 
-													<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev"> <span class="icon-prev"></span> </a> <a class="right carousel-control" href="#carousel-example-generic" data-slide="next"> <span class="icon-next"></span> </a>
-									
-												</div>
-											</section><!--end row-->
+											<?php include "_/components/php/carousel.php"; ?>
+										
 										</div><!--container-->
 									</section><!--five-->
 								</div>

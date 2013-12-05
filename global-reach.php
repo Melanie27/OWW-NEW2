@@ -49,32 +49,39 @@
 									</section>
 									<div class="row">
 										<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 country-map">
-											<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive center-block">
-											<header class="industries center-block">
-												<h3>United States and Canada</h3>
-												<div class="clearfix"></div>
-											</header>
+											<a href="united-states-canada.php">
+												<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive center-block">
+												<header class="industries center-block">
+													<h3>United States and Canada</h3>
+													<div class="clearfix"></div>
+												</header>
+											</a>
 										</section>
 										<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 country-map">
-											<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive center-block">
-											<header class="industries center-block">
-												<h3>South America</h3>
-												<div class="clearfix"></div>
-											</header>
+											<a href="united-states-canada.php">
+												<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive center-block">	
+												<header class="industries center-block">
+													<h3>South America</h3>
+													<div class="clearfix"></div>
+												</header>
+											</a>
 										</section>
 										<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 country-map">
-											<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive center-block">
-											<header class="industries center-block">
-												<h3>Europe, Middle East and Africa</h3>
-												<div class="clearfix"></div>
-											</header>
+											<a href="united-states-canada.php">
+												<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive center-block">
+												<header class="industries center-block">
+													<h3>Europe, Middle East and Africa</h3>
+													<div class="clearfix"></div>
+												</header>
+											</a>
 										</section>
 										<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 country-map">
-											<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive center-block">
-											<header class="industries center-block">
-												<h3>Asia and the Pacific</h3>
-												<div class="clearfix"></div>
-											</header>
+											<a href="united-states-canada.php">
+												<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive center-block">
+												<header class="industries center-block">
+													<h3>Asia and the Pacific</h3>
+													<div class="clearfix"></div>
+												</header>
 										</section>
 									</div>
 								</div>
