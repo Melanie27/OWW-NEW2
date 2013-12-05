@@ -87,22 +87,49 @@
 								</div>
 								
 								<div class="row regional-supply">
-									<section class="col-lg-3 col-md-3 col-sm-6 col-xs-3">
-										
-										<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive pull-left">
-										<p>3,500 Associates worldwide</p>
+									<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 ">
+										<div class="row">
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-4">
+												<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
+											</section>
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-8">
+												<p>3,500 Associates worldwide</p>
+											</section>
+										</div>
+									
 									</section>
 									<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-										<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
-										<p>Associates speak over 26 languages and can communicate important information to guests in a variety of ways.</p>
+										<div class="row">
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-4">
+												<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
+											</section>
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-8">
+												<p>Associates speak over 26 languages and can communicate important information to guests in a variety of ways.</p>
+											</section>
+										</div>
+
 									</section>
 									<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-										<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
-										<p>Regional offices with local market knowledge connect you and your guests with what they need to safely adjust to their new surroundings.</p>
+										<div class="row">
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-4">
+												<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
+											</section>
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-8">
+												<p>Regional offices with local market knowledge connect you and your guests with what they need to safely adjust to their new surroundings.</p>
+											</section>
+										</div>
+
 									</section>
 									<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-										<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
-										<p>Oakwood Worldwide not only finds you a property at your price point, but ensures your guests feel comfortable no matter where they go.</p>
+										<div class="row">
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-4">
+												<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
+											</section>
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-8">
+												<p>Oakwood Worldwide not only finds you a property at your price point, but ensures your guests feel comfortable no matter where they go.</p>
+											</section>
+										</div>
+
 									</section>
 								</div>
 								<hr>
@@ -115,22 +142,50 @@
 								
 								<div class="row regional-supply">
 									<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-										<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
-										<p>Oakwood Worldwide has partnerships with more than 1,300 lorem ipsum.</p>
+										<div class="row">
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-4">
+												<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
+											</section>
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-8">
+												<p>Oakwood Worldwide has partnerships with more than 1,300 lorem ipsum.</p>
+											</section>
+										</div>
+	
 									</section>
 									<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-										<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
-										<p>Oakwood visits and inspects all properties</p>
+										<div class="row">
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-4">
+												<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
+											</section>
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-8">
+												<p>Associates speak over 26 languages and can communicate important information to guests in a variety of ways.</p>
+											</section>
+										</div>
+
 									</section>
 									<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-										<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
-										<p>Furnishings are managed by Oakwood Worldwide personnel</p>
+										<div class="row">
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-4">
+												<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
+											</section>
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-8">
+												<p>Furnishings are managed by Oakwood Worldwide personnel</p>
+											</section>
+										</div>
+
 									</section>
 									<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-										<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
-										<p>Guests won't see a difference between staying in managed</p>
+										<div class="row">
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-4">
+												<img src="images/global-services/regional-icon.jpg" alt="regional-icon" class="img-responsive">
+											</section>
+											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-8">
+												<p>Guests wont see a difference between staying in managed</p>
+											</section>
+										</div>
+
 									</section>
-								</div>	
+								</div>
 									
 							</section><!--three-->
 						
