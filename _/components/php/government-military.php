@@ -45,7 +45,7 @@
 												</div><!--end second nested row-->
 											</section><!--end contact us-->
 										</section><!--end row-->
-										<hr>
+										<hr class="hidden-sm hidden-xs">
 										
 										<section class="row hidden-sm hidden-xs carousel-heading">
 											<div class="col-lg-12 col-md-12">
