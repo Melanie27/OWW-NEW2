@@ -28,21 +28,21 @@
 				<img src="images/vision-leadership/_players/howard-ruby-tb.jpg" alt="Howard Ruby" class="pull-left" />
 				<h3 class="name">Howard Ruby</h3>
 				<p class="title">Chairman, Founder and COO</p>
-				<p><a href="#" class="orange-link">Full Bio &#8594;</a></p>
+				<p><a href="executive-leadership.php" class="orange-link">Full Bio &#8594;</a></p>
 												
 			</li>
 			<li class="clearfix">
 				<img src="images/vision-leadership/_players/jill-chapman-tb.jpg" alt="Jill Chapman" class="pull-left" />
 				<h3 class="name">Jill Chapman</h3>
 				<p class="title">SVP, Global Sales and Marketing</p>
-				<p><a href="#" class="orange-link">Full Bio &#8594;</a></p>
+				<p><a href="executive-leadership.php" class="orange-link">Full Bio &#8594;</a></p>
 												
 			</li>
 			<li class="clearfix">
 				<img src="images/vision-leadership/_players/marina-lubinsky-tb.jpg" alt="Marina Lubinsky" class="pull-left" />
 				<h3 class="name">Marina Lubinsky</h3>
 				<p class="title">SVP and Chief Information Officer</p>
-				<p><a href="#" class="orange-link">Full Bio &#8594;</a></p>
+				<p><a href="executive-leadership.php" class="orange-link">Full Bio &#8594;</a></p>
 												
 			</li>
 		</ul>
@@ -53,21 +53,21 @@
 				<img src="images/vision-leadership/_players/ric-villarreal-tb.jpg" alt="Ric Villarreal" class="pull-left" />
 				<h3 class="name">Ric Villarreal</h3>
 				<p class="title">President</p>
-				<p><a href="#" class="orange-link">Full Bio &#8594;</a></p>
+				<p><a href="executive-leadership.php" class="orange-link">Full Bio &#8594;</a></p>
 												
 			</li>
 			<li class="clearfix">
 				<img src="images/vision-leadership/_players/bill-foltz-tb.jpg" alt="Bill Foltz" class="pull-left" />
 				<h3 class="name">Bill Foltz</h3>
 				<p class="title">SVP and Chief Financial Officer</p>
-				<p><a href="#" class="orange-link">Full Bio &#8594;</a></p>
+				<p><a href="executive-leadership.php" class="orange-link">Full Bio &#8594;</a></p>
 												
 			</li>
 			<li class="clearfix">
 				<img src="images/vision-leadership/_players/ana-castellanos-tb.jpg" alt="Ana Castellanos" class="pull-left" />
 				<h3 class="name">Ana Castellanos</h3>
 				<p class="title">VP, Chief Human Resources Officer</p>
-				<p><a href="#" class="orange-link">Full Bio &#8594;</a></p>
+				<p><a href="executive-leadership.php" class="orange-link">Full Bio &#8594;</a></p>
 												
 			</li>
 		</ul>

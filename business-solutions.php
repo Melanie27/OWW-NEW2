@@ -41,7 +41,7 @@
 						<div class="container">
 							<section class="three">
 								<div class="row over2">
-									<section class="col-lg-12 col-md-12 news-columns" style="padding-left:0px;">
+									<section class="col-lg-12 col-md-12 news-columns no-left-padding">
 										<?php include "_/components/php/industry-solutions.php"; ?>
 									</section>
 								</div><!--row-->

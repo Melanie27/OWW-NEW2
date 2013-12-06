@@ -113,6 +113,7 @@ $("#united-states-canada a:contains('Global Services')").parent().addClass('acti
 $("#business-solutions a:contains('Business Solutions')").parent().addClass('active');
 $("#government a:contains('Business Solutions')").parent().addClass('active');
 $("#vision-leadership a:contains('Vision and Leadership')").parent().addClass('active');
+$("#executive-leadership a:contains('Vision and Leadership')").parent().addClass('active');
 $("#industry-affiliations a:contains('Vision and Leadership')").parent().addClass('active');
 $("#news a:contains('News')").parent().addClass('active');
 $("#press-releases a:contains('News')").parent().addClass('active');
