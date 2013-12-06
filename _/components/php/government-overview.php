@@ -1,6 +1,6 @@
 					<section class="three overview" id="overview">
 								<div class="row over2">
-									<section class="col-lg-12 col-md-12">
+									<section class="col-lg-12 col-md-12 container">
 										<div class="row overview-top">
 											<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12 no-padding" >
 												<h1>Extended Stay Lodging for the Federal Government</h1>

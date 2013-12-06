@@ -12,13 +12,13 @@
 							</h1>
 						</div>	
 																				
-						<div id="collapseOne" class="panel-collapse collapse in">
+						<div id="collapseOne" class="panel-collapse collapse in container">
 							<div class="panel-body">
 							
 								<div class="content row">
-									<div class="col-lg-12 col-md-12">
+									<div class="col-lg-12 col-md-12 ">
 										<section class="five military" id="military">
-											<div class="container">
+											
 												<section class="row">								
 													<div class="col-lg-8 col-md-8 two-col-text">
 														<h1 class="hidden-xs hidden-sm">Military</h1>
@@ -48,13 +48,13 @@
 										<hr>
 										
 										<section class="row hidden-sm hidden-xs carousel-heading">
-											<div class="col-lg-12">
+											<div class="col-lg-12 col-md-12">
 												<h2>Search Fully Furnished Oakwood Military Lodging In Key US Cities at Oakwood.com</h2>
 											</div>
 										</section>
 											<?php include "_/components/php/carousel.php"; ?>
 										
-										</div><!--container-->
+										
 									</section><!--five-->
 								</div>
 							</div><!--end content five-->

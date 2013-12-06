@@ -1,5 +1,5 @@
-							<section class="row hidden-sm hidden-xs">
-											<div class="col-lg-12 col-md-12">
+							<section class="row container hidden-sm hidden-xs">
+											<div class="col-lg-12 col-md-12 no-padding">
 									
 												<div id="carousel-example-generic" class="carousel slide">
 
