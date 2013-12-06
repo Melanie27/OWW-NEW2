@@ -77,7 +77,7 @@
 								
 								<hr>
 								
-								<div class="row">
+								<div class="row global-destinations">
 									<section class="col-lg-12 col-md-12 global-intro">
 										<h1>Explore Oakwood Worldwide's Other Global Destinations and Services</h1>
 									</section>

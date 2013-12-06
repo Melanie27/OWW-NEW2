@@ -93,7 +93,7 @@
 							<section class="five container">
 								
 								<div class="row">
-									<section class="col-lg-12 col-md-12 experience">
+									<section class="col-lg-12 col-md-12 col-sm-12 experience">
 										<h1>Experience and Expertise</h1>
 										<h2>Oakwood Worldwide's commitment to providing seamless housing solutions extends far past our physical properties.</h2>
 										
