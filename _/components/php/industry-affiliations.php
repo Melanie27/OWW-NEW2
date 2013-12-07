@@ -7,17 +7,17 @@
 			<img src="images/vision-leadership/_industry-affiliations/worldwide-erc.jpg" alt="The Workforce Mobility Association" class="img-responsive"/>
 		</a>
 	</div> 
-	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-8">
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 		<a href="industry-affiliations.php">
 			<img src="images/vision-leadership/_industry-affiliations/chpa.jpg" alt="Corporate Housing Providers Association" class="img-responsive"/>
 		</a>	
 	</div> 
-	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 		<a href="industry-affiliations.php">
 			<img src="images/vision-leadership/_industry-affiliations/nmhc.jpg" alt="National Multi Housing Council" class="img-responsive"/>
 		</a>	
 	</div> 
-	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 		<a href="#">
 			<img src="images/vision-leadership/_industry-affiliations/totally-expat.jpg" alt="Totally Expat" class="img-responsive"  />
 		</a>	
@@ -26,17 +26,17 @@
 </section>
 
 <section class="row industry-logos">
-	<div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-6 col-xs-8">
+	<div class="col-lg-3 col-lg-offset-1 col-md-3 col-md-offset-1 col-sm-6 col-xs-10 col-xs-offset-2">
 		<a href="industry-affiliations.php">
 			<img src="images/vision-leadership/_industry-affiliations/afci.jpg" alt="AFCI" class="img-responsive" />
 		</a>	
 	</div>
-	<div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">
+	<div class="col-lg-2 col-md-2 col-sm-6 col-xs-10 col-xs-offset-2">
 		<a href="industry-affiliations.php">
 			<img src="images/vision-leadership/_industry-affiliations/eura.jpg" alt="EURA" class="img-responsive" />
 		</a>	
 	</div>
-	<div class="col-lg-2 col-lg-offset-1 col-md-2 col-md-offset-1 col-sm-5 col-sm-offset-1 col-xs-5 col-xs-offset-1">
+	<div class="col-lg-2 col-lg-offset-1 col-md-2 col-md-offset-1 col-sm-5 col-sm-offset-1 col-xs-6">
 		<a href="industry-affiliations.php">
 			<img src="images/vision-leadership/_industry-affiliations/asap.jpg" alt="ASAP" class="img-responsive"/>
 		</a>	
@@ -60,17 +60,17 @@
 			<img src="images/vision-leadership/_industry-affiliations/shrm.jpg" alt="SHRM" class="img-responsive" />
 		</a>	
 	</div>
-	<div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">
+	<div class="col-lg-2 col-md-2 col-sm-6 col-xs-10 col-xs-offset-2">
 		<a href="industry-affiliations.php">
 			<img src="images/vision-leadership/_industry-affiliations/ndta.jpg" alt="NDTA" class="img-responsive" />
 		</a>	
 	</div>
-	<div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">
+	<div class="col-lg-2 col-md-2 col-sm-6 col-xs-12">
 		<a href="industry-affiliations.php">
 			<img src="images/vision-leadership/_industry-affiliations/cerc.jpg" alt="CERC" class="img-responsive" />
 		</a>	
 	</div>
-	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 		<a href="industry-affiliations.php">
 			<img src="images/vision-leadership/_industry-affiliations/broadway-league.jpg" alt="The Broadway League" class="img-responsive" />
 		</a>

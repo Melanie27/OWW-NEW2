@@ -79,7 +79,7 @@
   				
   				<div class="content row">
 					<div class="col-lg-12">
-						<section class="six hidden-sm">
+						<section class="six hidden-sm hidden-xs">
 						</section>
 					</div>
 				</div><!--content 6-->
