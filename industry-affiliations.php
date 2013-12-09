@@ -42,8 +42,8 @@
 								<h1>National Multi Housing Council</h1>
 							</div>
 							<div class="row">
-								<section class="col-lg-4 col-md-4">
-									<img src="images/vision-leadership/_industry-affiliations/individual-nmhc.jpg" alt="individual-nmhc">
+								<section class="col-lg-4 col-md-4 logo-individual">
+									<img src="images/vision-leadership/_industry-affiliations/individual-nmhc.jpg" alt="individual-nmhc" class="logo-large">
 								</section>
 							
 								<section class="col-lg-8 col-md-8 affiliations-text">
@@ -54,17 +54,20 @@
 									</p>
 								</section>
 							</div>	
-							
-							<section class="row industry-affiliations">
-								
-							<?php include "_/components/php/industry-affiliations.php"; ?>
-							</section>
-							
-																							
+																	
 						</section>
 					</div><!--row-->
 				</section><!--three-->
 				
+				<hr>
+				
+				<section class="five container">
+				
+				<section class="row industry-affiliations">
+								
+							<?php include "_/components/php/industry-affiliations.php"; ?>
+							</section>
+				</section>
 				
 				
 				
