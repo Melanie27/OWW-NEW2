@@ -55,9 +55,10 @@
 										</ul>
 									</section>
 								</div>
+							</section><!--end three-->
 								<hr>
 								
-							
+							<section class="five container">
 								<div class="row carousel-heading">
 									<section class="col-lg-12 col-md-12 ">
 										<h2>Search Popular US and Canada Destinations</h2>
@@ -74,9 +75,11 @@
 										<?php include "_/components/php/carousel-global.php"; ?>
 									</section>
 								</div>
+							</section><!--end five-->
 								
 								<hr>
 								
+							<section class="seven container">
 								<div class="row global-destinations">
 									<section class="col-lg-12 col-md-12 global-intro">
 										<h1>Explore Oakwood Worldwide's Other Global Destinations and Services</h1>
@@ -120,11 +123,7 @@
 										</section>
 									</div>
 								</div>
-								
-								
-								
-									
-							</section><!--three-->
+							</section><!--seven-->
 						
 				<hr>	
 				
