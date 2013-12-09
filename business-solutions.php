@@ -61,7 +61,7 @@
 						<section class="five">
 							<div class="container">
 								
-								<h1>Industry Insights</h1>
+								<h1><a href="industry-insights.php">Industry Insights</a></h1>
 								<?php include "_/components/php/industry-insights.php"; ?>	
 
 							</div><!--container-->
