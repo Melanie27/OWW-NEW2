@@ -54,7 +54,7 @@
 					</div><!-col-->
 				</div><!--row-->
 			
-				
+			<hr class="hidden-lg hidden-md hidden-sm">	
 				
 			<div class="container">
 				<section class="row">
@@ -83,6 +83,8 @@
 										</ul>
 									</section>
 									
+									<hr class="hidden-lg hidden-md hidden-sm">
+									
 									<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12 videos">
 										<h1>Videos</h1>
 										<ul class="news-thumbnails">
@@ -110,6 +112,8 @@
 										</ul>
 									</section>
 									
+									<hr class="hidden-lg hidden-md hidden-sm">
+									
 									<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12 white-papers">
 										<h1>White Papers</h1>
 											<ul class="news-thumbnails">
@@ -130,7 +134,7 @@
 												</li>
 											</ul>
 									</section>
-								
+								<hr class="hidden-lg hidden-md hidden-sm">
 
 								</div>
 						</section><!--five-->

@@ -6,7 +6,9 @@
 												<h1>Featured Insight Video Title</h1>
 												<img src="images/government/industry-insights/video-industry-insights.jpg" alt="video-industry-insights" class="img-responsive" />
 												<p class="caption">July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Nullam in dui mauris. Vivamus hendrerit arcu sed erat lorem ipsum.</p>
-																																			</section><!--end two thirds-->
+																																													</section><!--end two thirds-->
+																																													
+											<hr class="hidden-lg hidden-md hidden-sm">																																		
 											<section class="col-lg-4 col-md-5 col-sm-6 by-industry">
 												<h1>Solutions by Industry</h1>
 													<ul class="solutions-industry">
@@ -22,3 +24,4 @@
 									</section>
 								</div><!--row-->
 							</section><!--three overview-->
+							
