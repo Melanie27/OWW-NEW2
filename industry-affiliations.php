@@ -59,10 +59,9 @@
 					</div><!--row-->
 				</section><!--three-->
 				
-				
+				<hr>
 				
 				<section class="five container">
-				<hr>
 					<section class="row industry-affiliations">		
 						<?php include "_/components/php/industry-affiliations.php"; ?>
 					</section>
