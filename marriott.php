@@ -63,7 +63,7 @@
 							</section><!--content 4-->
 										
 							
-							<section class="container">			
+							<section class="container five">			
 								<div class="row">
 									<section class="col-lg-12 col-md-12">
 										<h1>Oakwood Worldwide guests benefit from:</h1>
@@ -71,7 +71,7 @@
 												<section class="col-lg-4 col-md-4 col-sm-6 hidden-xs">
 													<img src="images/marriott/marriott-international-01.png" alt="Marriott Building" class="img-responsive">
 												</section>
-												<section class="col-lg-8 col-md-8 col-sm-6">
+												<section class="col-lg-8 col-md-8 col-sm-6 marriott-list">
 													
 													<ul class="two-col-bullets">
 														<li>Direct access to nearly 4,000 additional Marriott International locations worldwide</li>
@@ -94,7 +94,7 @@
 				
 				<div class="row">
 					<div class="col-lg-12">
-						<section class="four hidden-sm">
+						<section class="six">
 						</section>
 					</div>
 				</div><!--content 4-->
