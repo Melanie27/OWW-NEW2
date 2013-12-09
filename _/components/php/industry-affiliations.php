@@ -41,7 +41,7 @@
 			<img src="images/vision-leadership/_industry-affiliations/asap.jpg" alt="ASAP" class="img-responsive"/>
 		</a>	
 	</div>
-	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 		<a href="industry-affiliations.php">
 			<img src="images/vision-leadership/_industry-affiliations/naa.jpg" alt="NAA"  class="img-responsive"/>
 		</a>
@@ -50,12 +50,12 @@
 </section>
 
 <section class="row industry-logos">
-	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 		<a href="industry-affiliations.php">
 			<img src="images/vision-leadership/_industry-affiliations/sgtp.jpg" alt="SGTP" class="img-responsive"/>
 		</a>	
 	</div>
-	<div class="col-lg-2 col-md-2 col-sm-5 col-xs-6">
+	<div class="col-lg-2 col-md-2 col-sm-5 col-xs-12">
 		<a href="industry-affiliations.php">
 			<img src="images/vision-leadership/_industry-affiliations/shrm.jpg" alt="SHRM" class="img-responsive" />
 		</a>	
