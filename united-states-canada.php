@@ -71,7 +71,7 @@
 												<li>Charleston, SC</li>
 												<li>New York, NY</li>
 											</ul>
-										<?php include "_/components/php/carousel.php"; ?>
+										<?php include "_/components/php/carousel-global.php"; ?>
 									</section>
 								</div>
 								
