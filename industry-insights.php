@@ -62,7 +62,7 @@
 						<section class="five">
 							
 								<div class="row">
-									<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+									<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12 case-studies">
 										<h1>Case Studies</h1>
 										<ul class="news-thumbnails">
 											<li class="clearfix">
@@ -83,28 +83,34 @@
 										</ul>
 									</section>
 									
-									<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+									<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12 videos">
 										<h1>Videos</h1>
 										<ul class="news-thumbnails">
 											<li class="clearfix">
-												<img src="images/government/industry-insights/videos-tb-01.jpg" alt="latest-news-tb-01" class="pull-left">
+												<a href="#">
+													<img src="images/government/industry-insights/videos-tb-01.jpg" alt="latest-news-tb-01" class="pull-left">
+												</a>
 												<p class="date">Oct 5, 2013</p>
 												<p class="headline">Lorem Ipsum Dolore Sit Amet Oakwood</p>
 											</li>
 											<li class="clearfix">
-												<img src="images/government/industry-insights/videos-tb-02.jpg" alt="latest-news-tb-01" class="pull-left">
+												<a href="#">
+													<img src="images/government/industry-insights/videos-tb-02.jpg" alt="latest-news-tb-01" class="pull-left">
+												</a>
 												<p class="date">Oct 5, 2013</p>
 												<p class="headline">Lorem Ipsum Dolore Sit Amet Oakwood</p>
 											</li>
 											<li class="clearfix">
-												<img src="images/government/industry-insights/videos-tb-03.jpg" alt="latest-news-tb-01" class="pull-left">
+												<a href="#">
+													<img src="images/government/industry-insights/videos-tb-03.jpg" alt="latest-news-tb-01" class="pull-left">
+												</a>
 												<p class="date">Oct 5, 2013</p>
 												<p class="headline">Lorem Ipsum Dolore Sit Amet Oakwood</p>
 											</li>
 										</ul>
 									</section>
 									
-									<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+									<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12 white-papers">
 										<h1>White Papers</h1>
 											<ul class="news-thumbnails">
 												<li class="clearfix">
