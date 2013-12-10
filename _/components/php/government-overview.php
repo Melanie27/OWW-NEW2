@@ -2,7 +2,7 @@
 								<div class="row over2">
 									<section class="col-lg-12 col-md-12 container">
 										<div class="row overview-top">
-											<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12 no-padding" >
+											<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12" >
 												<h1>Extended Stay Lodging for the Federal Government</h1>
 												<h2>For over 50 years, Oakwood Worldwide has given those who serve America a place they could call home.</h2>
 												<p>As the first, largest and leading provider of extended stay lodging (ESL) solutions to the federal government, Oakwood offers a welcoming environment for government employees, with convenient locations, and access to various transportation options.</p>

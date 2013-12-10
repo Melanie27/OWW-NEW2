@@ -32,6 +32,36 @@ h2 {
 			
 }
 
+.hero-halves {
+	
+	h1 {
+		
+		margin-top:0px;
+	}
+}
+
+.first-third-one-third {
+	
+	padding-left:0px;
+	
+	p {
+		padding-right:30px;
+	}
+	
+}
+
+.leaders {
+	
+	padding-left:40px;
+}
+
+.archives {
+	
+	div {
+		padding-right:40px;
+	}
+}
+
 .logo-large {
 	
 	border:solid 1px @oww-light-gray;
@@ -55,6 +85,114 @@ h2 {
 		}
 		
 	
+}
+
+#vision-leadership {
+	
+	.carousel {
+		
+		margin-bottom:0px;
+	}
+	
+	.carousel-caption {
+		
+		width:520px;
+		left:580px;
+		bottom:95px;
+		background-color:transparent;
+		text-shadow:none;
+	}
+	
+	.carousel-control.left {
+   	 	background-image: none;
+   	 	bottom: -130px;
+   	 	left: 490px;
+   	 	 z-index:100;
+   	 }
+   	 
+   	 .carousel-control.right {
+	   	 background-image: none;
+	   	 background-repeat: repeat-x;
+	   	 bottom: -130px;
+	   	 left: 995px;
+	   	 z-index:100;
+	   	}
+	   	
+	  .carousel-indicators {
+		  
+		  bottom: 25px;
+		  left: 83%;
+		  width: 46%;
+		  z-index: 1;
+    
+    }
+    
+    
+    
+    .carousel-indicators:before {
+	    
+	    
+        border-top: 1px solid #bbbbbb;
+        content:"";
+        margin: 0 auto; /* this centers the line to the full width specified */
+        position: absolute; /* positioning must be absolute here, and relative positioning must be applied to the parent */
+        top: 55%; left: 0; right: 0; bottom: 0;
+        width: 95%;
+        z-index: -1;
+   
+
+    }
+		 
+		 
+		.glyphicon-chevron-right:before {
+			
+			content: url(../../images/vision-leadership/carousel-arrow-right.jpg);
+
+		}
+		
+		.glyphicon-chevron-left:before {
+			
+			content: url(../../images/vision-leadership/carousel-arrow-left.jpg);
+			
+
+		}
+		
+		.carousel-indicators li {
+			border: solid 1px #bbbbbb;
+			background-color:#fff;
+			width:15px;
+			height:15px;
+			border-radius: 15px;
+		}
+		 
+		 
+		 .carousel-indicators li {
+			 margin-right:15px;
+		 }
+		
+		
+		.carousel-indicators li.active {
+			
+			width:30px;
+			height:30px;
+			border-radius:30px;
+		}
+		
+		.date-next, .date-prev {
+			
+			position:relative;
+			top:230px;
+			text-shadow:none;
+		}
+		
+		.date-next {
+			
+			left:-20px;
+		}
+		
+		.date-prev {
+			left:20px;
+		}
 }
 
 
@@ -356,6 +494,10 @@ h2 {
 @media (min-width: 768px) and (max-width: 991px) {
 	
 	
+	.first-third-one-third {
+		padding-left:15px;
+	}
+	
 	#vision-leadership {
 	
 		.executive-committee {
@@ -433,5 +575,36 @@ h2 {
 		
 		padding-left:30px;
 		padding-right:30px;
+	}
+	
+	#vision-leadership {
+	
+		.carousel-caption {
+			
+			bottom:50px;
+			left:460px;
+		}
+		
+		.carousel-indicators {
+			
+			bottom:-5px;
+			left:742px;
+		}
+		
+		 .carousel-control.left {
+			 
+			 bottom: -140px;
+			 left: 400px;
+			 z-index:100;
+		 }
+		 
+		 .carousel-control.right {
+			  bottom: -140px;
+			  left: 820px;
+			  z-index:100;
+		 }
+		 
+		 
+		
 	}
 }
