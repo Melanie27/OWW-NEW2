@@ -86,7 +86,9 @@
 										</section>
 									</div>
 								</div>
-								<hr>
+							</section>
+							<hr>
+							<section class="container three three-a">
 								<div class="row">
 									<section class="col-lg-12 col-md-12 regional-supply">
 										<h1>Regional Expertise</h1>
@@ -140,14 +142,16 @@
 
 									</section>
 								</div>
-								<hr>
+							</section>
+							<hr>
+  		                    <section class="container three three-a">
 								<div class="row">
 									<section class="col-lg-12 col-md-12 regional-supply">
 										<h1>Supply Chain</h1>
 										
 									</section>
 								</div>
-								
+  		                    
 								<div class="row regional-supply">
 									<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
 										<div class="row">

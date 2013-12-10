@@ -26,7 +26,7 @@
 					<a href="our-brands.php">Our Brands</a>
 				</li>
 				<li>
-					<a href="global-services.php">Global Services</a>
+					<a href="global-expertise.php">Global Expertise</a>
 				</li>
 				<li>
 					<a href="business-solutions.php">Business Solutions</a>

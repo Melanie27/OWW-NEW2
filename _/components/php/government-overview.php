@@ -74,7 +74,7 @@
 											</section>
 										</div>
 										
-										
+										<hr>
 										
 										<div class="row overview-gsa">
 											<section class="col-lg-11 col-md-11 col-xs-12">
@@ -83,7 +83,7 @@
 											</section>
 										</div><!--end gsa-->
 										
-										
+										<hr>
 										
 										<div class="row hidden-xs">
 											<section class="tab-section">

@@ -94,7 +94,7 @@
 						</section>
 					</div>
 				</div><!--content 4-->
-				
+				<hr>
 				<div class="row">
 					<section class="col-lg-12 five">
 						<div class="container">	
@@ -105,10 +105,14 @@
 									<p class="">Sed aucto lorem ipsum dolore sit amet ndisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posu aesent. Vestibulum ante ipsum primis in faucibus orci luctus.</p>
 										
 								</div><!--end first third-->
+								
+								<hr>
 								<div class="col-lg-4 col-md-4 col-sm-6 thirds middle-third">
 									<h1><a href="news.php">News</a></h1>
 									<?php include "_/components/php/news-thumbs.php"; ?>												
 								</div>
+								
+								<hr>
 								<div class="col-lg-4 col-md-4 col-sm-6 thirds last-third">
 									<h1>Industry Insights</h1>
 									<?php include "_/components/php/news-thumbs.php"; ?>												
@@ -118,6 +122,7 @@
 					</section><!--end five-->
 				</div>
   				
+  				<hr>
   				
   				<div class="content row">
 					<div class="col-lg-12">
@@ -144,7 +149,7 @@
 					</section><!--seven-->
 				</div><!--row-->
 
-				
+				<hr>
 				
 				<div class="content row">
 					<div class="col-lg-12">

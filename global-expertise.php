@@ -20,7 +20,7 @@
  
    
   </head>
-  <body id="global-services">
+  <body id="global-expertise">
   <div class="container-full">
   		<section class="container landing">
 
@@ -48,7 +48,9 @@
 										<p>Our philosophy is about finding solutions, not filling existing or vacant apartments - allowing us the flexibility to place you wherever you need to be. We remove your critical resources from the day-to-day operations of housing management, allowing you and your guests to focus on your work, not ours.</p>
 									</section>
 								</div>
-								<hr>
+							</section>
+							<hr>
+							<section class="three three-a container">
 								<div class="row">
 									<section class="col-lg-12 col-md-12 global-reach">
 										<h1>Global Reach</h1>
@@ -80,7 +82,7 @@
 								</div>			
 							</section><!--three-->
 						
-				<hr>	
+				
 				
 							<div class="row">
 								<div class="col-lg-12">
@@ -89,6 +91,7 @@
 								</div>
 							</div><!--content 4-->
 				
+				<hr>
 				
 							<section class="five container">
 								
@@ -145,7 +148,7 @@
 									</section>	
 								</div>
 							</section><!--content 5-->
-  				
+  				<hr>
 							<div class="row">
 								<div class="col-lg-12">
 									<section class="six hidden-sm hidden-xs">

@@ -56,6 +56,7 @@
 					</div>
 				</div><!--content 4-->
 				
+				<hr>
 				<div class="content row industry-insights">
 					<div class="col-lg-12">
 						<section class="five">
@@ -69,6 +70,7 @@
 					</div>
 				</div>
   				
+  				<hr>
   				
   				<div class="content row">
 					<div class="col-lg-12">

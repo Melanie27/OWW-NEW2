@@ -34,15 +34,17 @@
 						</section>		
 					</div><!--heading-->
 							
-							<?php include "_/components/php/hero-halves.php"; ?>
-		  				</section> <!--two container-->	
-		  				
+					<?php include "_/components/php/hero-halves.php"; ?>
+		  		</section> <!--two container-->	
+		  			
 		  				
 		  				<section class="hidden-lg hidden-md hidden-sm col-md-6 col-xs-12 hero-halves">
 							<h1>2013</h1>
 							<h2>Oakwood Worldwide</h2>
 							<p>Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor.</p>
 						</section><!--End two halves-->
+						
+					<hr>
 						
 							<section class="three container">
 								<div class="row over2">
