@@ -127,9 +127,16 @@ $("#careers a:contains('Careers')").parent().addClass('active');
 
 
 
-if ( $("#industry-insights a:contains('Business Solutions')") ) {
+if ( $("#industry-insights-government a:contains('Business Solutions')") ) {
 	
 	$('.solutions-industry #government').addClass('active');
+	$('.solutions-industry #relocation').removeClass('active');
+} 
+
+if ( $("#industry-insights-relocation a:contains('Business Solutions')") ) {
+	
+	$('.solutions-industry #relocation').addClass('active');
+	$('.solutions-industry #government').removeClass('active');
 }
 
 

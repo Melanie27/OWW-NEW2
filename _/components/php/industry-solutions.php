@@ -79,7 +79,7 @@
 												</div><!--end government-->
 											
 												<div class="solutions relocation">
-													<a href="#" class="industry-sections">
+													<a href="relocation.php" class="industry-sections">
 														<img src="images/business-solutions/relocation.jpg" alt="Woman on iPad" class="img-responsive" />
 														<header class="industries">
 															<h3>Relocation</h3>
