@@ -3,7 +3,7 @@
 							<div class="row over hidden-xs container">
 								<section class="col-lg-12 vert">
 										<div class="row">
-											<section class="col-lg-12 col-md-12 col-sm-6 hero-halves">
+											<section class="col-lg-12 col-md-12 col-sm-12 hero-halves">
 																					
 												<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 													<!-- Indicators -->
@@ -19,7 +19,7 @@
 														
 														<div class="item active">
 															<section class="row">
-																<div class="col-lg-6 col-md-6">
+																<div class="col-lg-6 col-md-6 col-sm-6">
 																	<img src="images/vision-leadership/vision-leadership-hero-01.jpg" class="img-responsive">
 																</div>
 																
@@ -34,7 +34,7 @@
 														
 														<div class="item">
 															<section class="row">
-																<div class="col-lg-6 col-md-6">
+																<div class="col-lg-6 col-md-6 col-sm-6">
 																	<img src="images/vision-leadership/vision-leadership-hero-01.jpg" class="img-responsive">
 																</div>
 																	<div class="carousel-caption">	
@@ -48,7 +48,7 @@
 														
 														<div class="item">
 															<section class="row">
-																<div class="col-lg-6 col-md-6">
+																<div class="col-lg-6 col-md-6 col-sm-6">
 																	<img src="images/vision-leadership/vision-leadership-hero-01.jpg" class="img-responsive">
 																</div>
 																	<div class="carousel-caption">	
