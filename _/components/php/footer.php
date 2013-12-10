@@ -11,7 +11,7 @@
 							<section class="col-lg-6 col-md-6 col-sm-6 col-xs-6 page-links">
 								<div class="row">
 									<section class="col-lg-6 col-md-6">
-										<h5>Global Solutions</h5>
+										<h5><a href="global-expertise.php">Global Expertise</a></h5>
 										<ul class="footer-lists" id="footer-global">
 											<li><a href="#">North America</a></li>
 											<li><a href="#">South America</a></li>
@@ -20,7 +20,7 @@
 											<li><a href="#">Safety Commitment</a></li>
 											<li><a href="#">Technologies</a></li>
 										</ul>
-										<h5>Partnerships</h5>	
+										<h5><a href="#">Partnerships</a></h5>	
 										<ul class="footer-lists">
 											<li><a href="#">Marriott</a></li>
 										</ul>
@@ -28,7 +28,7 @@
 											
 									</section>
 									<section class="col-lg-6 col-md-6">
-										<h5>Industry Insights</h5>
+										<h5><a href="industry-insights.php">Industry Insights</a></h5>
 										<ul class="footer-lists" id="footer-industry">
 											<li><a href="#">Government</a></li>
 											<li><a href="#">Consulting</a></li>
@@ -44,7 +44,7 @@
 							<section class="col-lg-6 col-md-6 col-sm-6 col-xs-6 page-links">
 								<div class="row">
 									<section class="col-lg-6 col-md-6">
-										<h5>Vision & Leadership</h5>
+										<h5><a href="vision-leadership.php">Vision & Leadership</a></h5>
 										<ul class="footer-lists" id="footer-vision">
 											<li><a href="#">Executive Committee</a></li>
 											<li><a href="#">Industry Affiliations</a></li>
@@ -57,7 +57,7 @@
 
 									</section>
 									<section class="col-lg-6 col-md-6">
-										<h5>News</h5>
+										<h5><a href="news.php">News</a></h5>
 										<ul class="footer-lists" id="footer-news">
 											<li><a href="#">Press Releases</a></li>
 											<li><a href="#">In The News</a></li>

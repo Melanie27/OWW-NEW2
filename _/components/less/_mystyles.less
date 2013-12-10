@@ -1136,6 +1136,7 @@ footer {
 		margin-right:2px;
 		position:fixed;
 		bottom:0px;
+		z-index:200;
 	}
 	
 	h2 {
@@ -1144,9 +1145,11 @@ footer {
 		line-height: 30px;
 	}
 	
+	
 	h5 {
 		text-transform:uppercase;
 		color: @oww-light-gray;
+		
 	}
 	
 	.page-links {
@@ -1155,6 +1158,14 @@ footer {
 		a:link, a:visited {
 			color:@oww-dark-gray;
 		
+		}
+		
+		h5 {
+			
+			a:link, a:visited {
+				color: @oww-light-gray;
+				
+			}
 		}
 	
 	}
@@ -1611,6 +1622,8 @@ footer {
 		
 	}
 	
+	
+	
 	.panel-default > .panel-heading + .panel-collapse .panel-body {
 	      border-bottom: solid 1px @oww-light-gray;
 	      padding:0px;
@@ -1750,18 +1763,26 @@ footer {
 		right:0px;
 	}
 	
-	
-	
-		.industries {
+	.industries {
 		
 			width:100%;
 		}
 		
-		.three, .five, .seven {
+	.three, .five, .seven {
 			
 			padding-left:15px;
 			padding-right:15px;
 		}
+		
+	footer {
+		
+		.btn-footer {
+		
+		width:135px;
+		margin-right:0px;
+		
+		}
+	}
 
 	
 }

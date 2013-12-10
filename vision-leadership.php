@@ -81,8 +81,8 @@
 									<?php include "_/components/php/industry-affiliations.php"; ?>	
 								</section>
 								<div class="row archives">
-									<div class="hidden-lg hidden-md hidden-sm col-xs-8 col-xs-offset-2">
-										<a class="link-archives learn-more text-center" href="#">Learn More &#8594;</a>
+									<div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-xs-8 col-xs-offset-2">
+										<a class="link-archives learn-more text-center" href="industry-affiliations.php">Learn More &#8594;</a>
 									</div>
 								</div>
 
