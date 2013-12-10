@@ -19,9 +19,9 @@
         <div class="navbar-collapse collapse in">
         	<ul class="nav navbar-nav ">
 				
-				<li class="hidden-lg hidden-md hidden-xs">
+				<!--<li class="hidden-lg hidden-md hidden-xs">
 					<a href="index.php">Home</a>
-				</li>
+				</li>-->
 				<li>
 					<a href="our-brands.php">Our Brands</a>
 				</li>
