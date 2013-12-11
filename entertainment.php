@@ -7,7 +7,8 @@
 
     <!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
-     <link href="_/css/mystyles_govt.css" rel="stylesheet" media="screen">
+    <link href="_/css/mystyles_govt.css" rel="stylesheet" media="screen">
+     <link href="_/css/mystyles_entertainment.css" rel="stylesheet" media="screen">
    
      <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">-->
    
@@ -38,9 +39,9 @@
 		  	</section> <!--two-->	
 		  				
 						
-			<div class="hidden-sm hidden-xs sub-navigation">
+			<div class="hidden-sm hidden-xs sub-navigation container">
 				<section class="row">
-					<div class="col-lg-12 center-block">
+					<div class="col-lg-12">
 						<nav class="navbar navbar-default sub-nav" role="navigation">
 							<!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -61,9 +62,12 @@
 			<hr>
 			
 			<div class="container">
+				
 				<?php include "_/components/php/extended-stay-logding.php"; ?>
+				
 			</div><!--end container-->
-					
+			
+			<hr>		
 				
 				<div class="content row">
 					<div class="col-lg-12 col-md-12">

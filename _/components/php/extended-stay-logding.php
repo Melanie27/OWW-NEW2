@@ -1,7 +1,13 @@
-									<h1 class="entertainment-head">Extended Stay Lodging for the Entertainment Industry</h1>
-									<h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo lacus 
+									<section class="row">
+										<div class="col-lg-9 col-md-9">
+									
+											<h1 class="entertainment-head">Extended Stay Lodging for the Entertainment Industry</h1>
+											<h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo lacus 
 et nibh venenatis, sed rhoncus erat pharetra.</h2>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo lacus et nibh venenatis, sed rhoncus erat pharetra. Mauris lobortis odio et ante viverra porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et ante quis lectus aliquet placerat sit amet in risus.</p>
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo lacus et nibh venenatis, sed rhoncus erat pharetra. Mauris lobortis odio et ante viverra porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et ante quis lectus aliquet placerat sit amet in risus.</p>
+										
+										</div>
+									</section>
 									
 									
 									<div class="row entertainment-columns">
