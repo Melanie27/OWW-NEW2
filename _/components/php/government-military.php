@@ -1,4 +1,4 @@
-<div class="panel-group" id="accordion">
+				<div class="panel-group" id="accordion">
 					<div class="panel panel-default">
 						<div class="panel-heading collapse1" id="collapse1">
 							<h1 class="title1 panel-title">

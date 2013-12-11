@@ -41,7 +41,7 @@
 						
 			<div class="hidden-sm hidden-xs sub-navigation container">
 				<section class="row">
-					<div class="col-lg-12">
+					<div class="col-lg-12 center-block">
 						<nav class="navbar navbar-default sub-nav" role="navigation">
 							<!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -62,20 +62,21 @@
 			<hr>
 			
 			<div class="container">
-				
-				<?php include "_/components/php/extended-stay-logding.php"; ?>
-				
+				<?php include "_/components/php/extended-stay-lodging.php"; ?>
 			</div><!--end container-->
+					
+			<hr>
 			
-			<hr>		
+			<section class="container">	
+				<div class="row hidden-xs">
+					<section class="tab-section">
+						<h1>Why does the Entertainment Industry Prefer Oakwood?</h1>
+							<?php include "_/components/php/industry-tabs.php"; ?>	
+					</section>	
+				</div><!--end tabbed section-->
+			</section>	
 				
-				<div class="content row">
-					<div class="col-lg-12 col-md-12">
-						<section class="four hidden-sm hidden-xs">
-						</section>
-					</div>
-				</div><!--content 4-->
-				
+			<hr>
 				
 				<div class="row industry-insights">
 					<section class="col-sm-12 hidden-lg hidden-md">
@@ -90,57 +91,50 @@
 				<!--ACCORDION-->
 				<div class="row">
 				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
-						<?php include "_/components/php/government-military.php"; ?>							
+						<?php include "_/components/php/entertainment-film.php"; ?>	
+											
   				</section>
-  				<div class="content row">
-					<div class="col-lg-12">
-						<section class="six hidden-sm hidden-xs">
-						</section>
-					</div>
-				</div><!--content 6-->
-				
+  				
+  				
+  							
 		
-				<!--Federal Civilian Accordion Panel-->
+				<!--Child Actors Accordion Panel-->
 				
 				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">									
-						<?php include "_/components/php/government-federal-civilian.php"; ?>
+						<?php include "_/components/php/entertainment-child-actors.php"; ?>
 				</section>
 					
 				
-				<div class="content row">
-					<div class="col-lg-12">
-						<section class="eight hidden-sm hidden-xs">
-						</section>
-					</div>
-				</div><!--content 8-->
+				<hr>
 				
 				
-			<!--Government Contractors Accordion Panel-->
 				
-			<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">		
-				<?php include "_/components/php/government-government-contractors.php"; ?>													</section>
+				<!--Theatre Accordion Panel-->
 				
-			<div class="content row">
-				<div class="col-lg-12">
-					<section class="eight hidden-sm hidden-xs">
-					</section>
-				</div>
-			</div><!--content 10-->
+				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">		
+					<?php include "_/components/php/entertainment-theatre.php"; ?>					
+				</section>
 				
-				<!--GSA Schedule 48 Accordion Panel-->
+				<hr>
+				
+				<!--Gaming Accordion Panel-->
 				
 				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
-					<?php include "_/components/php/government-gsa.php"; ?>
-				
+					<?php include "_/components/php/entertainment-gaming.php"; ?>
 				</section>
+				
+				
+				<hr>
+				
+				<!--Schools Accordion Panel-->
+				
+				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
+					<?php include "_/components/php/entertainment-schools.php"; ?>
+				</section>
+				
 			</div><!--end row that holds accordion-->		
 				
-				<div class="content row">
-					<div class="col-lg-12">
-						<section class="eight hidden-sm hidden-xs">
-						</section>
-					</div>
-				</div><!--content 12-->
+				
 
 
 				
