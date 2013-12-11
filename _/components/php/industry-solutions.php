@@ -30,7 +30,7 @@
 												</div><!--end consulting-->
 											
 												<div class="entertainment solutions">
-													<a href="#" class="industry-sections">
+													<a href="entertainment.php" class="industry-sections">
 														<img src="images/business-solutions/entertainment.jpg" alt="Cameraman" class="img-responsive" />
 														<header class="industries">
 															<h3>Entertainment</h3>

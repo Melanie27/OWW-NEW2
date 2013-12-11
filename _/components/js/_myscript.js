@@ -112,7 +112,10 @@ $("#global-reach a:contains('Global Services')").parent().addClass('active');
 $("#united-states-canada a:contains('Global Services')").parent().addClass('active');
 $("#business-solutions a:contains('Business Solutions')").parent().addClass('active');
 $("#government a:contains('Business Solutions')").parent().addClass('active');
-$("#industry-insights a:contains('Business Solutions')").parent().addClass('active');
+$("#entertainment a:contains('Business Solutions')").parent().addClass('active');
+$("#industry-insights-government a:contains('Business Solutions')").parent().addClass('active');
+$("#industry-insights-relocation a:contains('Business Solutions')").parent().addClass('active');
+$("#industry-insights-insurance a:contains('Business Solutions')").parent().addClass('active');
 
 
 $("#vision-leadership a:contains('Vision and Leadership')").parent().addClass('active');
