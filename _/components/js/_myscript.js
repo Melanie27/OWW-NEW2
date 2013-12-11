@@ -108,8 +108,9 @@ $('.panel-heading a').each(function (index) {
 $("#home a:contains('Home')").parent().addClass('active');
 $("#our-brands a:contains('Our Brands')").parent().addClass('active');
 $("#global-expertise a:contains('Global Expertise')").parent().addClass('active');
-$("#global-reach a:contains('Global Services')").parent().addClass('active');
-$("#united-states-canada a:contains('Global Services')").parent().addClass('active');
+$("#global-reach a:contains('Global Expertise')").parent().addClass('active');
+$("#united-states-canada a:contains('Global Expertise')").parent().addClass('active');
+$("#south-america a:contains('Global Expertise')").parent().addClass('active');
 $("#business-solutions a:contains('Business Solutions')").parent().addClass('active');
 $("#government a:contains('Business Solutions')").parent().addClass('active');
 $("#entertainment a:contains('Business Solutions')").parent().addClass('active');

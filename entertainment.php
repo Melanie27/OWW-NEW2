@@ -95,7 +95,7 @@
 											
   				</section>
   				
-  				
+  				<hr>
   							
 		
 				<!--Child Actors Accordion Panel-->
@@ -135,7 +135,7 @@
 			</div><!--end row that holds accordion-->		
 				
 				
-
+			<hr>
 
 				
 				

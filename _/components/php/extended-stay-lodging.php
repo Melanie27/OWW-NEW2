@@ -1,4 +1,4 @@
-									<section class="row">
+									<section class="row extended-stay">
 										<div class="col-lg-9 col-md-9">
 									
 											<h1 class="entertainment-head">Extended Stay Lodging for the Entertainment Industry</h1>
@@ -9,10 +9,12 @@ et nibh venenatis, sed rhoncus erat pharetra.</h2>
 										</div>
 									</section>
 									
-									
+									<h4>Proudly Serving</h4>
 									<div class="row entertainment-columns">
 											
-											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">		
+											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+												
+														
 												<div class="entertainment film">
 													<a href="#" class="industry-sections">
 														<img src="images/business-solutions/entertainment/film.jpg" alt="Woman Texting" class="img-responsive" />

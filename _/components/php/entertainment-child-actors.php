@@ -49,7 +49,7 @@ parents learn the in's and out's of the entertainment business in a comfortable,
 												<hr>
 												
 												<section class="row actor-resources">
-													<div class="col-lg-4 col-md-4">
+													<div class="col-lg-4 col-md-4 media">
 														<h3>Oakwood's Child Actor Program in the Media</h3>
 														<ul class="news-thumbnails">
 															<li class="clearfix">
@@ -80,9 +80,9 @@ parents learn the in's and out's of the entertainment business in a comfortable,
 														</ul>
 													</div><!--end one third-->
 													
-													<div class="col-lg-4 col-md-4">
+													<div class="col-lg-4 col-md-4 dates">
 														<h3>Program Dates 2014</h3>
-															<ul class="program-dates">
+															<ul>
 																<li>
 																	<p>January to March 2014</p>
 																	<a class="orange-link" href="#">Jan-March Rate Sheet &#8594;</a>
@@ -93,14 +93,14 @@ parents learn the in's and out's of the entertainment business in a comfortable,
 																</li>
 															</ul>
 															<hr>
-														<h3>Enterprise Rent-A-Car at Oakwood Toluca Hills</h3>
+														<h3 class="car-rental">Enterprise Rent-A-Car at Oakwood Toluca Hills</h3>
 														<img src="images/business-solutions/entertainment/enterprise.jpg" alt="enterprise" width="254" height="50" />
 													
 													</div><!--eng second third-->
 													
-													<div class="col-lg-4 col-md-4">
+													<div class="col-lg-4 col-md-4 resources">
 														<h3>Acting Resources</h3>
-															<ul class="resources">
+															<ul>
 																<li>
 																	<p>Find agents, acting schools, photographers and more.<p>
 																	<a class="orange-link" href="#">Informational Links &#8594;</a>
@@ -133,7 +133,7 @@ parents learn the in's and out's of the entertainment business in a comfortable,
 																<div class="panel-heading">
 																	<h4 class="panel-title">
 																		<a data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
-          What is the Child Actor Program?
+          <div class="arrow-right"></div>What is the Child Actor Program?
 		  																</a>
 		  															</h4>
 		  														</div>
@@ -147,7 +147,7 @@ parents learn the in's and out's of the entertainment business in a comfortable,
 																<div class="panel-heading">
 																	<h4 class="panel-title">
 																		<a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
-          How do I get my child an agent?
+           <div class="arrow-right"></div>How do I get my child an agent?
 		  																</a>
 		  															</h4>
 		  														</div>
@@ -161,7 +161,7 @@ parents learn the in's and out's of the entertainment business in a comfortable,
 																<div class="panel-heading">
 																	<h4 class="panel-title">
 																		<a data-toggle="collapse" data-parent="#accordion" href="#collapseEight">
-          Why is Oakwood Toluca Hills so popular?
+           <div class="arrow-right"></div>Why is Oakwood Toluca Hills so popular?
 		  																</a>
 		  															</h4>
 		  														</div>
@@ -176,7 +176,7 @@ parents learn the in's and out's of the entertainment business in a comfortable,
 																<div class="panel-heading">
 																	<h4 class="panel-title">
 																		<a data-toggle="collapse" data-parent="#accordion" href="#collapseNine">
-          Will I need a car in Los Angeles?
+          <div class="arrow-right"></div> Will I need a car in Los Angeles?
 		  																</a>
 		  															</h4>
 		  														</div>
@@ -190,7 +190,7 @@ parents learn the in's and out's of the entertainment business in a comfortable,
 																<div class="panel-heading">
 																	<h4 class="panel-title">
 																		<a data-toggle="collapse" data-parent="#accordion" href="#collapseTen">
-          Do other child actor families stay at Oakwood?
+           <div class="arrow-right"></div>Do other child actor families stay at Oakwood?
 		  																</a>
 		  															</h4>
 		  														</div>
@@ -204,7 +204,7 @@ parents learn the in's and out's of the entertainment business in a comfortable,
 																<div class="panel-heading">
 																	<h4 class="panel-title">
 																		<a data-toggle="collapse" data-parent="#accordion" href="#collapseEleven">
-          Have any famous child actors stayed at Oakwood?
+           <div class="arrow-right"></div>Have any famous child actors stayed at Oakwood?
 		  																</a>
 		  															</h4>
 		  														</div>
@@ -220,7 +220,7 @@ parents learn the in's and out's of the entertainment business in a comfortable,
 																<div class="panel-heading">
 																	<h4 class="panel-title">
 																		<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve">
-          Can my daughter bring her dog?
+           <div class="arrow-right"></div>Can my daughter bring her dog?
 		  																</a>
 		  															</h4>
 		  														</div>
@@ -234,7 +234,7 @@ parents learn the in's and out's of the entertainment business in a comfortable,
 																<div class="panel-heading">
 																	<h4 class="panel-title">
 																		<a data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen">
-          Los Angeles is so big, will I feel safe at Oakwood?
+           <div class="arrow-right"></div>Los Angeles is so big, will I feel safe at Oakwood?
 		  																</a>
 		  															</h4>
 		  														</div>
@@ -247,7 +247,7 @@ parents learn the in's and out's of the entertainment business in a comfortable,
 															<div class="panel panel-default">
 																<div class="panel-heading">
 																	<h4 class="panel-title">
-																		<a data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen">Do child actors only come out for pilot season in January? How can my child attend school? 
+																		<a data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen"> <div class="arrow-right"></div>Do child actors only come out for pilot season in January? How can my child attend school? 
 		  																</a>
 		  															</h4>
 		  														</div>

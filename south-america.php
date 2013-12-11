@@ -20,7 +20,7 @@
  
    
   </head>
-  <body id="united-states-canada">
+  <body id="south-america">
   <div class="container-full">
   		<section class="container landing">
 
@@ -30,7 +30,7 @@
 						<div class="row heading">
 							<section class="col-lg-12">
 								<div class="container">
-									<h1>United States and Canada</h1>										
+									<h1>South America</h1>										
 								</div>
 							</section>		
 						</div><!--heading-->
@@ -61,18 +61,23 @@
 							<section class="five container">
 								<div class="row carousel-heading">
 									<section class="col-lg-12 col-md-12 ">
-										<h2>Search Popular US and Canada Destinations</h2>
+										<h2>Search Popular South America Destinations</h2>
 											<ul class="hidden-lg hidden-md hidden-sm destinations">
-												<li>Washington, D.C.</li>
-												<li>Tampa, FL</li>
-												<li>Charleston, SC</li>
-												<li>New York, NY</li>
-												<li>Washington, D.C.</li>
-												<li>Tampa, FL</li>
-												<li>Charleston, SC</li>
-												<li>New York, NY</li>
+												<li class="clearfix">
+													<img src="images/news/latest-news-tb-01.jpg" alt="latest-news-tb-01" class="pull-left">
+													<p>Buenos Aires</p>
+												</li>
+												<li class="clearfix">
+													<img src="images/news/latest-news-tb-01.jpg" alt="latest-news-tb-01" class="pull-left">
+													<p>Santiago</p>
+												</li>
+												<li class="clearfix">
+													<img src="images/news/latest-news-tb-01.jpg" alt="latest-news-tb-01" class="pull-left">
+													<p>Lima</p>
+												</li>
+												
 											</ul>
-										<?php include "_/components/php/carousel-global.php"; ?>
+										<?php include "_/components/php/carousel-south-america.php"; ?>
 									</section>
 								</div>
 							</section><!--end five-->
