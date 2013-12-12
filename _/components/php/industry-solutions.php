@@ -7,7 +7,7 @@
 											
 											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">		
 												<div class="solutions consulting">
-													<a href="#" class="industry-sections">
+													<a href="consulting.php" class="industry-sections">
 														<img src="images/business-solutions/consulting.jpg" alt="Woman Texting" class="img-responsive" />
 														<header class="industries">
 															<h3>Consulting and Professional Services</h3>
@@ -127,7 +127,7 @@
 													</section>
 												</div><!--end Insurance Housing Solutions-->
 											
-												<div class="additional">
+												<!--<div class="additional">
 													
 													<h1>Additional Industries</h1>
 													<div class="row">

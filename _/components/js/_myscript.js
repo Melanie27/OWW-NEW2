@@ -120,6 +120,8 @@ $("#client-services a:contains('Global Expertise')").parent().addClass('active')
 $("#business-solutions a:contains('Business Solutions')").parent().addClass('active');
 $("#government a:contains('Business Solutions')").parent().addClass('active');
 $("#entertainment a:contains('Business Solutions')").parent().addClass('active');
+$("#relocation a:contains('Business Solutions')").parent().addClass('active');
+$("#consulting a:contains('Business Solutions')").parent().addClass('active');
 $("#industry-insights-government a:contains('Business Solutions')").parent().addClass('active');
 $("#industry-insights-relocation a:contains('Business Solutions')").parent().addClass('active');
 $("#industry-insights-insurance a:contains('Business Solutions')").parent().addClass('active');

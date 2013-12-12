@@ -21,7 +21,7 @@
  
    
   </head>
-  <body id="relocation">
+  <body id="consulting">
   <div class="container-full">
   
   		<section class="container landing">
@@ -46,7 +46,7 @@
 									<section class="col-lg-12 col-md-12 container">
 										<div class="row overview-top">
 											<section class="col-lg-9 col-md-9 col-sm-12 col-xs-12" >
-												<h1>Extended Stay Lodging for the Relocating Professionals</h1>
+												<h1>Extended Stay Lodging for the Consulting Industry</h1>
 												<h2>For over 50 years, Oakwood Worldwide has given those who serve America a place they could call home.</h2>
 												<p>As the first, largest and leading provider of extended stay lodging (ESL) solutions to the federal government, Oakwood offers a welcoming environment for government employees, with convenient locations, and access to various transportation options.</p>
 												<a href="industry-insights-relocation.php" class="orange-link">Learn More &#8594;</a>
@@ -67,7 +67,7 @@
 										
 										<div class="row">
 											<section class="tab-section">
-												<h1>Why does the Federal Government Prefer Oakwood?</h1>
+												<h1>Why do Consultants Prefer Oakwood?</h1>
 												
 												<?php include "_/components/php/tabs-mobile.php"; ?>													
 												
