@@ -124,6 +124,7 @@ $("#relocation a:contains('Business Solutions')").parent().addClass('active');
 $("#consulting a:contains('Business Solutions')").parent().addClass('active');
 $("#industry-insights-government a:contains('Business Solutions')").parent().addClass('active');
 $("#industry-insights-relocation a:contains('Business Solutions')").parent().addClass('active');
+$("#industry-insights-consulting a:contains('Business Solutions')").parent().addClass('active');
 $("#industry-insights-insurance a:contains('Business Solutions')").parent().addClass('active');
 
 
