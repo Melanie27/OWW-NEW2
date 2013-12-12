@@ -62,10 +62,10 @@
 													<div class="row hidden-xs" id="press1">
 														<ul>
 															<li>
-																<section class="col-lg-4 col-md-4 col-sm-4 press-image">
-																	<img src="images/news/press-releases/press-release-01.jpg" alt="press-release-01">
+																<section class="col-lg-4 col-md-5 col-sm-4 press-image">
+																	<img src="images/news/press-releases/press-release-01.jpg" alt="press-release-01" class="img-responsive">
 																	</section>
-																<section class="col-lg-8 col-md-8 col-sm-8 press-text">
+																<section class="col-lg-8 col-md-7 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
 																	<p class="full-story "><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>	
@@ -73,10 +73,10 @@
 																<div class="clearfix"></div>
 															</li>
 															<li>		
-																<section class="col-lg-4 col-md-4 col-sm-4 press-image">
-																	<img src="images/news/press-releases/press-release-02.jpg" alt="press-release-01">
+																<section class="col-lg-4 col-md-5 col-sm-4 press-image">
+																	<img src="images/news/press-releases/press-release-02.jpg" alt="press-release-01" class="img-responsive">
 																</section>
-																<section class="col-lg-8 col-md-8 col-sm-8 press-text">
+																<section class="col-lg-8 col-md-7 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
 																<p class="full-story"><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>
@@ -84,10 +84,10 @@
 																<div class="clearfix"></div>
 															</li>
 															<li>	
-																<section class="col-lg-4 col-md-4 col-sm-4 press-image">
-																	<img src="images/news/press-releases/press-release-03.jpg" alt="press-release-01">
+																<section class="col-lg-4 col-md-5 col-sm-4 press-image">
+																	<img src="images/news/press-releases/press-release-03.jpg" alt="press-release-01" class="img-responsive">
 																</section>
-																<section class="col-lg-8 col-md-8 col-sm-8 press-text">
+																<section class="col-lg-8 col-md-7 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
 																	<p class="full-story"><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>
@@ -95,10 +95,10 @@
 																<div class="clearfix"></div>
 															</li>
 															<li>	
-																<section class="col-lg-4 col-md-4 col-sm-4 press-image">
-																	<img src="images/news/press-releases/press-release-04.jpg" alt="press-release-01">
+																<section class="col-lg-4 col-md-5 col-sm-4 press-image">
+																	<img src="images/news/press-releases/press-release-04.jpg" alt="press-release-01" class="img-responsive">
 																</section>
-																<section class="col-lg-8 col-md-8 col-sm-8 press-text">
+																<section class="col-lg-8 col-md-7 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
 																	<p class="full-story"><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>
@@ -106,10 +106,10 @@
 																<div class="clearfix"></div>
 															</li>	
 															<li>	
-																<section class="col-lg-4 col-md-4 col-sm-4 press-image">
-																	<img src="images/news/press-releases/press-release-05.jpg" alt="press-release-01">
+																<section class="col-lg-4 col-md-5 col-sm-4 press-image">
+																	<img src="images/news/press-releases/press-release-05.jpg" alt="press-release-01" class="img-responsive">
 																</section>
-																<section class="col-lg-8 col-md-8 col-sm-8 press-text">
+																<section class="col-lg-8 col-md-7 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
 																	<p class="full-story"><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>
@@ -135,7 +135,7 @@
 											</section><!--end two thirds-->
 											<section class="col-lg-4 col-md-4 hidden-xs">
 												
-												<section class="news hidden-xs">
+												<section class="news navigation hidden-xs">
 													<h1>News</h1>
 														<ul>
 															<li><h4>Press Releases</h4></li>
@@ -189,6 +189,8 @@
 						</div>
 					</section>
 				</div>
+				
+				<hr>
 				
 				<?php include "_/components/php/footer.php"; ?>	
 
