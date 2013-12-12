@@ -13,7 +13,7 @@
 											
 											<div class="row">
 												<div class="col-lg-5 col-lg-offset-4 col-md-6 col-md-offset-3 col-sm-10 col-sm-offset-1">
-													<a href="#" class="link-archives">All 2013 Events</a>
+													<a href="upcoming-events.php" class="link-archives">All 2013 Events</a>
 												</div>
 											</div>
 										</div>

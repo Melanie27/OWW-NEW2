@@ -20,7 +20,7 @@
  
    
   </head>
-  <body id="press-releases-single">
+  <body id="upcoming-events-single">
   <div class="container-full">
   
   		<section class="container landing">
@@ -29,7 +29,7 @@
 				<div class="row heading">
 					<section class="col-lg-12">
 						<div class="container">
-							<h1>Press Releases</h1>
+							<h1>Upcoming Events</h1>
 						</div>
 					</section>		
 				</div><!--heading-->
@@ -47,7 +47,7 @@
 									<section class="col-lg-12 col-md-12">
 										<div class="row">
 											<section class="col-lg-8 col-md-8 press-release-list">
-												<h1>Featured Story Title Lorem Ipsum</h1>
+												<h1>Event Name</h1>
 													<section class="press-release-hero">
 														<img src="images/news/press-releases/press-release-splash-01.jpg" alt="press-release-splash-01" class="img-responsive">
 													</section>

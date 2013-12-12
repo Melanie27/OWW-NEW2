@@ -20,7 +20,7 @@
  
    
   </head>
-  <body id="in-the-news">
+  <body id="upcoming-events">
   <div class="container-full">
   
   		<section class="container landing">
@@ -29,7 +29,7 @@
 				<div class="row heading">
 					<section class="col-lg-12">
 						<div class="container">
-							<h1>In The News</h1>
+							<h1>Upcoming Events</h1>
 						</div>
 					</section>		
 				</div><!--heading-->
@@ -55,9 +55,9 @@
 									<section class="col-lg-12 col-md-12">
 										<div class="row">
 											<section class="col-lg-8 col-md-8 press-release-list">
-												<h1>News for 2013</h1>
+												<h1>Events for 2013</h1>
 													<section class="hidden-lg hidden-md hidden-sm">
-														<?php include "_/components/php/news-press-thumbs.php"; ?>	
+														<?php include "_/components/php/news-events-thumbs.php"; ?>	
 													</section>
 													<div class="row hidden-xs" id="press1">
 														<ul>
@@ -68,7 +68,7 @@
 																<section class="col-lg-8 col-md-7 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																	<p class="full-story "><a href="in-the-news-single.php" class="orange-link">Full Story &#8594;</a></p>	
+																	<p class="full-story "><a href="upcoming-events-single.php" class="orange-link">Full Story &#8594;</a></p>	
 																</section><!--end first position-->
 																<div class="clearfix"></div>
 															</li>
@@ -79,7 +79,7 @@
 																<section class="col-lg-8 col-md-7 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																<p class="full-story"><a href="in-the-news-single.php" class="orange-link">Full Story &#8594;</a></p>
+																<p class="full-story"><a href="upcoming-events-single.php" class="orange-link">Full Story &#8594;</a></p>
 																</section><!--end second position-->
 																<div class="clearfix"></div>
 															</li>
@@ -90,7 +90,7 @@
 																<section class="col-lg-8 col-md-7 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																	<p class="full-story"><a href="in-the-news-single.php" class="orange-link">Full Story &#8594;</a></p>
+																	<p class="full-story"><a href="upcoming-events-single.php" class="orange-link">Full Story &#8594;</a></p>
 																</section><!--end third position-->
 																<div class="clearfix"></div>
 															</li>
@@ -101,7 +101,7 @@
 																<section class="col-lg-8 col-md-7 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																	<p class="full-story"><a href="in-the-news-single.php" class="orange-link">Full Story &#8594;</a></p>
+																	<p class="full-story"><a href="upcoming-events-single.php" class="orange-link">Full Story &#8594;</a></p>
 																</section><!--end fourth position-->
 																<div class="clearfix"></div>
 															</li>	
@@ -112,7 +112,7 @@
 																<section class="col-lg-8 col-md-7 col-sm-8 press-text">
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																	<p class="full-story"><a href="in-the-news-single.php" class="orange-link">Full Story &#8594;</a></p>
+																	<p class="full-story"><a href="upcoming-events-single.php" class="orange-link">Full Story &#8594;</a></p>
 																</section><!--end fifth position-->
 																<div class="clearfix"></div>
 														</li>

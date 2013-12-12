@@ -1,4 +1,4 @@
-																	<h1 class="hidden-lg hidden-md hidden-sm">Press Releases for 2013</h1>
+																	<h1 class="hidden-lg hidden-md hidden-sm">In the News for 2013</h1>
 																	<ul class="news-thumbnails">
 																		<li class="clearfix">
 																			<img src="images/news/press-room-tb-01.jpg" alt="Press Room 1" class="pull-left img-responsive">	

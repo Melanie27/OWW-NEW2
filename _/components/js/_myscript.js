@@ -133,6 +133,11 @@ $("#press-releases a:contains('News')").parent().addClass('active');
 $("#press-releases-single a:contains('News')").parent().addClass('active');
 $("#in-the-news a:contains('News')").parent().addClass('active');
 $("#in-the-news-single a:contains('News')").parent().addClass('active');
+
+$("#upcoming-events a:contains('News')").parent().addClass('active');
+$("#upcoming-events a:contains('News')").parent().addClass('active');
+
+
 $("#marriott a:contains('Marriott')").parent().addClass('active');
 $("#careers a:contains('Careers')").parent().addClass('active');
 
