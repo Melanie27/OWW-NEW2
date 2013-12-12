@@ -20,7 +20,7 @@
  
    
   </head>
-  <body id="press-releases">
+  <body id="in-the-news">
   <div class="container-full">
   
   		<section class="container landing">
@@ -29,7 +29,7 @@
 				<div class="row heading">
 					<section class="col-lg-12">
 						<div class="container">
-							<h1>Press Releases</h1>
+							<h1>In The News</h1>
 						</div>
 					</section>		
 				</div><!--heading-->
@@ -55,7 +55,7 @@
 									<section class="col-lg-12 col-md-12">
 										<div class="row">
 											<section class="col-lg-8 col-md-8 press-release-list">
-												<h1>Press Releases for 2013</h1>
+												<h1>News for 2013</h1>
 													<section class="hidden-lg hidden-md hidden-sm">
 														<?php include "_/components/php/news-press-thumbs.php"; ?>	
 													</section>

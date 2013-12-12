@@ -39,7 +39,7 @@
 											
 															<?php include "_/components/php/recent-releases.php"; ?>
 															
-															<?php include "_/components/php/btn-see-all.php"; ?>
+															<?php include "_/components/php/btn-see-all-news.php"; ?>
 														</div><!--panel body-->
 													</div><!--Collapse Two-->
 												</div><!--panel-->
