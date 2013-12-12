@@ -41,7 +41,7 @@
 											
 						
 							<section class="three container">
-								<div class="row intro-regional">
+								<div class="row">
 									<section class="col-lg-12 col-md-12  col-sm-12 col-xs-12">
 										<h1>Intro Placeholder Text</h1>
 										<h2>Placeholder. Wherever you need to go, Oakwood Worldwide is there..</h2>
@@ -56,7 +56,7 @@
 								<hr>
 								
 							<section class="five container">
-								<div class="row carousel-heading">
+								<div class="row">
 									<section class="col-lg-12 col-md-12 ">
 										<h1>Duty of Care</h1>
 											<ul class="duty">
@@ -75,8 +75,8 @@
 								<hr>
 								
 							<section class="seven container">
-								<div class="row global-destinations">
-									<section class="col-lg-12 col-md-12 global-intro">
+								<div class="row">
+									<section class="col-lg-12 col-md-12">
 										<h1>Global Crisis Management</h1>
 										<ul class="crisis-management">
 											<li>Oakwood Worldwide's crisis management program was developed based on best practices of Fortune 500 companies.</li>
