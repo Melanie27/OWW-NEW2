@@ -1095,35 +1095,30 @@ article.one-third-two-thirds {
 footer {
 	
 	
-	section.page-links, section.footer-brands {
+	section.page-links {
 		margin-top:0px;
 		padding-top:50px;
 		padding-left:15px;	
 	}
 	
+	section.footer-brands {
+		padding-left:0px;
+		margin-top:0px;
+		padding-top:50px;
+	}
+	
+	section.page-links.bottom {
+		padding-top:0px;
+		margin-bottom:30px;
+	}
+	
 	.border {
-		border-right:solid 1px @oww-light-gray;
+		border-right:solid 1px @oww-border;
 	}
 	
-	#footer-global {
-		margin-bottom:40px;
-	}
-	
-	#footer-industry {
-		margin-bottom:60px;
-	}
-	
-	#footer-vision {
-		margin-bottom:120px;
 		
-	}
-	
-	#footer-news {
-		margin-bottom:80px;
-	}
-	
 	.footer-lists {
-		font-size:12px;
+		font-size:14px;
 		padding:0px;
 		
 		
@@ -1158,10 +1153,21 @@ footer {
 		z-index:200;
 	}
 	
+	.btn-footer.housing {
+			right:340px;
+			}
+			
+	.btn-footer.contact {
+		right:185px;
+	}
+	
+	
 	h2 {
 		
 		font-family: @district-thin;
 		line-height: 30px;
+		font-size:24px;
+		
 	}
 	
 	
@@ -1172,7 +1178,7 @@ footer {
 	}
 	
 	.page-links {
-		margin-bottom:20px;
+		margin-bottom:50px;
 		
 		a:link, a:visited {
 			color:@oww-dark-gray;
@@ -1197,7 +1203,7 @@ footer {
 	}
 	
 	.orange-link {
-		margin-bottom:80px;
+		
 		display:block;
 	}
 	
@@ -1535,9 +1541,10 @@ footer {
 	
 	footer {
 		
-		border-top:solid 1px @oww-border;
-		padding-top:20px;
-		margin-top:20px;
+		border-top: none;
+		margin-top: 0px;
+		padding-top: 0px;
+		padding-bottom:20px;
 		
 			.btn-footer {
 				
@@ -1545,10 +1552,29 @@ footer {
 				margin-top:65px;
 			}
 			
+			
+			
 			.footer-buttons {
 				padding-left:0px;
 			}
+			
+			section.page-links, section.page-links.bottom {
+				
+				padding-top:15px;
+				margin-bottom:20px;
+			}
+			
+			.border {
+				border:none;
+			}
+			
+			section.footer-brands {
+				padding-bottom:25px;
+				padding-top:25px;
+			}
 	}
+	
+	
 	
 	#logo {
 		
@@ -1598,14 +1624,7 @@ footer {
 		margin-right: -30px;
 		
 	}
-	
-	footer {
-    border-top: none;
-    margin-top: 0px;
-    padding-top: 0px;
-    padding-bottom:20px;
-}
-	
+		
 	
 		
 	.navbar-nav > li > a {
@@ -1706,8 +1725,16 @@ footer {
 		padding-left:0px;
 	} 
 	
+	footer {
 	
-	
+	.border {
+				border:none;
+			}
+			
+	.footer-brands {
+		padding-bottom:50px;
+	}
+	}
 	
 }
 

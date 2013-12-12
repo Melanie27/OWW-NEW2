@@ -1,118 +1,175 @@
-	<section class="container hidden-sm hidden-xs">	
+	<section class="container">	
 		<div class="row">
-			<footer class="col-md-12 ">
+			<footer class="col-lg-12 col-md-12">
 						
 					
 				<div class="row">
-					<section class="col-lg-8 col-md-8 col-sm-6 col-xs-12">
-						
-						
-						<div class="row border">
-							<section class="col-lg-6 col-md-6 col-sm-6 col-xs-6 page-links">
-								<div class="row">
-									<section class="col-lg-6 col-md-6">
-										<h5><a href="global-expertise.php">Global Expertise</a></h5>
-										<ul class="footer-lists" id="footer-global">
-											<li><a href="#">North America</a></li>
-											<li><a href="#">South America</a></li>
-											<li><a href="#">Europe/Middle East</a></li>
-											<li><a href="#">Asia Pacific</a></li>
-											<li><a href="#">Safety & Security</a></li>
-											<li><a href="client-services.php">Client Services</a></li>
-											<li><a href="#">Technologies</a></li>
-										</ul>
-										<h5><a href="#">Partnerships</a></h5>	
-										<ul class="footer-lists">
-											<li><a href="#">Marriott</a></li>
-										</ul>
-											
-											
-									</section>
-									<section class="col-lg-6 col-md-6">
-										<h5><a href="industry-insights.php">Industry Insights</a></h5>
-										<ul class="footer-lists" id="footer-industry">
-											<li><a href="government.php">Government</a></li>
-											<li><a href="#">Consulting</a></li>
-											<li><a href="entertainment.php">Entertainment</a></li>
-											<li><a href="relocation.php">Relocation</a></li>
-											
-										</ul>
-										<h5>Careers</h5>
-										
-									</section>
-								</div>
-							</section><!--end page links-->
-							<section class="col-lg-6 col-md-6 col-sm-6 col-xs-6 page-links">
-								<div class="row">
-									<section class="col-lg-6 col-md-6">
-										<h5><a href="vision-leadership.php">Vision & Leadership</a></h5>
-										<ul class="footer-lists" id="footer-vision">
-											<li><a href="executive-committee.php">Executive Committee</a></li>
-											<li><a href="industry-affiliations.php">Industry Affiliations</a></li>
-										</ul>
-										<h5>Site Policies</h5>
-										<ul class="footer-lists">
-											<li><a href="#">Terms of Use</a></li>
-											<li><a href="#">Privacy Policy</a></li>
-										</ul>
-
-									</section>
-									<section class="col-lg-6 col-md-6">
-										<h5><a href="news.php">News</a></h5>
-										<ul class="footer-lists" id="footer-news">
-											<li><a href="#">Press Releases</a></li>
-											<li><a href="#">In The News</a></li>
-											<li><a href="#">Awards</a></li>
-											<li><a href="#">Events</a></li>
-										</ul>
-										
-										<h5>Connect</h5>
-										<ul class="footer-lists social-media clearfix">
-											<li><a href="#"> <img src="images/icons/icon-twitter.jpg" alt="Twitter" /></a></li>
-											<li><a href="#"> <img src="images/icons/icon-linkedIn.jpg" alt="Linked In" /></a></li>
-											
-										</ul>
-												
-									</section>
-								</div>		
-							</section><!--end page links-->
+					<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 footer-brands pull-right">
+						<div class="row">
+							<section class="col-lg-8 col-lg-offset-1">
+								<h5>Our Brands</h5>
+							</section>	
+						</div><!--end nested row-->
+						<div class="row">
+							<section class="col-lg-8 col-lg-offset-1 col-md-12 col-sm-6 col-xs-6">
+								<img src="images/sitewide/logo-oakwood.jpg" alt="Oakwood Logo" class="img-responsive" />
+							</section>
+							<section class="col-lg-8 col-lg-offset-1 col-md-12 col-sm-6 col-xs-6">
+								<img src="images/sitewide/logo-execustay.jpg" alt="Execustay Logo" class="img-responsive"/>
+							</section>
+						</div><!--end nested row-->
+						<div class="row">
+							<section class="col-lg-8 col-lg-offset-1">
+								<img src="images/sitewide/logo-ihs.jpg" alt="logo-ihs" class="img-responsive" />
+							</section>
 						</div>
 						<div class="row">
-							<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12 copyright">
-								<span class="icon-housing"> <img src="images/icons/icon-equal-housing.jpg" alt="icon-equal-housing" width="30" height="30" class="pull-left"/></span>
-								<p>Equal Housing Opportunity &copy;2004-2013 Oakwood Worldwide. The most trusted name in temporary housing.<sup>SM</sup></p>
-							</section>
-							
-						</div>
-						
-						
-					</section><!--end two thirds section-->
-						
-					<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							<section class="col-lg-12 col-md-12 col-sm-6 col-xs-12 footer-brands">
-								<h5>Our Brands</h5>
-									<div class="row">
-										<section class="col-lg-6 col-md-12 col-sm-6">
-											<img src="images/sitewide/logo-oakwood.jpg" alt="Oakwood Logo" />
-										</section>
-										<section class="col-lg-6 col-md-12 col-sm-6">
-											<img src="images/sitewide/logo-execustay.jpg" alt="Execustay Logo" />
-										</section>
-									</div><!--end nested row-->
+							<section class="col-lg-8 col-lg-offset-1">
 								<h2>Contact Us to Create Your Housing Program</h2>
-								
-								<div class="row">
-									<section class="col-lg-4 col-lg-offset-2 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-2">
-										<a href="#" class="btn-footer" id="footer-find-housing">Find Housing</a>
+								<a class="orange-link hidden-lg hidden-md" href="#">Contact Us &#8594;</a>
+								<div class="row hidden-sm hidden-xs">
+									<section class="col-lg-4 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-2">
+										<a id="footer-find-housing" class="btn-footer housing" href="#">Find Housing</a>
 									</section>
-									<section class="col-lg-4 col-lg-offset-1 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-1">
-										<a href="#" class="btn-footer" id="footer-contact-us">Contact Us</a>
+									<section class="col-lg-4  col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-1">																<a id="footer-contact-us" class="btn-footer contact" href="#">Contact Us</a>
 									</section>
 								</div>
-								
-							</section><!--end footer brands-->
+							</section>
+						</div>
+					</section> <!--end footer brands-->
+				
+					<div class="clearfix hidden-lg"></div>
+				
+					<hr>
+				
+				
+					<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+						<div class="row border">
+							<section class="col-lg-3 col-md-3 col-sm-12 col-xs-12 page-links">
+								<h5><a href="global-expertise.php">Global Expertise</a></h5>
+									
+									<ul class="footer-lists" id="footer-global">
+										<div class="row">
+											<section class="col-lg-12 col-md-12 col-xs-6">
+												<li><a href="#">Global Scale and Inventory</a></li>
+												<li><a href="client-services.php">Client Services</a></li>
+											</section>
+											<section class="col-lg-12 col-md-12 col-xs-6">
+												<li><a href="technologies.php">Technologies</a></li>
+												<li><a href="safety-security.php">Safety & Security</a></li>
+											</section>
+										</div>
+									</ul>
+							</section>		
 							
-					</section> <!--end third third-->
+							<hr class="hidden-lg hidden-md">				
+									
+							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links">
+								<h5><a href="business-solutions.php">Business Solutions</a></h5>
+									<ul class="footer-lists" id="footer-industry">
+										<div class="row">
+											<section class="col-lg-12 col-md-12 col-xs-6">
+												<li><a href="#">Individual Business Traveler</a></li>
+												<li><a href="government.php">Government</a></li>
+											</section>
+											<section class="col-lg-12 col-md-12 col-xs-6">	
+												<li><a href="entertainment.php">Entertainment</a></li>
+												<li><a href="relocation.php">Relocation</a></li>
+											</section>
+										</div>	
+									</ul>	
+							</section>
+							
+							<hr class="hidden-lg hidden-md">
+							
+							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links">
+								<h5><a href="vision-leadership.php">Vision & Leadership</a></h5>
+									<ul class="footer-lists" id="footer-vision">
+										<div class="row">
+											<section class="col-lg-12 col-md-12 col-xs-6">
+												<li><a href="executive-committee.php">Executive Committee</a></li>
+												<li><a href="industry-affiliations.php">Industry Affiliations</a></li>
+											</section>
+										</div>	
+									</ul>	
+							</section>
+							
+							<hr class="hidden-lg hidden-md">
+							
+							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links">
+								<h5><a href="news.php">News</a></h5>
+									<ul class="footer-lists" id="footer-news">
+										<div class="row">
+											<section class="col-lg-12 col-md-12 col-xs-6">
+												<li><a href="#">Press Releases</a></li>
+												<li><a href="#">In The News</a></li>
+											</section>
+											<section class="col-lg-12 col-md-12 col-xs-6">
+												<li><a href="#">Awards</a></li>
+												<li><a href="#">Events</a></li>
+											</section>
+										</div>
+									</ul>
+							</section>
+							
+							<hr class="hidden-lg hidden-md">
+						</div>
+					</section>
+				
+					<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+						<div class="row border">
+							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links bottom">
+								<h5><a href="affiliations.php">Affiliations</a></h5>
+									<ul class="footer-lists" id="footer-global">
+										<li><a href="marriott.php">Marriott</a></li>
+										
+									</ul>
+							</section>		
+											
+							<hr class="hidden-lg hidden-md">
+									
+							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links bottom">
+								<h5><a href="careers.php">Careers</a></h5>
+									
+							</section>
+							
+							<hr class="hidden-lg hidden-md">
+							
+							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links bottom">
+								<h5>Site Policies</h5>
+									<ul class="footer-lists">
+										<div class="row">
+											<section class="col-lg-12 col-md-12 col-xs-6">
+												<li><a href="#">Terms of Use</a></li>
+											</section>
+											<section class="col-lg-12 col-md-12 col-xs-6">
+												<li><a href="#">Privacy Policy</a></li>
+											</section>
+										</div>
+									</ul>
+							</section>
+							
+							<hr class="hidden-lg hidden-md">
+							
+							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links bottom">
+								<h5>Connect</h5>
+									<ul class="footer-lists social-media clearfix">
+										<li><a href="#"> <img src="images/icons/icon-twitter.jpg" alt="Twitter" /></a></li>
+										<li><a href="#"> <img src="images/icons/icon-linkedIn.jpg" alt="Linked In" /></a></li>	
+									</ul>
+							</section>
+						</div>
+					</section>
+					<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12 copyright">
+						<span class="icon-housing"> 
+							<img src="images/icons/icon-equal-housing.jpg" alt="icon-equal-housing" width="30" height="30" class="pull-left"/>
+						</span>
+						<p>Equal Housing Opportunity &copy;2004-2013 Oakwood Worldwide. <span class="hidden-sm hidden-xs">The most trusted name in temporary housing.<sup>SM</sup></span></p>
+					</section>
+				</div><!--end row-->
+
+							
+
 				</div>	
 			</footer>
 		</div>
@@ -121,7 +178,7 @@
 	<!--Buttons Visible xs screens-->
 	
 	<footer>
-	<div class="row hidden-lg hidden-md hidden-sm">
+	<div class="row hidden-lg hidden-md hidden-sm hidden-xs">
 		<section class="col-lg-4 col-lg-offset-2 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-2 col-xs-6">
 			<a href="#" class="btn-footer" id="footer-find-housing">Find Housing</a>
 		</section>
