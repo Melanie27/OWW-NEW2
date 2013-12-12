@@ -30,7 +30,7 @@
 						<div class="row heading">
 							<section class="col-lg-12">
 								<div class="container">
-									<h1>Safety and Security</h1>										
+									<h1>Client Services</h1>										
 								</div>
 							</section>		
 						</div><!--heading-->

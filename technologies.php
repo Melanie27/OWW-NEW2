@@ -30,7 +30,7 @@
 						<div class="row heading">
 							<section class="col-lg-12">
 								<div class="container">
-									<h1>Safety and Security</h1>										
+									<h1>Technologies</h1>										
 								</div>
 							</section>		
 						</div><!--heading-->
@@ -95,8 +95,8 @@
 									<section class="col-lg-12 col-md-12">
 										<h1>Epic</h1>
 										<ul class="crisis-management">
-											<li>EPIC is our proprietary e-procurement tool which is ultilized in necessary situations when solutions are required and requested outside of Oakwood Worldwide’s own housing inventory. </li>
-											<li>With over 1,300 suppliers actively participating in EPIC, Oakwood Worldwide is able to leverage choice for its clients and deliver 			optimal housing solutions almost anywhere in the world. </li>
+											<li>EPIC is our proprietary e-procurement tool which is ultilized in necessary situations when solutions are required and requested outside of Oakwood Worldwide's own housing inventory. </li>
+											<li>With over 1,300 suppliers actively participating in EPIC, Oakwood Worldwide is able to leverage choice for its clients and deliver optimal housing solutions almost anywhere in the world. </li>
 											
 										</ul>
 									</section>
