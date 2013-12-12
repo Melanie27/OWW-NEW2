@@ -17,7 +17,8 @@
 											<li><a href="#">South America</a></li>
 											<li><a href="#">Europe/Middle East</a></li>
 											<li><a href="#">Asia Pacific</a></li>
-											<li><a href="#">Safety Commitment</a></li>
+											<li><a href="#">Safety & Security</a></li>
+											<li><a href="client-services.php">Client Services</a></li>
 											<li><a href="#">Technologies</a></li>
 										</ul>
 										<h5><a href="#">Partnerships</a></h5>	
@@ -30,11 +31,11 @@
 									<section class="col-lg-6 col-md-6">
 										<h5><a href="industry-insights.php">Industry Insights</a></h5>
 										<ul class="footer-lists" id="footer-industry">
-											<li><a href="#">Government</a></li>
+											<li><a href="government.php">Government</a></li>
 											<li><a href="#">Consulting</a></li>
-											<li><a href="#">Entertainment</a></li>
-											<li><a href="#">Relocation</a></li>
-											<li><a href="#">Insurance Housing</a></li>
+											<li><a href="entertainment.php">Entertainment</a></li>
+											<li><a href="relocation.php">Relocation</a></li>
+											
 										</ul>
 										<h5>Careers</h5>
 										
@@ -46,8 +47,8 @@
 									<section class="col-lg-6 col-md-6">
 										<h5><a href="vision-leadership.php">Vision & Leadership</a></h5>
 										<ul class="footer-lists" id="footer-vision">
-											<li><a href="#">Executive Committee</a></li>
-											<li><a href="#">Industry Affiliations</a></li>
+											<li><a href="executive-committee.php">Executive Committee</a></li>
+											<li><a href="industry-affiliations.php">Industry Affiliations</a></li>
 										</ul>
 										<h5>Site Policies</h5>
 										<ul class="footer-lists">

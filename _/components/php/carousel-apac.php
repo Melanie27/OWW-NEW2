@@ -10,17 +10,17 @@
 																<div class="row">
 																	<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-01.jpg" alt="military-01" class="img-responsive">
 																		<div class="carousel-caption">
-																			<h3>Buenos Aires</h3>
+																			<h3>Singapore</h3>
 																		</div>
 																	</div>
 																	<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-02.jpg" alt="military-01" class="img-responsive">
 																		<div class="carousel-caption">
-																			<h3>Santiago</h3>
+																			<h3>Tokyo</h3>
 																		</div>
 																	</div>
 																	<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-03.jpg" alt="military-01" class="img-responsive">
 																		<div class="carousel-caption">
-																			<h3>Lima</h3>
+																			<h3>Bangkok</h3>
 																		</div>
 																	</div>
 																</div><!--end row-->
@@ -30,17 +30,17 @@
 																<div class="row">
 																	<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-01.jpg" alt="military-01" class="img-responsive">
 																		<div class="carousel-caption">
-																			<h3>Buenos Aires</h3>
+																			<h3>Singapore</h3>
 																		</div>
 																	</div>
 																	<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-02.jpg" alt="military-01" class="img-responsive">
 																		<div class="carousel-caption">
-																			<h3>Santiago</h3>
+																			<h3>Tokyo</h3>
 																		</div>
 																	</div>
 																	<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-03.jpg" alt="military-01" class="img-responsive">
 																		<div class="carousel-caption">
-																			<h3>Lima</h3>
+																			<h3>Bangkok</h3>
 																		</div>
 																	</div>
 																</div><!--end row-->
@@ -50,17 +50,17 @@
 																<div class="row">
 																	<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-01.jpg" alt="military-01" class="img-responsive">
 																		<div class="carousel-caption">
-																			<h3>Buenos Aires</h3>
+																			<h3>Singapore</h3>
 																			</div>
 																		</div>
 																		<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-02.jpg" alt="military-01" class="img-responsive">
 																			<div class="carousel-caption">
-																				<h3>Santiago</h3>
+																				<h3>Tokyo</h3>
 																			</div>
 																		</div>
 																		<div class="col-lg-4 col-md-4 col-sm-3 col-xs-6"> <img src="images/government/military-03.jpg" alt="military-01" class="img-responsive">
 																		<div class="carousel-caption">
-																			<h3>Lima</h3>
+																			<h3>Bangkok</h3>
 																		</div>
 																	</div>
 																</div><!--end row-->

@@ -111,6 +111,12 @@ $("#global-expertise a:contains('Global Expertise')").parent().addClass('active'
 $("#global-reach a:contains('Global Expertise')").parent().addClass('active');
 $("#united-states-canada a:contains('Global Expertise')").parent().addClass('active');
 $("#south-america a:contains('Global Expertise')").parent().addClass('active');
+$("#emea a:contains('Global Expertise')").parent().addClass('active');
+$("#apac a:contains('Global Expertise')").parent().addClass('active');
+$("#safety-security a:contains('Global Expertise')").parent().addClass('active');
+$("#technologies a:contains('Global Expertise')").parent().addClass('active');
+$("#client-services a:contains('Global Expertise')").parent().addClass('active');
+
 $("#business-solutions a:contains('Business Solutions')").parent().addClass('active');
 $("#government a:contains('Business Solutions')").parent().addClass('active');
 $("#entertainment a:contains('Business Solutions')").parent().addClass('active');

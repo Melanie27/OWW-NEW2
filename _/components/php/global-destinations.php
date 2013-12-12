@@ -27,7 +27,7 @@
 											</a>
 										</section>
 										<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 country-map">
-											<a href="united-states-canada.php">
+											<a href="APAC.php">
 												<img src="images/global-services/global-us.jpg" alt="regional-icon" class="img-responsive center-block">
 												<header class="industries center-block">
 													<h3>Asia and the Pacific</h3>
