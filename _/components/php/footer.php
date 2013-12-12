@@ -43,7 +43,7 @@
 					<hr>
 				
 				
-					<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+					<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12 no-left-mobile">
 						<div class="row border">
 							<section class="col-lg-3 col-md-3 col-sm-12 col-xs-12 page-links">
 								<h5><a href="global-expertise.php">Global Expertise</a></h5>
