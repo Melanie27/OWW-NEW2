@@ -19,23 +19,46 @@
         <div class="navbar-collapse collapse in">
         	<ul class="nav navbar-nav ">
 				
-				<!--<li class="hidden-lg hidden-md hidden-xs">
+				<li class="hidden-lg hidden-md hidden-xs">
 					<a href="index.php">Home</a>
-				</li>-->
+				</li>
+				
 				<li>
 					<a href="our-brands.php">Our Brands</a>
 				</li>
-				<li>
+				<li class="dropdown">
 					<a href="global-expertise.php">Global Expertise</a>
+						<ul class="dropdown-menu">
+							<li><a href="#">Global Scale and Inventory</a></li>
+							<li><a href="client-services.php">Client Services</a></li>
+							<li><a href="technologies.php">Technologies</a></li>
+							<li><a href="safety-security.php">Safety & Security</a></li>
+						</ul>
 				</li>
-				<li>
+				<li class="dropdown">
 					<a href="business-solutions.php">Business Solutions</a>
+						<ul class="dropdown-menu">
+							<li><a href="#">Individual Business Traveler</a></li>
+							<li><a href="client-services.php">Government</a></li>
+							<li><a href="technologies.php">Entertainment</a></li>
+							<li><a href="safety-security.php">Relocation</a></li>
+						</ul>
 				</li>
-				<li>
+				<li class="dropdown">
 					<a href="vision-leadership.php">Vision and Leadership</a>
+						<ul class="dropdown-menu">
+							<li><a href="executive-committee.php">Executive Committee</a></li>
+							<li><a href="industry-affiliations.php">Industry Affiliations</a></li>
+						</ul>
 				</li>
-				<li>
+				<li class="dropdown">
 					<a href="news.php">News</a>
+						<ul class="dropdown-menu">
+							<li><a href="press-releases.php">Press Releases</a></li>
+							<li><a href="in-the-news.php">In The News</a></li>
+							<li><a href="awards.php">Awards</a></li>
+							<li><a href="upcoming-events.php">Events</a></li>
+						</ul>
 				</li>
 				<li>
 					<a href="marriott.php">Marriott</a>
@@ -43,9 +66,7 @@
 				<li>
 					<a href="careers.php">Careers</a>
 				</li>	
-				<li>
-					<a href="#">Search</a>
-				</li>	 
+				 
 			</ul>
 
          
@@ -55,66 +76,4 @@
 
 </header><!-- header -->
 
-<!--<header class="navbar bs-docs-nav">
-	<div class="container">
-		<div class="row oww-header">
-			<div class="navbar-header col-lg-3 col-md-2 col-sm-3 col-xs-12 pull-left">	
-					<a href="index.php" id="logo">
-				 		<img src="images/sitewide/logo-oww.jpg" alt="Oakwood Worldwide Logo" class="img-responsive"/>
-				 	</a>					  					
-				 	<button class="btn find-housing" type="button" >Find Housing</button>
-				 	<button class="navbar-toggle btn btn-navbar" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
-				 		<span class="sr-only">Toggle navigation</span>
-				 		<span class="icon-bar"></span>
-				 		<span class="icon-bar"></span>
-				 		<span class="icon-bar"></span>
-					  				
-				 	</button>
-				 	
-				 	
-				 	
-				<!--</div><!--row-->	
-			<!--</div><!--navbar-->
-				 
-			<!--<nav class="collapse in navbar-collapse bs-navbar-collapse navbar-fixed-top col-lg-9 col-md-10 col-sm-6" role="navigation" >
-				<div class="container">
-					<section class="row">
-					 	<div class="col-lg-3 col-md-2 col-sm-3 col-xs-1 pull-left">
-						 	<a href="index.php" id="logo">
-							 	<img src="images/sitewide/logo-oww.jpg" alt="Oakwood Worldwide Logo" class="img-responsive"/>
-							 </a>	
-					 	</div>
-					 	<div class="col-lg-9 col-md-10 col-sm-12">
-						 		<ul class="nav navbar-nav ">
-							 		<li>
-								 		<a href="#">Our Brands</a>
-								 	</li>
-								 	<li>
-									 	<a href="#">Global Corporate Housing</a>
-									 </li>
-									 <li>
-										 <a href="#">Industry Insights</a>
-									</li>
-									<li>
-										<a href="vision-leadership.php">Vision and Leadership</a>
-									</li>
-									<li>
-										<a href="news.php">News</a>
-									</li>
-									<li>
-										<a href="marriott.php">Marriott</a>
-									</li>
-									<li>
-										<a href="#">Careers</a>
-									</li>	
-									<li>
-										<a href="#">Search</a>
-									</li>	 
-								</ul>
-					 	</div>
-					</section><!--row>
-					</div><!--container-->	  	
-			<!--</nav>
-				
-			</div><!--row-->
-		<!--</div><!--container-->				  									  
+						  
