@@ -68,6 +68,7 @@
 													Quisque commodo hendrerit lorem quis egestas. Maecenas quis tortor arcu. Vivamus rutrum nunc non neque consectetur quis placerat neque lobortis. Nam vestibulum, arcu sodales feugiat consectetur, nisl orci bibendum elit, eu euismod magna sapien ut nibh. Donec semper quam scelerisque tortor dictum gravida. In hac habitasse platea dictumst. Nam pulvinar, odio sed rhoncus suscipit, sem diam ultrices mauris, eu consequat purus metus eu velit. Proin metus odio, aliquam eget molestie nec, gravida ut sapien. Phasellus quis est sed turpis sollicitudin venenatis sed eu odio. Praesent eget neque.
 														</p>
 														<p class="more">More from <span class="tags"><a href="#">Awards</a>, <a href="#">Oakwood Worldwide</a></span></p>
+														<div class="clearfix"></div>
 													</section>
 
 													
@@ -79,8 +80,9 @@
 											
 											
 											<section class="hidden-lg hidden-md hidden-sm">
-														<?php include "_/components/php/news-press-thumbs.php"; ?>	
-													</section>
+												<h1>Press Releases</h1>
+												<?php include "_/components/php/news-press-thumbs.php"; ?>	
+											</section>
 											
 											<?php include "_/components/php/news-navigation.php"; ?>							
 																					

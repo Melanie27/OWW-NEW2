@@ -53,6 +53,7 @@
 							<section class="three">
 								<div class="row over2">
 									<section class="col-lg-12 col-md-12">
+										
 										<div class="row">
 											<section class="col-lg-6 col-md-6 col-xs-12 awards-sections">
 												<h4>See Awards From:</h4>
@@ -62,7 +63,8 @@
 													<li><a href="#">Cartus Global Network</a></li>
 												</ul>
 											</section>
-										</div>
+										</div><!--Awards Navigation-->
+										
 										<hr class="hidden-lg hidden-md">
 										<div class="row">
 											<section class="col-lg-8 col-md-8 press-release-list">
@@ -80,7 +82,7 @@
 																	<p class="date ">Oct 5, 2013</p>
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																	<p class="full-story "><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>	
+																	<p class="full-story "><a href="awards-single.php" class="orange-link">Full Story &#8594;</a></p>	
 																</section><!--end first position-->
 																<div class="clearfix"></div>
 															</li>
@@ -92,7 +94,7 @@
 																	<p class="date ">Oct 5, 2013</p>
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																<p class="full-story"><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>
+																<p class="full-story"><a href="awards-single.php" class="orange-link">Full Story &#8594;</a></p>
 																</section><!--end second position-->
 																<div class="clearfix"></div>
 															</li>
@@ -104,7 +106,7 @@
 																	<p class="date ">Oct 5, 2013</p>
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																	<p class="full-story"><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>
+																	<p class="full-story"><a href="awards-single.php" class="orange-link">Full Story &#8594;</a></p>
 																</section><!--end third position-->
 																<div class="clearfix"></div>
 															</li>
@@ -116,7 +118,7 @@
 																	<p class="date ">Oct 5, 2013</p>
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																	<p class="full-story"><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>
+																	<p class="full-story"><a href="awards-single.php" class="orange-link">Full Story &#8594;</a></p>
 																</section><!--end fourth position-->
 																<div class="clearfix"></div>
 															</li>	
@@ -128,7 +130,7 @@
 																	<p class="date ">Oct 5, 2013</p>
 																	<h2>Story Title Lorem Ipsum Dolore Sit Amet</h2>
 																	<p>July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est.</p>
-																	<p class="full-story"><a href="press-releases-single.php" class="orange-link">Full Story &#8594;</a></p>
+																	<p class="full-story"><a href="awards-single.php" class="orange-link">Full Story &#8594;</a></p>
 																</section><!--end fifth position-->
 																<div class="clearfix"></div>
 														</li>
