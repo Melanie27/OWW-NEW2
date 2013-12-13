@@ -39,9 +39,9 @@
 					<a href="business-solutions.php">Business Solutions</a>
 						<ul class="dropdown-menu">
 							<li><a href="#">Individual Business Traveler</a></li>
-							<li><a href="client-services.php">Government</a></li>
-							<li><a href="technologies.php">Entertainment</a></li>
-							<li><a href="safety-security.php">Relocation</a></li>
+							<li><a href="government.php">Government</a></li>
+							<li><a href="entertainment.php">Entertainment</a></li>
+							<li><a href="relocation.php">Relocation</a></li>
 						</ul>
 				</li>
 				<li class="dropdown">
