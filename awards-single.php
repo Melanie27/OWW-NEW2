@@ -80,7 +80,7 @@
 											
 											<div class="clearfix"></div>
 										</section>
-										<hr class="hidden-lg hidden-md">
+										<hr>
 														
 									</section><!--end two thirds-->
 										<section class="hidden-lg hidden-md hidden-sm">
