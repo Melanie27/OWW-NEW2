@@ -21,8 +21,7 @@
    
   </head>
   <body id="press-releases">
-  <div class="container-full">
-  
+  	<div class="container-full">
   		<section class="container landing">
 		  	<?php include "_/components/php/header.php"; ?>
 		  	<section class="two">
@@ -37,14 +36,12 @@
 		  	</section> <!--two-->	
 		  				
 		  				
-		  				<div class="container">
-		  					<section class="full-story hidden-lg hidden-md clearfix">
-		  						<h2 class="hidden-sm">Story Title Lorem Ipsum Dolore Sit Amet</h2>
-		  						<?php include "_/components/php/news-full-story.php"; ?>
-		  					</section>
-		  						  					
-
-		  				</div>
+		  	<div class="container">
+		  		<section class="full-story hidden-lg hidden-md clearfix">
+		  			<h2 class="hidden-sm">Story Title Lorem Ipsum Dolore Sit Amet</h2>
+		  				<?php include "_/components/php/news-full-story.php"; ?>
+		  		</section>
+		  	</div>
 		  				
 		  				<hr class="hidden-lg hidden-md hidden-sm">
 
