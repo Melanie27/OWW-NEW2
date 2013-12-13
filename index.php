@@ -10,10 +10,6 @@
     <link href="_/css/mystyles_home.css" rel="stylesheet" media="screen">
      <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">-->
      
-     
-    
-    
-    
      <!--Fonts-->
      <link href="_/District-Black/stylesheet.css" rel="stylesheet" media="screen">
          <link href="_/District-Bold/stylesheet.css" rel="stylesheet" media="screen">

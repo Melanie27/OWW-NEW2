@@ -6,19 +6,19 @@
 	background-color:white;
 	margin:45px auto;
 			
-	}
+}
 			
 .blurb {
 			
 	padding-bottom:25px;	
 			
-		.full-story {
+	.full-story {
 				
-			margin-bottom:40px;
+		margin-bottom:40px;
 		
-		}	
+	}	
 				
-	}
+}
 		
 .two, .four, .six {
 			
@@ -27,22 +27,26 @@
 
 
 .two {
+	
 	background-image: url(../../images/sitewide/bg-image-01.jpg);
 	height:512px;	
 }
 
 
 .four {
+	
 	background-image: url(../../images/sitewide/bg-image-02.jpg);
 	height:380px;
 }
 
 .six {
+	
 	background-image: url(../../images/sitewide/bg-image-03.jpg);
 	height:200px;
 }
 
 .news-columns {
+	
 	padding-left:0px;
 	padding-right:0px;
 }
@@ -55,17 +59,18 @@
 /*Press Releases */
 
 
-
-
 .two {
+	
 	background-image: url(../../images/sitewide/bg-image-04.jpg);
 	
 }
 
 .press-release-list {
+	
 	padding-left:0px;
 	
 	h1 {
+		
 		margin-top:55px;
 		margin-bottom:40px;
 	}
@@ -78,73 +83,81 @@
 	margin-bottom:65px;
 	
 	h1 {
+		
 		margin-top:55px;
 		margin-bottom:35px;
 	}
 	
 	h4 {
+		
 		font-family:@district-book;
 		
 	}
 }
 
 .release-years {
+	
 	padding-left:10px;
 	
 	a:link, a:visited {
+		
 		color:@oww-dark-gray;	
 	}
 	
 	a:hover, a:active {
+		
 		color:@oww-poppy;
 	}
 	
 	.active a {
+		
 		color:@oww-poppy;
 	}
 	
 }
 
 
-
-
-
 .press-text {
+	
 	padding-left:0px;
 	
 	h2 {
+		
 		color:@oww-poppy;
 		margin-top:0px;
+		
 	}
 }
 
 .press-image {
+	
 	margin-bottom:40px;
 }
-
-
 
 
 /*Press Release Single*/
 #press-releases-single {
 	
 	.two {
+		
 		height:316px;
 	}
 	
 	.four {
+		
 		background-image: url("../../images/sitewide/bg-image-05.jpg");
 		height:200px;
 	}
-
 	
 }
 
 .press-release-hero {
+	
 	margin-bottom:35px;
 }
 
 .press-release-content {
+	
 	margin-bottom:75px;
 	
 	.tags a:link, .tags a:visited {
@@ -162,65 +175,276 @@
 
 .internal {
 	
- 	.over{
+ 	.over {
+		
 		padding-top:35px;
 		padding-bottom:35px;	
 		padding-left:25px;
 		padding-right:25px;
 		
-			img {
-				margin-right:15px;
-				}
+		img {
+				
+			margin-right:15px;
+				
+		}
 	
-			}
-	
+	}
 }
 
 .more {
+	
 	margin-top: 45px;
 }
+
+/*Awards Page */
+
+.over {
+    background-color: #FFFFFF;
+    margin: 45px auto;
+    padding: 35px 30px;
+}
+
+.awards-sections {
+	
+	border:solid 1px @oww-border;
+	padding: 10px 50px;
+	margin-top:50px;
+	
+	
+	h4 {
+		
+		float:left;
+		font-weight:normal;
+		margin-right:35px;
+		color: @oww-dark-gray;
+		font-family:@district-light;
+	}
+	
+	ul {
+	
+		display:inline-block;
+		
+		
+		li {
+			
+			float:left;
+			display:block;
+			width:auto;
+			padding: 12px 6px;
+			font-size:18px;
+			font-family:@district-light;
+			
+			a:link, a:visited {
+				
+				color: @oww-light-gray;
+			}
+			
+			a.active:link,a.active:visited {
+				
+				color: @oww-poppy;
+			}
+		}
+	}
+	
+}
+
+
+#awards {
+	
+	.press-release-list {
+	
+	
+		h1 {
+		
+			margin-top:45px;
+			margin-bottom:50px;
+			
+		}
+	}
+	
+	p.date {
+		
+		margin-bottom: 5px;
+	}
+
+}
+
+/*Awards carousel*/
+#awards {
+	
+	.carousel {
+		
+		margin-bottom:0px;
+	}
+	
+	.carousel-caption {
+		
+		width:520px;
+		left:580px;
+		bottom:95px;
+		background-color:transparent;
+		text-shadow:none;
+	}
+	
+	.carousel-control.left {
+   	 	
+   	 	background-image: none;
+   	 	bottom: -130px;
+   	 	left: 490px;
+   	 	 z-index:100;
+   	 	 
+   	 }
+   	 
+   	 .carousel-control.right {
+	   	 
+	   	 background-image: none;
+	   	 background-repeat: repeat-x;
+	   	 bottom: -130px;
+	   	 left: 995px;
+	   	 z-index:100;
+	   	 
+	  }
+	   	
+	  .carousel-indicators {
+		  
+		  bottom: 25px;
+		  left: 83%;
+		  width: 46%;
+		  z-index: 1;  
+		 
+	}
+        
+    .carousel-indicators:before {
+        
+        border-top: 1px solid #bbbbbb;
+        content:"";
+        margin: 0 auto; /* this centers the line to the full width specified */
+        position: absolute; /* positioning must be absolute here, and relative positioning must be applied to the parent */
+        top: 55%; left: 0; right: 0; bottom: 0;
+        width: 95%;
+        z-index: -1;
+        
+    }
+		  
+	.glyphicon-chevron-right:before {
+	
+		content: url(../../images/vision-leadership/carousel-arrow-right.jpg);
+
+	}
+		
+	.glyphicon-chevron-left:before {
+			
+		content: url(../../images/vision-leadership/carousel-arrow-left.jpg);
+			
+	}
+		
+	.carousel-indicators li {
+			
+		border: solid 1px #bbbbbb;
+		background-color:#fff;
+		width:15px;
+		height:15px;
+		border-radius: 15px;
+		
+	}
+		  
+	.carousel-indicators li {
+			 
+			 margin-right:15px;
+	}
+			
+	.carousel-indicators li.active {
+			
+			width:30px;
+			height:30px;
+			border-radius:30px;
+	}
+		
+	.date-next, .date-prev {
+			
+			position:relative;
+			top:220px;
+			text-shadow:none;
+	}
+		
+	.date-next {
+			
+		left:-20px;
+	}
+		
+	.date-prev {
+			
+		left:20px;
+		
+	}
+		
+	a.link-archives:link, a.link-archives:visited {
+			
+		margin-top:0px;
+		margin-bottom:45px;
+		
+	}
+	
+	h2 {
+		
+		color:@oww-poppy;
+	}
+}
+
+/*End carousel*/
+
 
 
 /* Extra Small Screens 1 - 768 */
 
 @media (min-width: 1px) and (max-width: 767px) {
+	
 	.two {
+		
 		height:200px;
 	}
 	
 	.press-text {
+		
 		padding-left:15px;
 	}
 	
 	.blurb {
+		
 		border-right:none;
 		
 		.full-story {
+			
 			margin-bottom:30px;
-			
-			
+				
 		}
 	}
 	
 	.cover-image {
-		padding-left:0px;	
+		
+		padding-left:0px;
+			
 	}
 	
 	.thirds {
+		
 		padding-top:15px;
 		padding-left:0px;
+		
 	}
 	
-	.full-story {
+	.full-story {			
 			
+		h2 {
 			
-			h2 {
-				font-family: @district-thin;
-				color:@oww-poppy;
-				font-size:21px;
-				line-height:24px;
-			}
+			font-family: @district-thin;
+			color:@oww-poppy;
+			font-size:21px;
+			line-height:24px;
+			
 		}
+	}
+	
 	.press-release-list {
 		
 		h1 {
@@ -231,18 +455,24 @@
 	}
 	
 	.press-release-content {
+		
 		margin-bottom:25px;
+		
 	}
 	
 	.news-thumbnails {
+		
 		margin-top:15px;
+		
 	}
 	
 	
 	#press-releases-single {
 		
 		.two {
+			
 			height:200px;
+		
 		}
 	}
 	
@@ -250,40 +480,197 @@
 	
 		padding-bottom:25px;
 	}
-}
+	
+	.awards-sections {
+	
+		border:none;
+		padding: 0px 0px;
+		margin-top:0px;
+	
+	
+		h4 {
+		
+			margin-right:15px;
+			font-size:11.5px;
+			padding-top:10px;
+	
+			}
+	
+			ul {
+			
+				display:inline;
+		
+				li {
+			
+					width:auto;
+					padding: 16px 6px;
+					font-size:11.5px;	
+		
+					}
+				}
+	
+			}
+
+		}
+		
+	.awards-tabs {
+		
+		padding-left:0px;
+	}
+	
+	#awards {
+		
+		
+		
+		.press-release-list {
+		
+			h1 {
+			
+				margin-top:15px;
+				margin-bottom:20px;
+				
+			}
+		}
+		
+		.news-thumbnails {
+			
+			margin-bottom:45px;
+		}
+		
+		a.link-archives:link, a.link-archives:visited {
+			
+			margin-top:0px;
+			margin-bottom:25px;
+		
+		}
+	}	
 
 /*Small Screens 768 - 992 */
 
 @media (min-width: 768px) and (max-width: 991px) {
 	
 	.blurb {
+		
 		border-right:none;
 		
 		.full-story {
+			
 			margin-bottom:30px;
-			
-			
+						
 		}
 	}
 	
 	.cover-image {
+		
 		padding-left:15px;	
+	
 	}
 	
 	.full-story {
+					
+		h2 {
 			
+			font-family: @district-thin;
+			color:@oww-poppy;
+			font-size:21px;
+			line-height:24px;
 			
-			h2 {
-				font-family: @district-thin;
-				color:@oww-poppy;
-				font-size:21px;
-				line-height:24px;
-			}
 		}
+	}
 
 	.press-release-list {
+		
 		padding-left:15px;
 	}
+	
+	.awards-sections {
+		
+		border:none;
+		padding-left:15px;
+	}
+	
+	#awards {
+	
+		.carousel-caption {
+			
+			background-color: rgba(0, 0, 0, 0);
+			bottom: 10px;
+			left: 340px;
+			text-shadow: none;
+			width: 300px;
+			
+		}
+			
+		.carousel-indicators {
+			
+			bottom:-20px;
+		}
+		
+		.carousel-control.left {
+			
+			background-image: none;
+			bottom: -115px;
+			left: 290px;
+			z-index: 100;
+		}	
+		
+		.carousel-control.right {
+			
+			background-image: none;
+			bottom: -115px;
+			left: 620px;
+			z-index: 100;
+		}	
+		
+		 .date-next, .date-prev {
+    
+			 position: relative;
+			 text-shadow: none;
+			 top: 165px;
+		}
+		
+	}
+		
 }
 
+/* Medium Screens 992 - 1200 */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+	
+	#awards {
+	
+	
+		.carousel-caption {
+			
+			bottom:50px;
+			left:460px;
+		}
+		
+		.carousel-indicators {
+			
+			bottom:-5px;
+			left:742px;
+		}
+		
+		 .carousel-control.left {
+			 
+			 bottom: -140px;
+			 left: 400px;
+			 z-index:100;
+		 }
+		 
+		 .carousel-control.right {
+			  bottom: -140px;
+			  left: 820px;
+			  z-index:100;
+		 }
+		 
+		  .date-next, .date-prev {
+    
+			 position: relative;
+			 text-shadow: none;
+			 top: 205px;
+		}	
+	}
+}
 
