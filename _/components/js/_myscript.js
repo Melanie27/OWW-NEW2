@@ -1,8 +1,4 @@
-/*Scroll to Request Apartment part of page*/
-	/*$('#military1').click(function() {
-		//$("html").animate({ scrollTop: "5000px" }, 1000);
-		console.log('yo');	 
-	});*/
+
 
 
 $('.carousel').carousel({
@@ -64,15 +60,11 @@ $('#collapseFive').on('hidden.bs.collapse', function () {
 
 $('.panel-heading a').each(function (index) {
 			
-			
-			
 			var hashCol = $(this).attr('href');
-			
 			var grandParent = $(this).parent().parent().attr('id');
 			var gString = $('.' + grandParent);
 			var btn = $(this).find("button");
 			var btnID = $(btn).attr("id");
-			
 			var subString2 = btnID.substring(0, 3);	
 			btnString = $('.' + subString2);
 			btnIDString = $('#' + btnID);
@@ -104,7 +96,7 @@ $('.panel-heading a').each(function (index) {
 
 
 
-/*Navigation*/
+/*MAIN Navigation*/
 $("#home a:contains('Home')").parent().addClass('active');
 $("#our-brands a:contains('Our Brands')").parent().addClass('active');
 $("#global-expertise a:contains('Global Expertise')").parent().addClass('active');
@@ -144,6 +136,18 @@ $("#upcoming-events-single a:contains('News')").parent().addClass('active');
 
 $("#marriott a:contains('Marriott')").parent().addClass('active');
 $("#careers a:contains('Careers')").parent().addClass('active');
+
+
+/*News Subnavigation*/
+$("#press-releases a:contains('Press Releases')").addClass('active');
+$("#press-releases-single a:contains('Press Releases')").addClass('active');
+$("#in-the-news a:contains('In the News')").addClass('active');
+$("#in-the-news-single a:contains('In the News')").addClass('active');
+$("#awards a:contains('Awards & Honors')").addClass('active');
+$("#awards-single a:contains('Awards & Honors')").addClass('active');
+$("#upcoming-events a:contains('Upcoming Events')").addClass('active');
+$("#upcoming-events-single a:contains('Upcoming Events')").addClass('active');
+
 
 
 

@@ -35,13 +35,7 @@
 				</div><!--heading-->
 				<?php include "_/components/php/hero-thirds-internal.php"; ?>
 		  	</section> <!--two-->	
-		  				
-		  				
-		  						  				
-		  				
-
-						
-						<div class="container">
+				<div class="container">
 							<section class="three">
 								<div class="row over2">
 									<section class="col-lg-12 col-md-12">

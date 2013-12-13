@@ -21,8 +21,7 @@
    
   </head>
   <body id="awards-single">
-  <div class="container-full">
-  
+ 	 <div class="container-full">
   		<section class="container landing">
 		  	<?php include "_/components/php/header.php"; ?>
 		  	<section class="two">
@@ -79,18 +78,17 @@
 											<p class="see-release"><a class="orange-link hidden-xs" href="#">See Press Release &#8594;</a></p>
 											
 											<div class="clearfix"></div>
-										</section>
-										<hr>
-														
-									</section><!--end two thirds-->
-										<section class="hidden-lg hidden-md hidden-sm">
-											<h1>Awards for 2013</h1>
-											<?php include "_/components/php/news-press-thumbs.php"; ?>	
-										</section>
-											<?php include "_/components/php/news-navigation.php"; ?>							
+										</section><!--end press release content-->
+										<hr class="hidden-lg hidden-md">					
+									</section><!--end press release list-->
+									<section class="hidden-lg hidden-md hidden-sm">
+										<h1>Awards for 2013</h1>
+										<?php include "_/components/php/news-press-thumbs.php"; ?>	
 									</section>
-								</div><!--row-->
-							</section><!--three-->
+										<?php include "_/components/php/news-navigation.php"; ?>							
+								</section><!--end 12 col-->
+							</div><!--row-->
+						</section><!--three-->
 						</div>
 						
 						<hr class="hidden-lg hidden-md">
@@ -101,8 +99,6 @@
 								</section>
 							</div>
 						</div><!--content 4-->  				
-						
-				
 						<?php include "_/components/php/media-relations-mobile.php"; ?>					
 						<hr>
 						<?php include "_/components/php/footer.php"; ?>	
