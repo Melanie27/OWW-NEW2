@@ -1,6 +1,6 @@
 <div class="panel-group" id="accordion">
 					<div class="panel panel-default">
-						<div class="panel-heading collapse5" id="collapse5">
+						<div class="panel-heading-business collapse5" id="collapse5">
 							<h1 class="title1 panel-title">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" class="collapser">
 									<div class="container">

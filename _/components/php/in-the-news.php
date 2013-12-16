@@ -2,14 +2,11 @@
 									
 
 											<div class="panel panel-default">
-												<div class="panel-heading collapse3" id="collapse3">
+												<div class="panel-heading-business collapse3" id="collapse3">
 													<h1 class="title3 panel-title">
 														<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" class="collapser">
-										
 															<h1>In the News</h1>
 															<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseThree" id="btn-3"></button>
-
-															
 														</a>
 													</h1>
 												</div>	

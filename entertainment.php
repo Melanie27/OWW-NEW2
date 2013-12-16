@@ -37,8 +37,7 @@
 				</div><!--heading-->
 				<?php include "_/components/php/hero-government.php"; ?>
 		  	</section> <!--two-->	
-		  				
-						
+		  								
 			<div class="hidden-sm hidden-xs sub-navigation container">
 				<section class="row">
 					<div class="col-lg-12 center-block">
@@ -58,15 +57,11 @@
 					</div>
 				</section>
 			</div><!--end sub-nav-->
-			
 			<hr>
-			
 			<div class="container">
 				<?php include "_/components/php/extended-stay-lodging.php"; ?>
-			</div><!--end container-->
-					
+			</div><!--end container-->		
 			<hr>
-			
 			<section class="container">	
 				<div class="row hidden-xs">
 					<section class="tab-section">
@@ -74,10 +69,8 @@
 							<?php include "_/components/php/industry-tabs.php"; ?>	
 					</section>	
 				</div><!--end tabbed section-->
-			</section>	
-				
+			</section>
 			<hr>
-				
 				<div class="row industry-insights">
 					<section class="col-sm-12 hidden-lg hidden-md">
 						<div class="container">
@@ -95,7 +88,7 @@
 											
   				</section>
   				
-  				<hr>
+  				<hr class="hidden-xs">
   							
 		
 				<!--Child Actors Accordion Panel-->
@@ -105,7 +98,7 @@
 				</section>
 					
 				
-				<hr>
+				<hr class="hidden-xs">
 				
 				
 				
@@ -115,7 +108,7 @@
 					<?php include "_/components/php/entertainment-theatre.php"; ?>					
 				</section>
 				
-				<hr>
+				<hr class="hidden-xs">
 				
 				<!--Gaming Accordion Panel-->
 				
@@ -124,7 +117,7 @@
 				</section>
 				
 				
-				<hr>
+				<hr class="hidden-xs">
 				
 				<!--Schools Accordion Panel-->
 				
@@ -135,7 +128,7 @@
 			</div><!--end row that holds accordion-->		
 				
 				
-			<hr>
+			<hr class="hidden-xs">
 
 				
 				

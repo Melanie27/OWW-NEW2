@@ -189,6 +189,21 @@ h1 {
 	font-family: 'district_thinthin';
 	font-weight:300;
 	font-size: @oww-font-size-h1;
+
+	a {
+		
+		color: @oww-poppy;
+	}
+	
+	a:hover, a:active {
+		color: @oww-poppy;
+		
+	}
+	
+	a:visited {
+		color: @oww-poppy;
+		
+	}
 		
 } 
 
@@ -808,7 +823,7 @@ p.caption {
 
 	.first-col {
 		
-		border-right:solid 1px @oww-light-gray;
+		border-right:solid 1px @oww-border;
 		padding-top:42px;
 		padding-bottom:42px;
 		padding-right:70px;
@@ -817,7 +832,7 @@ p.caption {
 	
 	.second-col  {
 		
-		border-right:solid 1px @oww-light-gray;
+		border-right:solid 1px @oww-border;
 		padding: 42px 35px;
 	}
 	
@@ -889,7 +904,7 @@ p.caption {
 	li {
 		
 		padding:13px 0px;
-		border-bottom: solid 1px @oww-light-gray;
+		border-bottom: solid 1px @oww-border;
 		
 	}
 	
@@ -905,7 +920,7 @@ p.caption {
 	li {
 		
 		padding:12px 0px;
-		border-bottom: solid 1px @oww-light-gray;
+		border-bottom: solid 1px @oww-border;
 	}
 }
 
@@ -1092,6 +1107,8 @@ article.one-third-two-thirds {
 		h1 {
 			
 			margin-bottom:0px;
+			margin-top:50px;
+			
 			
 		}
 	}
@@ -1324,7 +1341,10 @@ footer {
 }
 
 
-/*Accordion Style*/
+
+
+
+/*Accordion Business Style*/
 
 .accordion {
 		
@@ -1332,25 +1352,31 @@ footer {
 	
 }
 
-.panel-default > .panel-heading {
+.panel-heading-business {
+	padding: 10px 15px;
+	
+}
+
+.panel-default > .panel-heading-business {
 	     
 	background-color:white;
-	border-bottom: solid 1px @oww-border;
 	border-right: none;
 	border-top: none;
 	border-radius:none;
 	     
 }
      
-.latest-news .panel-default > .panel-heading {
+.latest-news .panel-default > .panel-heading-business {
 	     
 	border-top:none;
+	
 	     
 }
      
-.panel-heading.last-item {
+.panel-heading-business.last-item {
 	     
 	border-bottom: none;
+	
 
 }
  
@@ -1367,7 +1393,7 @@ footer {
 	    
 }
      
-.panel-heading {
+.panel-heading-business {
 	     
 	border-bottom:none;
 	border-radius:0px;
@@ -1380,7 +1406,7 @@ footer {
 	       
 }  
       
-.panel-default > .panel-heading + .panel-collapse .panel-body {
+.panel-default > .panel-heading-business + .panel-collapse .panel-body {
 	      
 	 border-top:none;
 	 padding-top:0px;
@@ -1394,12 +1420,35 @@ footer {
 	      	
 		text-decoration:none;
 		
+		
       } 
+      
+      h1 {
+	      
+	      font-size:21px;
+      }
   }
       
+    
+	
+	.panel {
+		
+		border-radius:none;
+		border-bottom:solid 1px @oww-border;
+	}
+	
+	.panel-group  {
+	
+		.panel {
+			border-radius:0px;		
+			
+		}
+	}
+
       
       
-/*End Accordion*/
+/*End Accordion Business*/
+
 
 
 /*Carousel*/
@@ -1572,7 +1621,7 @@ footer {
 	
 	.panel-default > .panel-heading + .panel-collapse .panel-body {
 	      
-	      border-bottom: solid 1px @oww-border;
+	     
       }
 	
 	.upcoming-events {
@@ -1810,7 +1859,7 @@ footer {
 	
 	.panel-default > .panel-heading + .panel-collapse .panel-body {
 	      
-	      border-bottom: solid 1px @oww-border;
+	     
 	      padding:0px;
       }
 	
@@ -2104,7 +2153,7 @@ and (orientation : landscape) {
         display: block;
     }
     
-    .panel-heading {
+    .panel-heading-business {
 	    display:none;
     }
     

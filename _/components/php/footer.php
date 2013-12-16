@@ -1,8 +1,8 @@
 	<section class="container">	
 		<div class="row">
-			<footer class="col-lg-12 col-md-12">
-						
-					
+			<footer class="col-lg-12 col-md-12">	
+				
+				
 				<div class="row">
 					<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 footer-brands pull-right">
 						<div class="row">
@@ -31,23 +31,18 @@
 									<section class="col-lg-4 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-2">
 										<a id="footer-find-housing" class="btn-footer housing" href="#">Find Housing</a>
 									</section>
-									<section class="col-lg-4  col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-1">																<a id="footer-contact-us" class="btn-footer contact" href="#">Contact Us</a>
+									<section class="col-lg-4  col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-1">
+										<a id="footer-contact-us" class="btn-footer contact" href="#">Contact Us</a>
 									</section>
 								</div>
 							</section>
 						</div>
 					</section> <!--end footer brands-->
-				
 					<div class="clearfix hidden-lg hidden-md"></div>
-				
-					
-				
-				
 					<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12 no-left-mobile">
 						<div class="row border">
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links">
 								<h5><a href="global-expertise.php">Global Expertise</a></h5>
-									
 									<ul class="footer-lists" id="footer-global">
 										<div class="row">
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
@@ -61,9 +56,7 @@
 										</div>
 									</ul>
 							</section>		
-							
-							<hr class="hidden-lg hidden-md hidden-sm">				
-									
+							<hr class="hidden-lg hidden-md hidden-sm">					
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links">
 								<h5><a href="business-solutions.php">Business Solutions</a></h5>
 									<ul class="footer-lists" id="footer-industry">
@@ -79,9 +72,7 @@
 										</div>	
 									</ul>	
 							</section>
-							
 							<hr class="hidden-lg hidden-md hidden-sm">
-							
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links">
 								<h5><a href="vision-leadership.php">Vision & Leadership</a></h5>
 									<ul class="footer-lists" id="footer-vision">
@@ -93,9 +84,7 @@
 										</div>	
 									</ul>	
 							</section>
-							
 							<hr class="hidden-lg hidden-md hidden-sm">
-							
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links">
 								<h5><a href="news.php">News</a></h5>
 									<ul class="footer-lists" id="footer-news">
@@ -111,11 +100,9 @@
 										</div>
 									</ul>
 							</section>
-							
 							<hr class="hidden-lg hidden-md hidden-sm">
 						</div>
 					</section>
-				
 					<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12 no-left-mobile">
 						<div class="row border">
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links bottom">
@@ -128,28 +115,19 @@
 										</div>
 										
 									</ul>
-							</section>		
-											
-							<hr class="hidden-lg hidden-md hidden-sm">
-									
+							</section>				
+							<hr class="hidden-lg hidden-md hidden-sm">	
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links bottom">
 								<h5><a href="careers.php">Careers</a></h5>
 								<ul class="footer-lists" id="footer-global">
-										<div class="row">
-											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
-												
-											</section>
-										</div>
-										
-									</ul>
-
-									
+									<div class="row">
+										<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
+										</section>
+									</div>	
+								</ul>	
 							</section>
-							
 							<div class="clearfix hidden-lg hidden-md hidden-xs"></div>
-							
 							<hr class="hidden-lg hidden-md hidden-sm">
-							
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links bottom">
 								<h5>Site Policies</h5>
 									<ul class="footer-lists">
@@ -163,9 +141,7 @@
 										</div>
 									</ul>
 							</section>
-							
 							<hr class="hidden-lg hidden-md hidden-sm">
-							
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links bottom">
 								<h5>Connect</h5>
 									<ul class="footer-lists social-media clearfix">
@@ -179,20 +155,16 @@
 						<span class="icon-housing"> 
 							<img src="images/icons/icon-equal-housing.jpg" alt="icon-equal-housing" width="30" height="30" class="pull-left"/>
 						</span>
-						<p>Equal Housing Opportunity &copy;2004-2013 Oakwood Worldwide. <span class="hidden-sm hidden-xs">The most trusted name in temporary housing.<sup>SM</sup></span></p>
+						<p>Equal Housing Opportunity &copy;2004-2013 Oakwood Worldwide. The most trusted name in temporary housing.<sup>SM</sup></p>
 					</section>
 				</div><!--end row-->
-
-							
-
-				</div>	
-			</footer>
-		</div>
-	</section> <!--Footer-->
+		</footer>
+	</div>
+</section> <!--Footer-->
 	
 	<!--Buttons Visible xs screens-->
 	
-	<footer>
+<footer>
 	<div class="row hidden-lg hidden-md hidden-sm hidden-xs">
 		<section class="col-lg-4 col-lg-offset-2 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-2 col-xs-6">
 			<a href="#" class="btn-footer" id="footer-find-housing">Find Housing</a>
@@ -201,4 +173,4 @@
 			<a href="#" class="btn-footer" id="footer-contact-us">Contact Us</a>
 		</section>
 	</div>
-	</footer>
+</footer>

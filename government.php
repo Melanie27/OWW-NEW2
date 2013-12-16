@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>OWW Project</title>
+    <title><?php include "_/components/php/title.php"; ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -17,13 +17,10 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-  
- 
    
   </head>
   <body id="government">
-  <div class="container-full">
-  
+  	<div class="container-full">
   		<section class="container landing">
 		  	<?php include "_/components/php/header.php"; ?>
 		  	<section class="two">
@@ -36,8 +33,7 @@
 				</div><!--heading-->
 				<?php include "_/components/php/hero-government.php"; ?>
 		  	</section> <!--two-->	
-		  				
-						
+		  						
 			<div class="hidden-sm hidden-xs sub-navigation">
 				<section class="row">
 					<div class="col-lg-12 center-block">
@@ -63,90 +59,69 @@
 				<?php include "_/components/php/government-overview.php"; ?>
 			</div><!--end container-->
 					
-				
-				<div class="content row">
-					<div class="col-lg-12 col-md-12">
-						<section class="four hidden-sm hidden-xs">
-						</section>
-					</div>
-				</div><!--content 4-->
-				
-				
-				<div class="row industry-insights">
-					<section class="col-sm-12 hidden-lg hidden-md">
-						<div class="container">
-							<h1>Industry Insights</h1>
-						</div>
-						<?php include "_/components/php/industry-insights.php"; ?>
+			<section class="row">
+				<div class="col-lg-12 col-md-12">
+					<section class="four hidden-sm hidden-xs">
 					</section>
 				</div>
+			</section><!--content 4-->
 				
-				
-				<!--ACCORDION-->
-				<div class="row">
+			<div class="row industry-insights">
+				<section class="col-sm-12 hidden-lg hidden-md">
+					<div class="container">
+						<h1>Industry Insights</h1>
+					</div>
+					<?php include "_/components/php/industry-insights.php"; ?>
+				</section>
+			</div>
+					
+			<!--ACCORDION-->
+			<div class="row">
 				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
-						<?php include "_/components/php/government-military.php"; ?>							
+					<?php include "_/components/php/government-military.php"; ?>							
   				</section>
-  				<div class="content row">
+  				<section class="row">
 					<div class="col-lg-12">
 						<section class="six hidden-sm hidden-xs">
 						</section>
 					</div>
-				</div><!--content 6-->
-				
-		
+				</section><!--content 6-->		
 				<!--Federal Civilian Accordion Panel-->
-				
 				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">									
 						<?php include "_/components/php/government-federal-civilian.php"; ?>
 				</section>
-					
-				
-				<div class="content row">
+				<section class="row">
 					<div class="col-lg-12">
 						<section class="eight hidden-sm hidden-xs">
 						</section>
 					</div>
-				</div><!--content 8-->
+				</section><!--content 8-->	
+				<!--Government Contractors Accordion Panel-->	
+				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">		
+				<?php include "_/components/php/government-government-contractors.php"; ?>	
+				</section>	
+				<section class="content row">
+					<div class="col-lg-12">
+						<section class="eight hidden-sm hidden-xs">
+						</section>
+					</div>
+				</section><!--content 10-->
+				<!--GSA Schedule 48 Accordion Panel-->
+				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
+					<?php include "_/components/php/government-gsa.php"; ?>
+				</section>
+			</div>
+			<!--end row that holds accordion-->		
 				
-				
-			<!--Government Contractors Accordion Panel-->
-				
-			<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">		
-				<?php include "_/components/php/government-government-contractors.php"; ?>													</section>
-				
-			<div class="content row">
+			<section class="content row">
 				<div class="col-lg-12">
 					<section class="eight hidden-sm hidden-xs">
 					</section>
 				</div>
-			</div><!--content 10-->
-				
-				<!--GSA Schedule 48 Accordion Panel-->
-				
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
-					<?php include "_/components/php/government-gsa.php"; ?>
-				
-				</section>
-			</div><!--end row that holds accordion-->		
-				
-				<div class="content row">
-					<div class="col-lg-12">
-						<section class="eight hidden-sm hidden-xs">
-						</section>
-					</div>
-				</div><!--content 12-->
-
-
-				
-				
-				<?php include "_/components/php/footer.php"; ?>	
-
-  			
-  		
-  	</section><!-- container -->
-  	
-  </div>
+			</section><!--content 12-->
+			<?php include "_/components/php/footer.php"; ?>	
+  		</section><!-- container --> 	
+  	</div>
   	<script src="_/js/bootstrap.js"></script>
   	<script src="_/js/myscript.js"></script>
   </body>

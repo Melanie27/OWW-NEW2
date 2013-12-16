@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>OWW Project</title>
+    <title><?php include "_/components/php/title.php"; ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -16,75 +16,56 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-  
- 
-   
+
   </head>
   <body id="business-solutions">
-  <div class="container-full">
-  
+  	<div class="container-full">  
   		<section class="container landing">
-		  	<?php include "_/components/php/header.php"; ?>
-		  	<section class="two">
-				<div class="row heading">
-					<section class="col-lg-12">
-						<div class="container">
-							<h1>Business Solutions and Industry Insights</h1>
-							<h2>80% of Fortune 1000 companies trust Oakwood with their corporate housing needs</h2>
-						</div>
-					</section>		
-				</div><!--heading-->
-				
-		  	</section> <!--two-->	
-		  				
+		 <?php include "_/components/php/header.php"; ?>
+		 <section class="two">
+			 <div class="row heading">
+				 <section class="col-lg-12">
+					 <div class="container">
+						 <h1>Business Solutions and Industry Insights</h1>
+						 <h2>80% of Fortune 1000 companies trust Oakwood with their corporate housing needs</h2>
+					</div>
+				</section>		
+			</div><!--heading-->	
+		  </section> <!--two-->		
+		  <section class="three container">
+			  <div class="row over2">
+				  <section class="col-lg-12 col-md-12 news-columns no-left-padding">
+				  <?php include "_/components/php/industry-solutions.php"; ?>
+				  </section>
+			</div><!--row-->
+		</section><!--three-->
 						
-						<div class="container">
-							<section class="three">
-								<div class="row over2">
-									<section class="col-lg-12 col-md-12 news-columns no-left-padding">
-										<?php include "_/components/php/industry-solutions.php"; ?>
-									</section>
-								</div><!--row-->
-							</section><!--three-->
-						</div>
-					
-				
-				<div class="content row">
-					<div class="col-lg-12">
-						<section class="four hidden-sm hidden-xs">
-						</section>
-					</div>
-				</div><!--content 4-->
-				
-				<hr>
-				<div class="content row industry-insights">
-					<div class="col-lg-12">
-						<section class="five">
-							<div class="container">
-								
-								<h1><a href="industry-insights.php">Industry Insights</a></h1>
-								<?php include "_/components/php/industry-insights.php"; ?>	
-
-							</div><!--container-->
-						</section><!--five-->
-					</div>
-				</div>
-  				
-  				<hr>
-  				
-  				<div class="content row">
-					<div class="col-lg-12">
-						<section class="six hidden-sm hidden-xs">
-						</section>
-					</div>
-				</div><!--content 6-->
-				
-				<?php include "_/components/php/footer.php"; ?>	
-
-  			
-  		
+		<div class="row">
+			<div class="col-lg-12">
+				<section class="four hidden-sm hidden-xs">
+				</section>
+			</div>
+		</div><!--content 4-->
+		<hr>
+		<section class="row industry-insights">
+			<div class="col-lg-12">
+				<section class="five">
+					<div class="container">		
+						<h1><a href="industry-insights.php">Industry Insights</a></h1>
+						<?php include "_/components/php/industry-insights.php"; ?>	
+					</div><!--container-->
+				</section><!--five-->
+			</div>
+		</section>
+  		<hr>
+  		<section class="row">
+			<div class="col-lg-12">
+				<section class="six hidden-sm hidden-xs">
+				</section>
+			</div>
+		</section><!--content 6-->
+		<?php include "_/components/php/footer.php"; ?>	
   	</section><!-- container -->
-  	
   </div>
   	<script src="_/js/bootstrap.js"></script>
   	<script src="_/js/myscript.js"></script>

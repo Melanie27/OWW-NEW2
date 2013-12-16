@@ -19,7 +19,6 @@ $('#collapseOne').on('hidden.bs.collapse', function () {
 });
 
 
-
 $('#collapseTwo').on('show.bs.collapse', function () {
 		$('#btn-2').css("background-image", "url(http://planb-november.herokuapp.com/images/icons/icon-mobile-contract.jpg)");
 });
@@ -58,7 +57,7 @@ $('#collapseFive').on('hidden.bs.collapse', function () {
 
 
 
-$('.panel-heading a').each(function (index) {
+$('.panel-heading-business a').each(function (index) {
 			
 			var hashCol = $(this).attr('href');
 			var grandParent = $(this).parent().parent().attr('id');
@@ -79,14 +78,14 @@ $('.panel-heading a').each(function (index) {
 			
 			$(hashCol).on('show.bs.collapse', function () {
 				
-				$(gString).css("border-bottom", "none");
+				//$(gString).css("border-bottom", "none");
 				/*$(btnIDString).css("background-image", "url(http://planb-november.herokuapp.com/images/icons/icon-mobile-contract.jpg)");*/				
 			});
 		
 		
 			$(hashCol).on('hidden.bs.collapse', function () {
 				
-				$(gString).css("border-bottom", "solid 1px #bbb");
+				//$(gString).css("border-bottom", "solid 1px #ebebeb");
 				/*$(btnIDString).css("background-image", "url(http://planb-november.herokuapp.com/images/icons/icon-mobile-expand.jpg)");*/
 						
 		});
