@@ -77,7 +77,8 @@
 						<section class="col-lg-12 col-md-12 global-intro">
 							<h1>Explore Oakwood Worldwide's Other Global Destinations and Services</h1>
 						</section>
-						<?php include "_/components/php/global-destinations.php"; ?>				
+						<?php include "_/components/php/global-destinations.php"; ?>
+					</div>				
 				</section><!--seven-->		
 				<hr>	
 				<?php include "_/components/php/footer.php"; ?>	
