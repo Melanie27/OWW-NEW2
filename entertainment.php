@@ -23,7 +23,7 @@
    
   </head>
   <body id="entertainment">
-  <div class="container-full">
+  	<div class="container-full">
   
   		<section class="container landing">
 		  	<?php include "_/components/php/header.php"; ?>
@@ -37,33 +37,54 @@
 				</div><!--heading-->
 				<?php include "_/components/php/hero-government.php"; ?>
 		  	</section> <!--two-->	
-		  								
-			<div class="hidden-sm hidden-xs sub-navigation container">
-				<section class="row">
-					<div class="col-lg-12 center-block">
-						<nav class="navbar navbar-default sub-nav" role="navigation">
-							<!-- Collect the nav links, forms, and other content for toggling -->
-							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-								<ul class="nav navbar-nav">
-									<li id="overview1" class="active"><a href="#overview">Overview</a></li>
-									<li id="military1"><a href="#">Film & Television Production</a></li>
-									<li id="federal-civilian1"><a href="#federal-civilian">Child Actors Program</a></li>
-									<li id="government-contractors1"><a href="#government-contractors">Theatre, Music & Stage</a></li>
-									<li id="gsa1"><a href="#gsa">Gaming</a></li>
-									<li id="schools1"><a href="#">Entertainment Schools</a></li>
-								</ul>
-							</div><!-- /.navbar-collapse -->
-						</nav>
-					</div>
-				</section>
-			</div><!--end sub-nav-->
 			<hr>
 			<div class="container">
 				<?php include "_/components/php/extended-stay-lodging.php"; ?>
 			</div><!--end container-->		
 			<hr>
-			<section class="container">	
+			<section class="row hidden-sm">
+				<div class="col-lg-12">
+					<section class="four">
+					</section>
+				</div>
+			</section><!--content 4-->
+			
+			
+			<section class="container three">	
 				<div class="row hidden-xs">
+					<section class="col-lg-12 col-md-12">
+						<div class="row">
+							<section class="col-lg-6 col-md-6 child-actors">
+								<h1>Child Actors Program</h1>
+								<h2>Each year many children and their parents come to Hollywood from all over the world to work in television, film, music and theatre. Oakwood Toluca Hills is the ideal apartment community for all aspiring stars.</h2>
+								<section class="col-lg-8 col-lg-offset-2">
+									<div class="row archives">
+										<section class="col-md-8 col-md-offset-2 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+											<a class="link-archives see-all text-center" href="upcoming-events.php">Find & Book</a>
+										</section>
+									</div>
+								</section><!--end button-->
+							</section><!--end child actors-->
+							<section class="col-lg-6 col-md-6 filming">
+								<h1>Filming At Oakwood Worldwide</h1>
+								<h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et augue tempus magna elementum pharetra. Aenean nisi nibh, sollicitudin eget facilisis blandit, dignissim sed tortor. Etiam at volutpat sem. Sed imperdiet augue.</h2>
+								<section class="col-lg-8 col-lg-offset-2">
+									<div class="row archives">
+										<section class="col-md-8 col-md-offset-2 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+											<a class="link-archives see-all text-center" href="upcoming-events.php">Find & Book</a>
+										</section>
+									</div>
+								</section><!--end button-->
+							</section><!--end film-->
+						</div><!--end nested row-->
+					</section>
+				</div>
+			</section><!--end three-->
+			
+			<hr>
+							
+			<section class="container five">
+				<div class="row">			
 					<section class="tab-section">
 						<h1>Why does the Entertainment Industry Prefer Oakwood?</h1>
 							<?php include "_/components/php/industry-tabs.php"; ?>	
@@ -79,53 +100,14 @@
 						<?php include "_/components/php/industry-insights.php"; ?>
 					</section>
 				</div>
+			<section class="row hidden-sm">
+				<div class="col-lg-12">
+					<section class="six">
+					</section>
+				</div>
+			</section><!--content 4-->
 				
-				
-				<!--ACCORDION-->
-				<div class="row">
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
-						<?php include "_/components/php/entertainment-film.php"; ?>	
-											
-  				</section>
-  				
-  				<hr class="hidden-xs">
-  							
-		
-				<!--Child Actors Accordion Panel-->
-				
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">									
-						<?php include "_/components/php/entertainment-child-actors.php"; ?>
-				</section>
 					
-				
-				<hr class="hidden-xs">
-				
-				
-				
-				<!--Theatre Accordion Panel-->
-				
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">		
-					<?php include "_/components/php/entertainment-theatre.php"; ?>					
-				</section>
-				
-				<hr class="hidden-xs">
-				
-				<!--Gaming Accordion Panel-->
-				
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
-					<?php include "_/components/php/entertainment-gaming.php"; ?>
-				</section>
-				
-				
-				<hr class="hidden-xs">
-				
-				<!--Schools Accordion Panel-->
-				
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
-					<?php include "_/components/php/entertainment-schools.php"; ?>
-				</section>
-				
-			</div><!--end row that holds accordion-->		
 				
 				
 			<hr class="hidden-xs">
