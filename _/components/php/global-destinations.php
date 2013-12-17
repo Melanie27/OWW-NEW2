@@ -21,7 +21,7 @@
 											<a href="EMEA.php">
 												<img src="images/global-services/global-asia.jpg" alt="regional-icon" class="img-responsive center-block">
 												<header class="industries center-block">
-													<h3>Europe, Middle East and Africa</h3>
+													<h3>Europe, Middle East and Africa</h3>
 													<div class="clearfix"></div>
 												</header>
 											</a>

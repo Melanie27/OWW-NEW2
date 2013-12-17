@@ -27,10 +27,10 @@
 								<a class="orange-link hidden-lg hidden-md" href="#">Contact Us &#8594;</a>
 								<div class="row hidden-sm hidden-xs">
 									<section class="col-lg-4 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-2">
-										<a id="footer-find-housing" class="btn-footer housing" href="#">Find Housing</a>
+										<a class="btn-footer housing footer-find-housing" href="#">Find Housing</a>
 									</section>
 									<section class="col-lg-4  col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-1">
-										<a id="footer-contact-us" class="btn-footer contact" href="#">Contact Us</a>
+										<a class="btn-footer contact footer-contact-us" href="#">Contact Us</a>
 									</section>
 								</div>
 							</section>
@@ -41,7 +41,7 @@
 						<div class="row border">
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links">
 								<h5><a href="global-expertise.php">Global Expertise</a></h5>
-									<ul class="footer-lists" id="footer-global">
+									<ul class="footer-lists footer-global">
 										<div class="row">
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
 												<li><a href="#">Global Scale and Inventory</a></li>
@@ -105,7 +105,7 @@
 						<div class="row border">
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links bottom">
 								<h5><a href="affiliations.php">Affiliations</a></h5>
-									<ul class="footer-lists" id="footer-global">
+									<ul class="footer-lists footer-global">
 										<div class="row">
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
 												<li><a href="marriott.php">Marriott</a></li>
@@ -117,7 +117,7 @@
 							<hr class="hidden-lg hidden-md hidden-sm">	
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links bottom">
 								<h5><a href="careers.php">Careers</a></h5>
-								<ul class="footer-lists" id="footer-global">
+								<ul class="footer-lists footer-global">
 									<div class="row">
 										<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
 										</section>
@@ -163,10 +163,10 @@
 <footer>
 	<div class="row hidden-lg hidden-md hidden-sm hidden-xs">
 		<section class="col-lg-4 col-lg-offset-2 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-2 col-xs-6">
-			<a href="#" class="btn-footer" id="footer-find-housing">Find Housing</a>
+			<a href="#" class="btn-footer footer-find-housing">Find Housing</a>
 		</section>
 		<section class="col-lg-4 col-lg-offset-1 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-1 col-xs-6 footer-buttons">
-			<a href="#" class="btn-footer" id="footer-contact-us">Contact Us</a>
+			<a href="#" class="btn-footer footer-contact-us">Contact Us</a>
 		</section>
 	</div>
 </footer>
