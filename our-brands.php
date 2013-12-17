@@ -51,37 +51,41 @@
 										</section>
 										<section class="col-lg-8 col-lg-offset-2">
 											<div class="row archives">
-												<section class="col-md-8 col-md-offset-2 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+												<section class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0">
 													<a class="link-archives see-all text-center" href="upcoming-events.php">Find & Book</a>
 												</section>			
 											</div>
 										</section>
 									</div>
 								</section><!-- end intro-->
+								<hr>
+								
 								<section class="col-lg-6 col-md-6 intro execustay">
-									<section class="col-lg-2 col-lg-offset-3 logo">
-										<img src="images/sitewide/logo-execustay-lg.jpg" alt="Execustay">
-									</section>
-									<div class="clearfix"></div>
-									<section class="col-lg-12 col-md-12">
-										<p>ExecuStay, an Oakwood Worldwide brand, is the rewarding choice for fully furnished extended stay accommodations across the United States and Canada. Our locally managed and community-focused locations make it easy for guests to connect with everything they need-personally and professionally. And, as the only corporate housing brand to offer Marriott Rewards<sup>&reg;</sup> points, our personalized housing solutions are ideal for consultants, relocating executives and frequent travelers looking for an even more rewarding extended stay experience.</p>
-									</section>
-									<section class="col-lg-10 col-lg-offset-1">
-										<h2>Lorem ipsum dolore sit features amet Mauris internet porttitor posuere Praesent id metus massa, 15 blandit odio Proin quis tortor orci</h2>
-									</section>
-									<section class="col-lg-8 col-lg-offset-2">
-										<div class="row archives">
-											<section class="col-md-8 col-md-offset-2 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
-												<a class="link-archives see-all text-center" href="upcoming-events.php">Find & Book</a>
-											</section>
-										</div>
-									</section>
+									<div class="row">
+										<section class="col-lg-2 col-lg-offset-3 logo">
+											<img src="images/sitewide/logo-execustay-lg.jpg" alt="Execustay">
+										</section>
+										<div class="clearfix"></div>
+										<section class="col-lg-12 col-md-12">
+											<p>ExecuStay, an Oakwood Worldwide brand, is the rewarding choice for fully furnished extended stay accommodations across the United States and Canada. Our locally managed and community-focused locations make it easy for guests to connect with everything they need-personally and professionally. And, as the only corporate housing brand to offer Marriott Rewards<sup>&reg;</sup> points, our personalized housing solutions are ideal for consultants, relocating executives and frequent travelers looking for an even more rewarding extended stay experience.</p>
+										</section>
+										<section class="col-lg-10 col-lg-offset-1">
+											<h2>Lorem ipsum dolore sit features amet Mauris internet porttitor posuere Praesent id metus massa, 15 blandit odio Proin quis tortor orci</h2>
+										</section>
+										<section class="col-lg-8 col-lg-offset-2">
+											<div class="row archives">
+												<section class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0">
+													<a class="link-archives see-all text-center" href="upcoming-events.php">Find & Book</a>
+												</section>
+											</div>
+										</section>
+									</div>
 								</section><!-- end intro-->
 							</div><!--end nested row-->
 						</section><!--12 cols-->
 					</div><!--over2-->
 				</section><!--end three-->	
-				<section class="row hidden-lg hidden-md hidden-sm">
+				<section class="row hidden-lg hidden-md hidden-sm hidden-xs">
 					<div class="col-lg-12">
 						<section class="four">
 						</section>
@@ -90,22 +94,21 @@
 				<hr>			
 				<section class="container five">			
 					<div class="row">
-						<section class="col-lg-12 col-md-12 intro ihs">
+						<section class="col-lg-12 col-md-12 col-xs-12 intro ihs">
 							<div class="row">
-								<section class="col-lg-4 col-lg-offset-4 logo">
-									<img src="images/sitewide/logo-ihs-lg.jpg" alt="Insurance Housing Solutions">
+								<section class="col-lg-4 col-lg-offset-4 col-md-6 col-md-offset-4 logo">
+									<img src="images/sitewide/logo-ihs-lg.jpg" alt="Insurance Housing Solutions" class="img-responsive">
 								</section>
 								<div class="clearfix"></div>
-								<section class="col-lg-12">
-									<p>Oakwood, an Oakwood Worldwide brand, is the leading provider of corporate housing and serviced apartment solutions for anyone on the
- move, anywhere in the world-from relocating professionals with families to first-time business travelers. Our global reach, local expertise and industry-leading inventory of apartments and homes all make life easier for HR and project managers, relocation specialists and procurement professionals looking to make life more comfortable for their travelers.</p>
+								<section class="col-lg-12 col-md-12">
+									<p>Oakwood, an Oakwood Worldwide brand, is the leading provider of corporate housing and serviced apartment solutions for anyone on the move, anywhere in the world-from relocating professionals with families to first-time business travelers. Our global reach, local expertise and industry-leading inventory of apartments and homes all make life easier for HR and project managers, relocation specialists and procurement professionals looking to make life more comfortable for their travelers.</p>
 								</section>
-								<section class="col-lg-8 col-lg-offset-2 col-md-8 col-sm-6 ">				
+								<section class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">				
 									<h2>Lorem ipsum dolore sit features amet Mauris internet porttitor posuere Praesent id metus massa, 15 blandit odio Proin quis tortor orci</h2>			
 								</section>
 								<section class="col-lg-8 col-lg-offset-2">
 									<div class="row archives">
-										<section class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+										<section class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0">
 											<a class="link-archives see-all text-center" href="upcoming-events.php">Learn More</a>
 										</section>
 									</div>
@@ -114,12 +117,13 @@
 						</section>
 					</div><!-- row-->										
 				</section>
-					<section class="row">
+					<section class="row hidden-xs">
 						<div class="col-lg-12">
 							<section class="six">
 							</section>
 						</div>
-					</section><!--content 4-->
+					</section><!--content 6-->
+				<hr>
 				<?php include "_/components/php/footer.php"; ?>	
 			</section><!-- container -->
 		</div><!--container-full-->
