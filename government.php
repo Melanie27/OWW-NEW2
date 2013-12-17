@@ -109,7 +109,6 @@
 				</section>
 			</div>
 			<!--end row that holds accordion-->		
-				
 			<section class="content row">
 				<div class="col-lg-12">
 					<section class="eight hidden-sm hidden-xs">
