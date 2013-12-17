@@ -4,9 +4,9 @@
 							<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="collapser">
 								<div class="container">
 									<h1>Federal Civilian</h1>
-								</div>
-								<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseTwo" id="btn-2"></button>	
+								</div>		
 							</a>
+							<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseTwo" id="btn-2"></button>
 						</h1>
 					</div>	
 				<div id="collapseTwo" class="panel-collapse collapse in">

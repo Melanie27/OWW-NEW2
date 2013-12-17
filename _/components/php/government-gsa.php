@@ -5,8 +5,8 @@
 								<div class="container">
 									<h1>GSA Schedule 48</h1>
 								</div>	
-								<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseFour" id="btn-4"></button>	
 							</a>
+							<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseFour" id="btn-4"></button>
 						</h1>
 					</div>	
 				<div id="collapseFour" class="panel-collapse collapse in">

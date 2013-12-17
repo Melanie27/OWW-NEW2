@@ -75,7 +75,7 @@
 										<hr>
 										<div class="row overview-gsa">
 											<section class="col-lg-11 col-md-11 col-xs-12">
-												<h2>Oakwood Worldwide is an approved <a href="#" class="gray-link">GSA Schedule 48</a> vendor and proud to be an extended stay lodging provider for FedRooms with rates that fall within TDY and most PCS per diems.</h2>
+												<h2>Oakwood Worldwide is an approved <a href="#" class="gray-link">GSA Schedule 48</a> vendor and proud to be an extended stay lodging provider for FedRooms with rates that fall within TDY and most PCS per diems.</h2>
 												<a href="#" class="orange-link col-lg-offset-6 col-md-offset-6">Learn More &#8594;</a>
 											</section>
 										</div><!--end gsa-->

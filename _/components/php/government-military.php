@@ -6,8 +6,9 @@
 									<div class="container">
 										<h1 class="accords">Military</h1>
 									</div>
-									<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseOne" id="btn-1"></button>
+									
 								</a>
+								<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseOne" id="btn-1"></button>
 								<div class="clearfix"></div>
 							</h1>
 						</div>													

@@ -52,13 +52,10 @@
 					</div>
 				</section>
 			</div><!--end sub-nav-->
-			
-			<hr>
-			
+			<hr>	
 			<div class="container">
 				<?php include "_/components/php/government-overview.php"; ?>
-			</div><!--end container-->
-					
+			</div><!--end container-->		
 			<section class="row">
 				<div class="col-lg-12 col-md-12">
 					<section class="four hidden-sm hidden-xs">
