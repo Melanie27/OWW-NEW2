@@ -24,7 +24,6 @@
   </head>
   <body id="entertainment">
   	<div class="container-full">
-  
   		<section class="container landing">
 		  	<?php include "_/components/php/header.php"; ?>
 		  	<section class="two">
@@ -42,36 +41,34 @@
 				<?php include "_/components/php/extended-stay-lodging.php"; ?>
 			</div><!--end container-->		
 			<hr>
-			<section class="row hidden-sm">
+			<section class="row hidden-sm hidden-xs">
 				<div class="col-lg-12">
 					<section class="four">
 					</section>
 				</div>
 			</section><!--content 4-->
-			
-			
 			<section class="container three">	
-				<div class="row hidden-xs">
-					<section class="col-lg-12 col-md-12">
+				<div class="row ">
+					<section class="col-lg-12 col-md-12 col-xs-12">
 						<div class="row">
-							<section class="col-lg-6 col-md-6 child-actors">
+							<section class="col-lg-6 col-md-6 col-sm-12 col-xs-12 child-actors">
 								<h1>Child Actors Program</h1>
 								<h2>Each year many children and their parents come to Hollywood from all over the world to work in television, film, music and theatre. Oakwood Toluca Hills is the ideal apartment community for all aspiring stars.</h2>
-								<section class="col-lg-8 col-lg-offset-2">
+								<section class="col-lg-8 col-lg-offset-2 col-xs-12">
 									<div class="row archives">
-										<section class="col-md-8 col-md-offset-2 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
-											<a class="link-archives see-all text-center" href="upcoming-events.php">Find & Book</a>
+										<section class="col-lg-9 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-8 col-xs-offset-2">
+											<a class="link-archives see-all text-center" href="upcoming-events.php">Learn More</a>
 										</section>
 									</div>
 								</section><!--end button-->
 							</section><!--end child actors-->
 							<section class="col-lg-6 col-md-6 filming">
 								<h1>Filming At Oakwood Worldwide</h1>
-								<h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et augue tempus magna elementum pharetra. Aenean nisi nibh, sollicitudin eget facilisis blandit, dignissim sed tortor. Etiam at volutpat sem. Sed imperdiet augue.</h2>
+								<h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et augue tempus magna elementum pharetra. Aenean nisi nibh, sollicitudin eget facilisis blandit, dignissim sed tortor. Etiam at volutpat sem. Sed augue.</h2>
 								<section class="col-lg-8 col-lg-offset-2">
 									<div class="row archives">
-										<section class="col-md-8 col-md-offset-2 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
-											<a class="link-archives see-all text-center" href="upcoming-events.php">Find & Book</a>
+										<section class="col-lg-9 col-lg-offset-2 col-md-9 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-8 col-xs-offset-2">
+											<a class="link-archives see-all text-center" href="upcoming-events.php">Learn More</a>
 										</section>
 									</div>
 								</section><!--end button-->
@@ -80,47 +77,35 @@
 					</section>
 				</div>
 			</section><!--end three-->
-			
-			<hr>
-							
+			<hr>			
 			<section class="container five">
 				<div class="row">			
 					<section class="tab-section">
 						<h1>Why does the Entertainment Industry Prefer Oakwood?</h1>
-							<?php include "_/components/php/industry-tabs.php"; ?>	
+							<?php include "_/components/php/industry-tabs-phone.php"; ?>	
 					</section>	
 				</div><!--end tabbed section-->
 			</section>
 			<hr>
-				<div class="row industry-insights">
-					<section class="col-sm-12 hidden-lg hidden-md">
-						<div class="container">
-							<h1>Industry Insights</h1>
-						</div>
-						<?php include "_/components/php/industry-insights.php"; ?>
-					</section>
-				</div>
+			<div class="row industry-insights">
+				<section class="col-sm-12 hidden-lg hidden-md">
+					<div class="container">
+						<h1>Industry Insights</h1>
+					</div>
+					<?php include "_/components/php/industry-insights.php"; ?>
+				</section>
+			</div>
+			<hr>
 			<section class="row hidden-sm">
-				<div class="col-lg-12">
+				<div class="col-lg-12 hidden-xs">
 					<section class="six">
 					</section>
 				</div>
-			</section><!--content 4-->
-				
-					
-				
-				
+			</section><!--content 6-->	
 			<hr class="hidden-xs">
-
-				
-				
-				<?php include "_/components/php/footer.php"; ?>	
-
-  			
-  		
-  	</section><!-- container -->
-  	
-  </div>
+			<?php include "_/components/php/footer.php"; ?>	
+		</section><!-- container -->	
+	</div>
   	<script src="_/js/bootstrap.js"></script>
   	<script src="_/js/myscript.js"></script>
   </body>
