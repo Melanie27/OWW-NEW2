@@ -1,6 +1,4 @@
-												
 										<div class="panel-group" id="accordion">
-											
 											<div class="panel panel-default">
 												<div class="panel-heading-business collapse1" id="collapse1">
 													<h1 class="title1 panel-title">
@@ -19,12 +17,9 @@
 																<?php include "_/components/php/news-thumbs.php"; ?>
 																<div class="clearfix"></div>
 														</section><!--Latest Releases-->
-											
-											
 														<div class="hidden-xs">
 														<?php include "_/components/php/btn-view-archives.php"; ?>
 														</div>
-													
 													</div><!--panel body-->
 												</div><!--Collapse One-->
 											</div><!--panel-->

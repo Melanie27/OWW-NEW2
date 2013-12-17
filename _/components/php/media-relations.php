@@ -1,6 +1,4 @@
-													
 														<section class="media-relations hidden-sm hidden-xs">
-															
 															<h1>Media Relations</h1>
 															<img src="images/news/media-relations-tb-01.jpg" alt="Sharron Saunders" width="75" height="75" class="pull-left">
 															<h3>Sharron Saunders</h3>

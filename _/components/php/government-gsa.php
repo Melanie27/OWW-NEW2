@@ -1,4 +1,4 @@
-<div class="panel panel-default">
+				<div class="panel panel-default">
 					<div class="panel-heading-business collapse4" id="collapse4">
 						<h1 class="title4 panel-title">
 							<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" class="collapser">
@@ -13,7 +13,7 @@
 					<div class="panel-body">		
 						<div class="content row">
 							<div class="col-lg-12 col-md-12">
-								<section class="seven federal-civilian" id="federal-civilian">
+								<section class="eleven federal-civilian" id="federal-civilian">
 									<div class="container">
 										<section class="row">								
 											<div class="col-lg-8 col-md-8 two-col-text">
@@ -24,9 +24,8 @@
 												<p>Our nation's security depends on a well-managed, synchronized military that makes simplified, full-service lodging a Defense Department necessity. Strategically located near hundreds of military installations worldwide, Oakwood lodgings are custom-fit to meet all possible mission requirements.</p>
 												<p>And since military travelers have no margin for error, Oakwood offers end-to-end procurement management and support with large-scale DOD contract options for lower costs and easier administration.</p>
 											</div>
-									
-										<section class="col-lg-4 col-md-4 hidden-sm hidden-xs contact-us">
-											<h2>Contact Us</h2>
+											<section class="col-lg-4 col-md-4 hidden-sm hidden-xs contact-us">
+												<h2>Contact Us</h2>
 												<div class="row">
 													<section class="col-lg-6 col-md-6">
 														<h3>US & Canada: </h3>
@@ -44,7 +43,6 @@
 								</section><!--eleven-->
 							</div>
 						</div><!--end content 11-->
-				
 					</div><!--panel body-->
 				</div><!--Collapse Four-->
 			</div><!--panel-->

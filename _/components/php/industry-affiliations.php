@@ -18,8 +18,7 @@
 		<a href="#">
 			<img src="images/vision-leadership/_industry-affiliations/totally-expat.jpg" alt="Totally Expat" class="img-responsive"  />
 		</a>	
-	</div> 
-	
+	</div>
 </section>
 <section class="row industry-logos">
 	<div class="col-lg-3 col-lg-offset-1 col-md-3 col-sm-6">
@@ -42,7 +41,6 @@
 			<img src="images/vision-leadership/_industry-affiliations/naa.jpg" alt="NAA"  class="img-responsive"/>
 		</a>
 	</div>
-
 </section>
 <section class="row industry-logos">
 	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">

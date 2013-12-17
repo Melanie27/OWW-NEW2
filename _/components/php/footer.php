@@ -1,8 +1,6 @@
 	<section class="container">	
 		<div class="row">
 			<footer class="col-lg-12 col-md-12">	
-				
-				
 				<div class="row">
 					<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 footer-brands pull-right">
 						<div class="row">
@@ -160,10 +158,8 @@
 				</div><!--end row-->
 		</footer>
 	</div>
-</section> <!--Footer-->
-	
-	<!--Buttons Visible xs screens-->
-	
+</section> <!--Footer-->	
+<!--Buttons Visible xs screens-->	
 <footer>
 	<div class="row hidden-lg hidden-md hidden-sm hidden-xs">
 		<section class="col-lg-4 col-lg-offset-2 col-md-6 col-md-offset-0 col-sm-4 col-sm-offset-2 col-xs-6">

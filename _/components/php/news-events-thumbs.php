@@ -1,4 +1,3 @@
-																	
 																	<ul class="news-thumbnails">
 																		<li class="clearfix">
 																			<img src="images/news/press-room-tb-01.jpg" alt="Press Room 1" class="pull-left img-responsive">	

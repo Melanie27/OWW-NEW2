@@ -1,4 +1,4 @@
-								<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12 white-papers">
+									<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12 white-papers">
 										<h1>White Papers</h1>
 											<ul class="news-thumbnails">
 												<li class="clearfix">
@@ -17,4 +17,4 @@
 													<p class="headline">Lorem Ipsum Dolore Sit Amet Oakwood</p>
 												</li>
 											</ul>
-									</section>
+										</section>

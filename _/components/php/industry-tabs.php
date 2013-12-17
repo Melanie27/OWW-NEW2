@@ -1,12 +1,10 @@
-										<!-- Nav tabs -->
-
+												<!-- Nav tabs -->
 												<ul class="nav nav-tabs hidden-xs">
 													<li ><a href="#home" data-toggle="tab">Space</a></li>
 													<li class="active"><a href="#service" data-toggle="tab">Service</a></li>
 													<li><a href="#simplicity" data-toggle="tab">Simplicity</a></li>
 													<li><a href="#security" data-toggle="tab">Security</a></li>
 												</ul>
-												
 												<!-- Tab panes -->
 												<div class="tab-content hidden-xs">
 													<div class="tab-pane active" id="home">
@@ -22,7 +20,6 @@
 															<li>Service</li>
 															<li>Service</li>
 														</ul>
-
 													</div>
 													<div class="tab-pane" id="simplicity">
 														<ul>

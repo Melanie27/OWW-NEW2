@@ -1,4 +1,4 @@
-								<div class="row">
+									<div class="row">
 										<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 country-map">
 											<a href="united-states-canada.php">
 												<img src="images/global-services/global-us.jpg" alt="regional-icon" class="img-responsive center-block">

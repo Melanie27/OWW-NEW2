@@ -24,27 +24,25 @@
 												<p>Our nation's security depends on a well-managed, synchronized military that makes simplified, full-service lodging a Defense Department necessity. Strategically located near hundreds of military installations worldwide, Oakwood lodgings are custom-fit to meet all possible mission requirements.</p>
 												<p>And since military travelers have no margin for error, Oakwood offers end-to-end procurement management and support with large-scale DOD contract options for lower costs and easier administration.</p>
 											</div>
-									
-										<section class="col-lg-4 col-md-4 hidden-sm hidden-xs contact-us">
-											<h2>Contact Us</h2>
-												<div class="row">
-													<section class="col-lg-6 col-md-6">
-														<h3>US & Canada: </h3>
-														<p class="phone">1-888-268-9998</p>
-														<p class="email"><img src="images/icons/icon-email.jpg" alt="icon-email" width="25" height="20">Email Us</p>
-													</section>
-													<section class="col-lg-6 col-md-6">
-														<h3>Everywhere Else: </h3>
-														<p class="phone">1-757-648-7171</p>
-													</section>
-												</div><!--end second nested row-->
-											</section><!--end contact us-->
-										</section>
-									</div><!--container-->
-								</section><!--seven-->
-							</div>
-						</div><!--end content 7-->
-				
-					</div><!--panel body-->
-				</div><!--Collapse One-->
-			</div><!--panel-->
+											<section class="col-lg-4 col-md-4 hidden-sm hidden-xs contact-us">
+												<h2>Contact Us</h2>
+													<div class="row">
+														<section class="col-lg-6 col-md-6">
+															<h3>US & Canada: </h3>
+															<p class="phone">1-888-268-9998</p>
+															<p class="email"><img src="images/icons/icon-email.jpg" alt="icon-email" width="25" height="20">Email Us</p>
+														</section>
+														<section class="col-lg-6 col-md-6">
+															<h3>Everywhere Else: </h3>
+															<p class="phone">1-757-648-7171</p>
+														</section>
+													</div><!--end second nested row-->
+												</section><!--end contact us-->
+											</section>
+										</div><!--container-->
+									</section><!--seven-->
+								</div>
+							</div><!--end content 7-->
+						</div><!--panel body-->
+					</div><!--Collapse Two-->
+				</div><!--panel-->

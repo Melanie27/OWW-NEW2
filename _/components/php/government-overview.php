@@ -1,4 +1,4 @@
-					<section class="three overview" id="overview">
+						<section class="three overview" id="overview">
 								<div class="row over2">
 									<section class="col-lg-12 col-md-12 container">
 										<div class="row overview-top">
@@ -22,7 +22,6 @@
 												</div><!--end second nested row-->
 											</section><!--end contact us-->
 										</div><!--end nested row-->
-										
 										<div class="row overview-sections solutions-columns">
 											<section class="col-lg-12 hidden-xs no-left-padding">
 												<h2>Proudly Serving:</h2>
@@ -73,28 +72,20 @@
 												</div><!--end military-->
 											</section>
 										</div>
-										
 										<hr>
-										
 										<div class="row overview-gsa">
 											<section class="col-lg-11 col-md-11 col-xs-12">
 												<h2>Oakwood Worldwide is an approved <a href="#" class="gray-link">GSA Schedule 48</a> vendor and proud to be an extended stay lodging provider for FedRooms with rates that fall within TDY and most PCS per diems.</h2>
 												<a href="#" class="orange-link col-lg-offset-6 col-md-offset-6">Learn More &#8594;</a>
 											</section>
 										</div><!--end gsa-->
-										
 										<hr>
-										
 										<div class="row hidden-xs">
 											<section class="tab-section">
 												<h1>Why does the Federal Government Prefer Oakwood?</h1>
 												<?php include "_/components/php/industry-tabs.php"; ?>
-											
 											</section>	
 										</div><!--end tabbed section-->
-									
-									
-										
 									</section>
 								</div><!--row-->
 							</section><!--three overview-->

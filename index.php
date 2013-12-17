@@ -37,7 +37,6 @@
 				</section>		
 			</div>
 			<!--heading-->			
-			<?php include "_/components/php/hero.php"; ?>
 		 </section> <!--two-->	
 		<section class="three container">
 			<div class="row over2">

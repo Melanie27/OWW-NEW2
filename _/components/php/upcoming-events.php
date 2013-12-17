@@ -12,12 +12,9 @@
 													</li>		
 												</ul>	
 											</div>
-											
-											
 											<div class="hidden-lg hidden-md hidden-sm">
-											<?php include "_/components/php/btn-all-events.php"; ?>
+												<?php include "_/components/php/btn-all-events.php"; ?>
 											</div>
-											
 											<div class="col-md-6 col-sm-6 hidden-xs">
 												<ul class="news-thumbnails events">
 													<li class="clearfix">

@@ -14,4 +14,4 @@
 														<p class="date">Oct 5, 2013</p>
 														<p class="headline">Lorem Ipsum Dolore Sit Amet Oakwood</p>
 													</li>
-												</ul>
+												</ul>												

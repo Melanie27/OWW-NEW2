@@ -7,5 +7,4 @@
 														<li><a href="entertainment.php" id="entertainment">Entertainment</a></li>
 														<li><a href="insurance-housing-solutions.php" id="insurance">Insurance Housing Solutions</a></li>
 													</ul>
-												
 											</section><!--end solutions by industry us-->

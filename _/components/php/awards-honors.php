@@ -1,22 +1,15 @@
-							
-
 											<div class="panel panel-default">
 												<div class="panel-heading-business collapse4" id="collapse4">
 													<h1 class="title4 panel-title">
 														<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" class="collapser">
-										
 															<h1>Awards</h1>
 															<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseFour" id="btn-4"></button>
-
-															
 														</a>
 													</h1>
 												</div>	
 												 <div id="collapseFour" class="panel-collapse collapse in">
 												 	<div class="panel-body">
-															
 														<?php include "_/components/php/media-relations.php"; ?>
-											
 														<section class="awards-honors">
 															<h1 class="hidden-sm hidden-xs">Awards and Honors</h1>
 																<div class="row">
@@ -34,10 +27,9 @@
 																	<a class="link-archives see-all text-center" href="awards.php">VIEW AWARDS</a>
 																</div>
 															</div>
-															</section><!--Awards and Honors-->
-															
-														</div><!--panel body-->
-													</div><!--Collapse Four-->
-												</div><!--panel-->
+														</section><!--Awards and Honors-->
+													</div><!--panel body-->
+												</div><!--Collapse Four-->
+											</div><!--panel-->
 											
 									
