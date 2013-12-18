@@ -46,7 +46,6 @@ $('#collapseFour').on('hidden.bs.collapse', function () {
 });
 
 
-
 $('#collapseFive').on('show.bs.collapse', function () {
 		$('#btn-5').css("background-image", "url(http://planb-november.herokuapp.com/images/icons/icon-mobile-contract.jpg)");
 });
@@ -67,8 +66,6 @@ $('.panel-heading-business a').each(function (index) {
 			var subString2 = btnID.substring(0, 3);	
 			btnString = $('.' + subString2);
 			btnIDString = $('#' + btnID);
-			
-			
 			var panelTitle  = $(this).parent().attr('class');
 			titleSub = panelTitle.substring(0, 6);
 			titleString = $('.' + titleSub);
@@ -133,7 +130,7 @@ $("#upcoming-events a:contains('News')").parent().addClass('active');
 $("#upcoming-events-single a:contains('News')").parent().addClass('active');
 
 
-$("#marriott a:contains('Marriott')").parent().addClass('active');
+$("#affiliations a:contains('Affiliations')").parent().addClass('active');
 $("#careers a:contains('Careers')").parent().addClass('active');
 
 

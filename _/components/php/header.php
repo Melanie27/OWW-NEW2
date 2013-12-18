@@ -56,7 +56,7 @@
 					</ul>
 				</li>
 				<li>
-					<a href="marriott.php">Marriott</a>
+					<a href="affiliations.php">Affiliations</a>
 				</li>
 				<li>
 					<a href="careers.php">Careers</a>
