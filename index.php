@@ -43,19 +43,26 @@
 			<div class="row over2">
 				<section class="col-lg-12 col-md-12">
 					<div class="row">
-						<section class="col-lg-7 col-md-8 col-sm-6 col-xs-12 our-brands">
-							<h1>Our Brands: Oakwood and ExecuStay</h1>
-							<p>Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum.</p>
+						<section class="col-lg-8 col-md-8 col-sm-6 col-xs-12 our-brands">
 							<div class="row">
-								<section class="col-lg-5 col-md-5 col-sm-6 col-xs-6 logos">
-									<img src="images/homepage/logo-oakwood-homepage.jpg" alt="oakwood" class="img-responsive logo oakwood">
+								<section class="col-lg-12">
+									<h1>Our Brands:	Oakwood, ExecuStay and Insurance Housing Solutions</h1>
+									<p>Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum.</p>
+								</section>	
+							</div>
+							<div class="row">
+								<section class="col-lg-3 col-md-4 col-sm-6 col-xs-6 logos">
+									<img src="images/homepage/logo-oakwood-homepage.jpg" alt="oakwood" class="logo oakwood">
 								</section>
-								<section class="col-lg-5 col-md-5 col-sm-6 col-xs-6 logos">
-									<img src="images/homepage/logo-execustay-homepage.jpg" alt="execustay" class="img-responsive logo execustay">
+								<section class="col-lg-3 col-md-4 col-sm-6 col-xs-6 logos">
+									<img src="images/homepage/logo-execustay-homepage.jpg" alt="execustay" class="logo execustay">
 								</section>
+								<section class="col-lg-3 col-md-4 col-sm-6 col-xs-6 logos">
+									<img src="images/homepage/logo-ihs-homepage.jpg" alt="execustay" class="logo ihs center-block">
+								</section>	
 							</div><!--end nested logos-->
 						</section><!--end two thirds-->
-						<section class="col-lg-4 col-lg-offset-1 col-md-4 col-sm-6 col-xs-12 no-right-padding">
+						<section class="col-lg- col-md-4 col-sm-6 col-xs-12 no-right-padding">
 							<div class="solutions promo-video">
 								<a href="#" class="industry-sections">
 									<img src="images/homepage/video-promo.jpg" alt="video-promo" class="img-responsive">	
