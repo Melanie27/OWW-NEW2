@@ -33,10 +33,9 @@
 			</div><!--heading-->	
 		  </section> <!--two-->		
 		  <section class="three container">
-			  <div class="row over2">
-				  <section class="col-lg-12 col-md-12 news-columns no-left-padding">
+			  
 				  <?php include "_/components/php/industry-solutions.php"; ?>
-				  </section>
+				  
 			</div><!--row-->
 		</section><!--three-->
 						
