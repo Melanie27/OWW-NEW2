@@ -17,10 +17,7 @@
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-  
- 
-   
+    <![endif]-->  
   </head>
   <body id="entertainment">
   	<div class="container-full">
@@ -56,18 +53,19 @@
 								<h2>Each year many children and their parents come to Hollywood from all over the world to work in television, film, music and theatre. Oakwood Toluca Hills is the ideal apartment community for all aspiring stars.</h2>
 								<section class="col-lg-8 col-lg-offset-2 col-xs-12">
 									<div class="row archives">
-										<section class="col-lg-9 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-8 col-xs-offset-2">
+										<section class="col-lg-10 col-lg-offset-1 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-8 col-xs-offset-2">
 											<a class="link-archives see-all text-center" href="upcoming-events.php">Learn More</a>
 										</section>
 									</div>
 								</section><!--end button-->
 							</section><!--end child actors-->
+							<hr class="hidden-lg hidden-md">
 							<section class="col-lg-6 col-md-6 filming">
 								<h1>Filming At Oakwood Worldwide</h1>
 								<h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et augue tempus magna elementum pharetra. Aenean nisi nibh, sollicitudin eget facilisis blandit, dignissim sed tortor. Etiam at volutpat sem. Sed augue.</h2>
 								<section class="col-lg-8 col-lg-offset-2">
 									<div class="row archives">
-										<section class="col-lg-9 col-lg-offset-2 col-md-9 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-8 col-xs-offset-2">
+										<section class="col-lg-10 col-lg-offset-1 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-8 col-xs-offset-2">
 											<a class="link-archives see-all text-center" href="upcoming-events.php">Learn More</a>
 										</section>
 									</div>
@@ -86,7 +84,7 @@
 					</section>	
 				</div><!--end tabbed section-->
 			</section>
-			<hr>
+			<hr class="margin-bottom">
 			<div class="row industry-insights">
 				<section class="col-sm-12 hidden-lg hidden-md">
 					<div class="container">
