@@ -1,12 +1,12 @@
 								<div class="row over2">
-									<section class="col-lg-12 col-md-12 news-columns no-left-padding">	
+									<section class="col-lg-12 col-md-12 col-sm-12 news-columns no-left-padding">	
 										<h1 class="solutions-head">Solutions by Industry</h1>
 										<h2>We invented the corporate housing concept-and we're still leading the way. Find out how we support your industry.</h2>
 										<p>Whether you're relocating employees, have a group travel event, need to house consultants for a long-term assignment, are looking for military housing - or any other business need -our full-service solutions can take care of it all. Contact us to customize your corporate housing program.</p>
 										<div class="row solutions-columns">
-											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">		
+											<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12">		
 												<div class="solutions consulting">
-													<a href="consulting.php" class="industry-sections">
+													<a href="individual-business-traveler.php" class="industry-sections">
 														<img src="images/business-solutions/consulting.jpg" alt="Woman Texting" class="img-responsive" />
 														<header class="industries">
 															<h3>Individual Business Traveler</h3>
@@ -28,7 +28,7 @@
 													</section>
 												</div><!--end consulting-->
 											</section><!--Column 1-->
-											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">	
+											<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12">	
 												<div class="solutions government">
 													<a href="government.php" class="industry-sections">
 														<img src="images/business-solutions/government.jpg" alt="Man Texting" class="img-responsive " />
@@ -52,7 +52,7 @@
 													</section>
 												</div><!--end government-->
 											</section>
-											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">	
+											<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12">	
 												<div class="solutions government">
 													<a href="entertainment.php" class="industry-sections">
 														<img src="images/business-solutions/entertainment.jpg" alt="Man Texting" class="img-responsive " />
@@ -78,13 +78,11 @@
 											</section>
 										</div>
 									</section>
-								</div> <!--end row-->
-											
-											
+								</div> <!--end row-->		
 								<div class="row over2">
-									<section class="col-lg-12 col-md-12 news-columns no-left-padding">	
+									<section class="col-lg-12 col-md-12 col-sm-6 news-columns no-left-padding">	
 										<div class="row">
-											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">		
+											<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12">		
 												<div class="solutions relocation">
 													<a href="relocation.php" class="industry-sections">
 														<img src="images/business-solutions/relocation.jpg" alt="Woman on iPad" class="img-responsive" />
@@ -108,8 +106,11 @@
 													</section>
 												</div><!--end relocation-->
 											</section><!--Column 2-->	
-											<section class="col-lg-8 col-md-8 col-sm-6 col-xs-12">
-												<img src="images/business-solutions/affiliations-fpo.jpg" alt="affiliations-fpo" width="758" height="230" />
+											<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12 industry-affiliations">
+												<img src="images/business-solutions/affiliations-fpo.jpg" alt="affiliations-fpo" class="img-responsive hidden-xs" />
+												<h2>Headline Directing People to Check Out the Industry Afflications Page</h2>
+												<p>Lorem ipsum in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula.Lorem ipsum in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula.Lorem ipsum in dui mauris. Vivamus hendrerit.</p>
+												<a href="industry-affiliations.php" class="orange-link">Call to action &#8594</a>
 												
 											</section><!--Industry Affiliations Section-->
 										</div><!--end nested row-->

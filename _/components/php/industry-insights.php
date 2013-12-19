@@ -17,8 +17,8 @@
 											</section> <!--end three thirds-->
 										</div><!--end nested row-->	
 										<div class="row">
-											<section class="col-xs-6 col-xs-offset-4">
-												<a href="#" class="orange-link">See More&#8594;</a>
+											<section class="col-sm-12 col-sm-offset-0 col-xs-6">
+												<a href="#" class="orange-link hidden-lg hidden-md hidden-xs">See More&#8594;</a>
 											</section>
 										</div>
 									</section><!--end ver-->

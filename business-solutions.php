@@ -33,10 +33,7 @@
 			</div><!--heading-->	
 		  </section> <!--two-->		
 		  <section class="three container">
-			  
 				  <?php include "_/components/php/industry-solutions.php"; ?>
-				  
-			</div><!--row-->
 		</section><!--three-->
 						
 		<div class="row">

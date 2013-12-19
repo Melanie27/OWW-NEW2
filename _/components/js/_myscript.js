@@ -56,7 +56,7 @@ $('#collapseFive').on('hidden.bs.collapse', function () {
 
 
 
-$('.panel-heading-business a').each(function (index) {
+$('.panel-heading-business a ').each(function (index) {
 			
 			var hashCol = $(this).attr('href');
 			var grandParent = $(this).parent().parent().attr('id');
@@ -109,7 +109,9 @@ $("#business-solutions a:contains('Business Solutions')").parent().addClass('act
 $("#government a:contains('Business Solutions')").parent().addClass('active');
 $("#entertainment a:contains('Business Solutions')").parent().addClass('active');
 $("#relocation a:contains('Business Solutions')").parent().addClass('active');
-$("#consulting a:contains('Business Solutions')").parent().addClass('active');
+$("#individual-business-traveler a:contains('Business Solutions')").parent().addClass('active');
+$("#individual-business-traveler-single a:contains('Business Solutions')").parent().addClass('active');
+$("#industry-insights a:contains('Business Solutions')").parent().addClass('active');
 $("#industry-insights-government a:contains('Business Solutions')").parent().addClass('active');
 $("#industry-insights-relocation a:contains('Business Solutions')").parent().addClass('active');
 $("#industry-insights-consulting a:contains('Business Solutions')").parent().addClass('active');
