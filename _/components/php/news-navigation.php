@@ -23,5 +23,5 @@
 												</section><!--end news-->	
 												<section class="media-relations">
 													 	<?php include "_/components/php/media-relations.php"; ?>
-												</section><!-Media Relations-->	
+												</section><!--Media Relations-->	
 											</section><!--end one third-->
