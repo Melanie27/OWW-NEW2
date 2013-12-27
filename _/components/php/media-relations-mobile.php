@@ -9,7 +9,7 @@
 								<a href="#">ssaunders@oakwood.com</a>
 								<p>(240) 720 3003</p>
 								<div class="clearfix"></div>
-							</section><!-Media Relations-->
+							</section><!-- Media Relations -->
 						</div>
 					</section>
 				</div>
