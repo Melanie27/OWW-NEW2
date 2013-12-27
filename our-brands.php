@@ -26,7 +26,7 @@
 					<div class="row heading">
 						<section class="col-lg-12">
 							<div class="container">
-								<h1>Our Brands: Oakwood<sup>&reg</sup>, Execustay<sup>&reg</sup> and Insurance Housing Solutions<sup>&reg</sup> </h1>
+								<h1>Our Brands: Oakwood<sup>&reg;</sup>, Execustay<sup>&reg;</sup> and Insurance Housing Solutions<sup>&reg;</sup> </h1>
 								<h2>Offering the Best Selection of Housing Solutions</h2>
 							</div>
 						</section>		
