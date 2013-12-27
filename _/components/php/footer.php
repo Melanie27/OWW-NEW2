@@ -42,7 +42,7 @@
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links">
 								<h5><a href="global-expertise.php">Global Expertise</a></h5>
 									<ul class="footer-lists footer-global">
-										<div class="row">
+										<span class="row">
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
 												<li><a href="#">Global Scale and Inventory</a></li>
 												<li><a href="client-services.php">Client Services</a></li>
@@ -51,14 +51,14 @@
 												<li><a href="technologies.php">Technologies</a></li>
 												<li><a href="safety-security.php">Safety & Security</a></li>
 											</section>
-										</div>
+										</span>
 									</ul>
 							</section>		
 							<hr class="hidden-lg hidden-md hidden-sm">					
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links">
 								<h5><a href="business-solutions.php">Business Solutions</a></h5>
 									<ul class="footer-lists" id="footer-industry">
-										<div class="row">
+										<span class="row">
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
 												<li><a href="#">Individual Business Traveler</a></li>
 												<li><a href="government.php">Government</a></li>
@@ -67,26 +67,26 @@
 												<li><a href="entertainment.php">Entertainment</a></li>
 												<li><a href="relocation.php">Relocation</a></li>
 											</section>
-										</div>	
+										</span>	
 									</ul>	
 							</section>
 							<hr class="hidden-lg hidden-md hidden-sm">
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links">
 								<h5><a href="vision-leadership.php">Vision & Leadership</a></h5>
 									<ul class="footer-lists" id="footer-vision">
-										<div class="row">
+										<span class="row">
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
 												<li><a href="executive-committee.php">Executive Committee</a></li>
 												<li><a href="industry-affiliations.php">Industry Affiliations</a></li>
 											</section>
-										</div>	
+										</span>	
 									</ul>	
 							</section>
 							<hr class="hidden-lg hidden-md hidden-sm">
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links">
 								<h5><a href="news.php">News</a></h5>
 									<ul class="footer-lists" id="footer-news">
-										<div class="row">
+										<span class="row">
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
 												<li><a href="#">Press Releases</a></li>
 												<li><a href="#">In The News</a></li>
@@ -95,7 +95,7 @@
 												<li><a href="#">Awards</a></li>
 												<li><a href="#">Events</a></li>
 											</section>
-										</div>
+										</span>
 									</ul>
 							</section>
 							<hr class="hidden-lg hidden-md hidden-sm">
@@ -106,12 +106,11 @@
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links bottom">
 								<h5><a href="affiliations.php">Affiliations</a></h5>
 									<ul class="footer-lists footer-global">
-										<div class="row">
+										<span class="row">
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
 												<li><a href="marriott.php">Marriott</a></li>
 											</section>
-										</div>
-										
+										</span>
 									</ul>
 							</section>				
 							<hr class="hidden-lg hidden-md hidden-sm">	
@@ -129,14 +128,14 @@
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links bottom">
 								<h5>Site Policies</h5>
 									<ul class="footer-lists">
-										<div class="row">
+										<span class="row">
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
 												<li><a href="#">Terms of Use</a></li>
 											</section>
 											<section class="col-lg-12 col-md-12 col-xs-12">
 												<li><a href="#">Privacy Policy</a></li>
 											</section>
-										</div>
+										</span>
 									</ul>
 							</section>
 							<hr class="hidden-lg hidden-md hidden-sm">
