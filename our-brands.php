@@ -29,7 +29,7 @@
 						<section class="col-lg-12">
 							<div class="container">
 								<h1>Our Brands: Oakwood<sup>&reg;</sup>, Execustay<sup>&reg;</sup> and Insurance Housing Solutions<sup>&reg;</sup> </h1>
-								<h2>Offering the Best Selection of Housing Solutions</h2>
+								<h2 class="hidden-xs">Offering the Best Selection of Housing Solutions</h2>
 							</div>
 						</section>		
 					</div><!--heading-->		
@@ -42,7 +42,7 @@
 								<section class="col-lg-6 col-md-6 intro oakwood">
 									<div class="row">
 										<section class="col-lg-12 col-md-12 col-xs-6 logo">
-											<img src="images/sitewide/logo-oakwood-lg.jpg" alt="Oakwood">
+											<img src="images/sitewide/logo-oakwood-lg.jpg" alt="Oakwood" class="img-responsive">
 										</section>
 										<div class="clearfix"></div>
 										<section class="col-lg-12 col-md-12">
