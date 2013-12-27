@@ -2,9 +2,7 @@
 					<div class="panel-heading collapse2" id="collapse2">
 						<h1 class="title2 panel-title">
 							<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="collapser">
-								<div class="container">
-									<span>Federal Civilian</span>
-								</div>		
+								<span>Federal Civilian</span>	
 							</a>
 							<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseTwo" id="btn-2"></button>
 						</h1>
