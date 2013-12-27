@@ -26,7 +26,7 @@
 													<div class="item">
 														<section class="row">
 															<div class="col-lg-6 col-md-6 col-sm-6">
-																<img src="images/vision-leadership/vision-leadership-hero-01.jpg" class="img-responsive">
+																<img src="images/vision-leadership/vision-leadership-hero-01.jpg" alt="vision leadership" class="img-responsive">
 															</div>
 															<div class="carousel-caption">	
 																<h1>1990</h1>
@@ -38,7 +38,7 @@
 													<div class="item">
 														<section class="row">
 															<div class="col-lg-6 col-md-6 col-sm-6">
-																<img src="images/vision-leadership/vision-leadership-hero-01.jpg" class="img-responsive">
+																<img src="images/vision-leadership/vision-leadership-hero-01.jpg" alt="vision leadership" class="img-responsive">
 															</div>
 															<div class="carousel-caption">	
 																<h1>1980</h1>
