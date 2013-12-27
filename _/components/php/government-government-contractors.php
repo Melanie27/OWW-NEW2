@@ -11,7 +11,7 @@
 						<div class="panel-body">		
 							<div class="content row">
 								<div class="col-lg-12 col-md-12">
-									<section class="nine federal-civilian" id="federal-civilian">
+									<section class="nine federal-civilian" id="government-contractors">
 										<div class="container">
 											<section class="row">								
 												<div class="col-lg-8 col-md-8 two-col-text">
