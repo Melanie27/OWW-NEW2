@@ -7,11 +7,10 @@
 
     <!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
-     <link href="_/css/mystyles_govt.css" rel="stylesheet" media="screen">
+    <link href="_/css/mystyles_govt.css" rel="stylesheet" media="screen">
    
-     <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">-->
-   
-  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">--> 
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>

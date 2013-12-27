@@ -36,7 +36,7 @@
 		  	</section> <!--two-->	
 		  	<div class="container">
 		  		<section class="full-story hidden-lg hidden-md clearfix">
-		  			<h2 class="hidden-sm">Story Title Lorem Ipsum Dolore Sit Amet</h2>
+		  			<h2 class="hidden-sm">Story Title Lorem Ipsum Dolore Sit Amet</h2>
 		  			<?php include "_/components/php/news-full-story.php"; ?>
 		  		</section>
 		  	</div>
@@ -135,22 +135,7 @@
 							</div>
 						</section><!--content 4-->
 						<hr>				
-						
-						<div class="container">
-							<section class="row">
-								<div class="col-xs-12">
-									<section class="media-relations phone hidden-lg hidden-md">
-										<h1>Media Relations</h1>
-										<img src="images/news/media-relations-tb-01.jpg" alt="Sharron Saunders" width="75" height="75" class="pull-left">
-										<h3>Sharron Saunders</h3>
-										<p>Global Communications Lead</p>
-										<a href="#">ssaunders@oakwood.com</a>
-										<p>(240) 720 3003</p>
-										<div class="clearfix"></div>
-									</section><!-Media Relations-->
-								</div>
-							</section>
-						</div>
+						<?php include "_/components/php/media-relations-mobile.php"; ?>	
 						<hr>				
 					<?php include "_/components/php/footer.php"; ?>	
 				</section><!-- container -->	
