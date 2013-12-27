@@ -6,7 +6,6 @@
 									<span class="accords">Military</span>
 								</a>
 								<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseOne" id="btn-1"></button>
-								<div class="clearfix"></div>
 							</h1>
 						</div>													
 						<div id="collapseOne" class="panel-collapse collapse in container">

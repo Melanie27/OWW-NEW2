@@ -1,6 +1,6 @@
 										<section class="col-md-4 events-mobile col-sm-12 col-xs-12 hidden-md hidden-lg">
 											<div class="panel panel-default">
-												<div class="panel-heading-business collapse5 last-item" id="collapse5">
+												<div class="panel-heading collapse5 last-item" id="collapse5">
 													<h1 class="title5 panel-title">
 														<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
 															<span>Upcoming Events</span>

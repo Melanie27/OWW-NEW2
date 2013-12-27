@@ -35,9 +35,9 @@
 				</div><!--heading-->
 				<?php include "_/components/php/hero-thirds.php"; ?>
 			</section> <!--two-->	
-		  		<section class="three">
+		  		<section class="three container">
 					<div class="row over2">
-						<section class="col-lg-12 col-md-12">
+						<section class="col-lg-12 col-md-12 no-padding">
 							<div class="row">			
 								<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 hidden-md hidden-lg latest-news">		
 								<?php include "_/components/php/latest-news.php"; ?>
