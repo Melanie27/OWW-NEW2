@@ -3,10 +3,9 @@
 												<div class="panel-heading-business collapse1" id="collapse1">
 													<h1 class="title1 panel-title">
 														<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="collapser">
-															<h1 class="accords">Latest</h1>
-															<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseOne" id="btn-1"></button>
+															<span class="accords">Latest</span>
 														</a>
-														<div class="clearfix"></div>
+														<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseOne" id="btn-1"></button>
 													</h1>
 												</div>	
 												 <div id="collapseOne" class="panel-collapse collapse in">
@@ -14,11 +13,11 @@
 														<h1 class="hidden-xs hidden-sm">Latest News</h1>	
 														<section class="latest-releases">
 															<h3 class="hidden-sm hidden-xs">Latest Releases</h3>
-																<?php include "_/components/php/news-thumbs.php"; ?>
-																<div class="clearfix"></div>
+															<?php include "_/components/php/news-thumbs.php"; ?>
+															<div class="clearfix"></div>
 														</section><!--Latest Releases-->
 														<div class="hidden-xs">
-														<?php include "_/components/php/btn-view-archives.php"; ?>
+															<?php include "_/components/php/btn-view-archives.php"; ?>
 														</div>
 													</div><!--panel body-->
 												</div><!--Collapse One-->

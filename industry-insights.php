@@ -35,7 +35,7 @@
 				<!--two-->	
 		  		<div class="container">
 		  			<section class="full-story hidden-lg hidden-md clearfix">
-		  				<h2 class="hidden-sm">Story Title Lorem Ipsum Dolore Sit Amet</h2>
+		  				<h2 class="hidden-sm">Story Title Lorem Ipsum  Dolore Sit Amet</h2>
 		  				<?php include "_/components/php/news-full-story.php"; ?>
 		  			</section>
 		  		</div>	

@@ -2,9 +2,9 @@
 												<div class="panel-heading-business collapse3" id="collapse3">
 													<h1 class="title3 panel-title">
 														<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" class="collapser">
-															<h1>In the News</h1>
-															<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseThree" id="btn-3"></button>
+															<span>In the News</span>
 														</a>
+														<button type="button" class="btn mobile-toggle" data-toggle="button" data-target="#collapseThree" id="btn-3"></button>
 													</h1>
 												</div>	
 												 <div id="collapseThree" class="panel-collapse collapse in">
