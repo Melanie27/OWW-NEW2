@@ -38,7 +38,7 @@
 					<div class="row overview-top">
 						<section class="col-lg-9 col-md-9 col-sm-12 col-xs-12" >
 							<h1>Extended Stay Lodging for the Consulting Industry</h1>
-							<h2>For over 50 years, Oakwood Worldwide has given those who serve America a place they could call home.</h2>
+							<h2>For over 50 years, Oakwood Worldwide has given those who serve America a place they could call home.</h2>
 							<p>As the first, largest and leading provider of extended stay lodging (ESL) solutions to the federal government, Oakwood offers a welcoming environment for government employees, with convenient locations, and access to various transportation options.</p>
 							<a href="individual-business-traveler-single.php" class="orange-link">Learn More &#8594;</a>
 						</section><!--end two thirds-->			
@@ -53,9 +53,10 @@
 				<section class="col-lg-12 col-md-12">						
 					<div class="row">
 						<section class="tab-section">
-						<h1>Why do Consultants Prefer Oakwood?</h1>					
-						<?php include "_/components/php/tabs-mobile.php"; ?>													
-						<?php include "_/components/php/industry-tabs.php"; ?>	
+							<h1>Why do Consultants Prefer Oakwood?</h1>					
+							<?php include "_/components/php/tabs-mobile.php"; ?>													
+							<?php include "_/components/php/industry-tabs.php"; ?>	
+						</section>
 					</div><!--end tabbed section-->
 				</section>
 			</div><!--row-->
