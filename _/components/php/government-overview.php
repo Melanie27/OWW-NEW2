@@ -23,54 +23,56 @@
 											</section><!--end contact us-->
 										</div><!--end nested row-->
 										<div class="row overview-sections solutions-columns">
-											<section class="col-lg-12 hidden-xs no-left-padding">
+											<section class="col-lg-12 hidden-xs">
 												<h2>Proudly Serving:</h2>
 											</section>
-											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12 no-left-padding">
-												<div class="solutions military">
-													<a href="#" class="industry-sections">
-														<img src="images/government/overview-01.jpg" alt="Woman Texting" class="img-responsive" />
-														<header class="industries">
-															<h3>Military</h3>
-															<div class="clearfix"></div>
-														</header>
-													</a>
-													<section class="industry-text">	
-														<p class="consult-desc">Lorem ipsum in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula.</p>
-														<a href="#" class="orange-link">Learn More &#8594;</a>
-													</section>
-												</div><!--end military-->
-											</section>
-											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-												<div class="solutions military">
-													<a href="#" class="industry-sections">
-														<img src="images/government/overview-02.jpg" alt="Woman Texting" class="img-responsive" />
-														<header class="industries">
-															<h3>Federal Civilians</h3>
-															<div class="clearfix"></div>
-														</header>
-													</a>
-													<section class="industry-text">	
-														<p class="consult-desc">Lorem ipsum in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula.</p>
-														<a href="#" class="orange-link">Learn More &#8594;</a>
-													</section>
-												</div><!--end military-->
-											</section>
-											<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12 big-left no-right-padding">
-												<div class="solutions military">
-													<a href="#" class="industry-sections">
-														<img src="images/government/overview-03.jpg" alt="Woman Texting" class="img-responsive" />
-														<header class="industries">
-															<h3>Government Contractors</h3>
-															<div class="clearfix"></div>
-														</header>
-													</a>
-													<section class="industry-text">	
-														<p class="consult-desc">Lorem ipsum in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula.</p>
-														<a href="#" class="orange-link">Learn More &#8594;</a>
-													</section>
-												</div><!--end military-->
-											</section>
+											<div class="container">
+												<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="solutions military">
+														<a href="#" class="industry-sections">
+															<img src="images/government/overview-01.jpg" alt="Woman Texting" class="img-responsive" />
+															<header class="industries">
+																<h3>Military</h3>
+																<div class="clearfix"></div>
+															</header>
+														</a>
+														<section class="industry-text">	
+															<p class="consult-desc">Lorem ipsum in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula.</p>
+															<a href="#" class="orange-link">Learn More &#8594;</a>
+														</section>
+													</div><!--end military-->
+												</section>
+												<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="solutions military">
+														<a href="#" class="industry-sections">
+															<img src="images/government/overview-02.jpg" alt="Woman Texting" class="img-responsive" />
+															<header class="industries">
+																<h3>Federal Civilians</h3>
+																<div class="clearfix"></div>
+															</header>
+														</a>
+														<section class="industry-text">	
+															<p class="consult-desc">Lorem ipsum in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula.</p>
+															<a href="#" class="orange-link">Learn More &#8594;</a>
+														</section>
+													</div><!--end military-->
+												</section>
+												<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12 big-left no-right-padding">
+													<div class="solutions military">
+														<a href="#" class="industry-sections">
+															<img src="images/government/overview-03.jpg" alt="Woman Texting" class="img-responsive" />
+															<header class="industries">
+																<h3>Government Contractors</h3>
+																<div class="clearfix"></div>
+															</header>
+														</a>
+														<section class="industry-text">	
+															<p class="consult-desc">Lorem ipsum in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula.</p>
+															<a href="#" class="orange-link">Learn More &#8594;</a>
+														</section>
+													</div><!--end military-->
+												</section>
+											</div><!--container-->
 										</div>
 										<hr>
 										<div class="row overview-gsa">
