@@ -101,7 +101,7 @@
 							<h1><a href="news.php">News</a></h1>
 							<?php include "_/components/php/news-thumbs.php"; ?>												
 						</div>
-						<hr class="hidden-sm">
+						<hr class="hidden-sm" />
 						<div class="col-lg-4 col-md-4 col-sm-6 thirds last-third">
 							<h1>Industry Insights</h1>
 							<?php include "_/components/php/news-thumbs.php"; ?>												
@@ -110,7 +110,7 @@
 				</div><!--container-->						
 			</section><!--end five-->
 		</div>		
-  		<hr>
+  		<hr />
   		<section class="row">
 			<div class="col-lg-12">
 				<section class="six hidden-sm hidden-xs">
@@ -135,7 +135,7 @@
 				</div><!--container-->
 			</section><!--seven-->
 		</div><!--row-->
-		<hr>	
+		<hr />	
 		<section class="row">
 			<div class="col-lg-12">
 				<section class="eight hidden-sm hidden-xs">

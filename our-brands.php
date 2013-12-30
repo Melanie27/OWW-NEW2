@@ -62,14 +62,14 @@
 								</section><!-- end intro-->
 								<hr />
 								
-								<section class="col-lg-6 col-md-6 intro execustay">
+								<section class="col-lg-6 col-md-6 intro execustay ">
 									<div class="row">
 										<section class="col-lg-12 col-md-12 col-xs-6 logo">
 											<img src="images/sitewide/logo-execustay-lg.jpg" alt="Execustay">
 										</section>
 										<div class="clearfix"></div>
 										<section class="col-lg-12 col-md-12">
-											<p class="execustay-brand">ExecuStay, an Oakwood Worldwide brand, is the rewarding choice for fully furnished extended stay accommodations across the United States and Canada. Our locally managed and community-focused locations make it easy for guests to connect with everything they need-personally and professionally. And, as the only corporate housing brand to offer Marriott Rewards<sup>&reg;</sup> points, our personalized housing solutions are ideal for consultants, relocating executives and frequent travelers looking for an even more rewarding extended stay experience.</p>
+											<p class="execustay-brand">ExecuStay, an Oakwood Worldwide brand, is the rewarding choice for fully furnished extended stay accommodations across the United States and Canada. Our locally managed and community-focused locations make it easy for guests to connect with everything they need—personally and professionally. And, as the only corporate housing brand to offer Marriott Rewards® points, our personalized housing solutions are ideal for consultants, relocating executives and frequent travelers looking for an even more rewarding extended stay experience.</p>
 										</section>
 										<section class="col-lg-10 col-lg-offset-1">
 											<h2 class="execustay-brand">Lorem ipsum dolore sit features amet Mauris internet porttitor posuere Praesent id metus massa, 15 blandit odio Proin quis tortor orci</h2>
@@ -93,7 +93,7 @@
 						</section>
 					</div>
 				</section><!--content 4-->
-				<hr>			
+				<hr />			
 				<section class="container five">			
 					<div class="row">
 						<section class="col-lg-12 col-md-12 col-xs-12 intro ihs">
@@ -125,7 +125,7 @@
 							</section>
 						</div>
 					</section><!--content 6-->
-				<hr>
+				<hr />
 				<?php include "_/components/php/footer.php"; ?>	
 			</section><!-- container -->
 		</div><!--container-full-->
