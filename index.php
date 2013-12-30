@@ -72,7 +72,7 @@
 								<a href="#" class="industry-sections">
 									<img src="images/homepage/video-promo.jpg" alt="video-promo" class="img-responsive">	
 										<header class="industries">
-											<h3>Promo Video Title Lorem Ipsum Dolore Sit Amet</h3>
+											<h3>Promo Video Title Lorem Ipsum Dolore Sit Amet</h3>
 											<div class="clearfix"></div>
 										</header>
 								</a>
