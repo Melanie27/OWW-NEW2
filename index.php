@@ -96,7 +96,7 @@
 							<img src="images/homepage/vision-leadership-01.jpg" alt="vision-leadership-01" class="img-responsive hidden-xs">
 							<p class="">Sed aucto lorem ipsum dolore sit amet ndisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posu aesent. Vestibulum ante ipsum primis in faucibus orci luctus.</p>		
 						</div><!--end first third-->
-						<hr class="hidden-sm">
+						<hr class="hidden-lg hidden-md hidden-sm">
 						<div class="col-lg-4 col-md-4 col-sm-6 thirds middle-third">
 							<h1><a href="news.php">News</a></h1>
 							<?php include "_/components/php/news-thumbs.php"; ?>												
