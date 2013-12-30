@@ -50,7 +50,7 @@
 				<div class="row ">
 					<section class="col-lg-12 col-md-12 col-xs-12">
 						<div class="row">
-							<section class="col-lg-6 col-md-6 col-sm-12 col-xs-12 child-actors">
+							<section class="col-lg-6 col-md-6 col-sm-12 col-xs-12 entertainment-intro child-actors">
 								<h1>Child Actors Program</h1>
 								<h2>Each year many children and their parents come to Hollywood from all over the world to work in television, film, music and theatre. Oakwood Toluca Hills is the ideal apartment community for all aspiring stars.</h2>
 								<section class="col-lg-8 col-lg-offset-2 col-xs-12">
@@ -62,7 +62,7 @@
 								</section><!--end button-->
 							</section><!--end child actors-->
 							<hr class="hidden-lg hidden-md">
-							<section class="col-lg-6 col-md-6 filming">
+							<section class="col-lg-6 col-md-6 entertainment-intro filming">
 								<h1>Filming At Oakwood Worldwide</h1>
 								<h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et augue tempus magna elementum pharetra. Aenean nisi nibh, sollicitudin eget facilisis blandit, dignissim sed tortor. Etiam at volutpat sem. Sed augue.</h2>
 								<section class="col-lg-8 col-lg-offset-2">
