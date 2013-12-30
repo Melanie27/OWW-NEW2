@@ -98,7 +98,7 @@
 					<div class="row">
 						<section class="col-lg-12 col-md-12 col-xs-12 intro ihs">
 							<div class="row">
-								<section class="col-lg-4 col-lg-offset-4 col-md-6 col-md-offset-4 logo">
+								<section class="col-lg-4 col-lg-offset-4 col-md-6 col-md-offset-3 logo">
 									<img src="images/sitewide/logo-ihs-lg.jpg" alt="Insurance Housing Solutions" class="img-responsive">
 								</section>
 								<div class="clearfix"></div>
