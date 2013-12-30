@@ -102,7 +102,7 @@
 					</section>
 				</div>
 			</section><!--content 6-->	
-			<hr class="hidden-xs">
+			<hr class="hidden-xs hidden-sm">
 			<?php include "_/components/php/footer.php"; ?>	
 		</section><!-- container -->	
 	</div>
