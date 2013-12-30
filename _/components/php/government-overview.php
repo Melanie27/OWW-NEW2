@@ -81,7 +81,7 @@
 												<a href="#" class="orange-link col-lg-offset-6 col-md-offset-6">Learn More &#8594;</a>
 											</section>
 										</div><!--end gsa-->
-										<hr>
+										
 										<div class="row hidden-xs">
 											<section class="tab-section">
 												<h1>Why does the Federal Government Prefer Oakwood?</h1>

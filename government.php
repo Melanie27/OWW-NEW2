@@ -67,7 +67,7 @@
 					</section>
 				</div>
 			</section><!--content 4-->
-				
+			<hr class="hidden-lg hidden-md" />	
 			<div class="row industry-insights">
 				<section class="col-sm-12 hidden-lg hidden-md">
 					<div class="container">

@@ -324,10 +324,7 @@ nav {
 	.six {
 		height:200px;
 		background-image:url("../../images/sitewide/bg-image-08.jpg");
-	}
-	
-	
-	
+	}	
 	
 }
 
@@ -393,6 +390,29 @@ nav {
 @media (min-width: 1px) and (max-width:767px) {
 	
 	
+	
+	.solutions-columns {
+		
+		.container {
+			
+			padding-left:0px;
+			padding-right:0px;
+		}
+	}
+	
+	#accordion {
+		
+		border-top: solid 1px @oww-border;
+	}
+	
+	.overview-sections.solutions-columns {
+		
+		margin-top:20px;
+		
+	}
+	
+	
+	
 	.industry-insights {
 		
 		h1 {
@@ -443,7 +463,7 @@ nav {
 	
 	.insights {
 		
-		padding-bottom:25px;
+		padding-bottom:15px;
 	}
 	
 	#relocation, #individual-business-traveler {
@@ -498,6 +518,7 @@ nav {
 	
 		.container {
 		padding-left:0px;
+		
 		}
 	}
 	
@@ -546,7 +567,7 @@ nav {
 	
 	.teasers {
 		
-		padding-bottom:20px;
+		padding-bottom:0px;
 		padding-top:15px;
 	}
 	
@@ -638,20 +659,46 @@ nav {
 	}
 	
 	.case-studies, .videos {
+		
 		border-right:none;
 	}
 	
-		.videos, .white-papers {
+	.videos, .white-papers {
+		
 		padding-left:15px;
+	
 	}
 	
 	
+	.industries {
+		
+		width:350px;
+	}
 
 }
 
 /*small screen*/
 
 @media (min-width:768px) and (max-width: 991px) {
+	
+	.panel {
+	
+		padding-left:30px;
+		
+	}
+	
+	#accordion {
+		
+		border-top: solid 1px @oww-border;
+	}
+	
+	.panel-title {
+		
+		span {
+			
+			font-size:36px;
+		}
+	}
 	
 	.over {
 		
@@ -729,9 +776,8 @@ nav {
 @media (min-width: 992px) and (max-width: 1200px) {
 
 	.industries {
-			
-		width:100%
 		
+		width: 100%;
 	}
 				
 	.contact-us {
@@ -794,8 +840,7 @@ nav {
 		
 		.industries {
 			
-			width:350px;;
-			max-width: 350px;
+			width:100%;
 			height: 66px;
 			bottom:65px;
 			
@@ -812,7 +857,7 @@ nav {
 	}
 }
 
-@media (min-width: 321px) and (max-width: 480px) {
+@media (min-width: 321px) and (max-width: 420px) {
 	
 	.solutions {
 		
@@ -826,8 +871,7 @@ nav {
 	 
 	.industries {
 			
-		margin: 0px;
-		width:350px;
+		width:100%;
 
 	}	
 }

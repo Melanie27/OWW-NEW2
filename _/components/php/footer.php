@@ -21,7 +21,7 @@
 								<img src="images/sitewide/logo-ihs.jpg" alt="logo-ihs" class="img-responsive" />
 							</section>
 						</div>
-						<div class="row contact-us">
+						<div class="row contact-us-housing">
 							<section class="col-lg-8 col-lg-offset-3 col-md-9 col-md-offset-2">
 								<h2>Contact Us to Create Your Housing Program</h2>
 								<a class="orange-link hidden-lg hidden-md" href="#">Contact Us &#8594;</a>
