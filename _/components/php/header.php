@@ -25,7 +25,7 @@
 				<li class="dropdown">
 					<a href="global-expertise.php">Global Expertise</a>
 					<ul class="dropdown-menu">
-						<li><a href="#">Global Scale and Inventory</a></li>
+						<li><a href="global-reach.php">Global Scale and Inventory</a></li>
 						<li><a href="client-services.php">Client Services</a></li>
 						<li><a href="technologies.php">Technologies</a></li>
 						<li><a href="safety-security.php">Safety & Security</a></li>
