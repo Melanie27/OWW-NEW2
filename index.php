@@ -30,7 +30,7 @@
 					 <div class="container">
 						 <section class="row">
 							 <div class="col-lg-10">
-								 <h1>Oakwood Worldwide lorem ipsum dolor sit amet conse ctetur adipisicing elit.</h1>
+								 <h1>Oakwood Worldwide lorem ipsum dolor sit amet consectetur adipisicing elit.</h1>
 								 <p><a href="#" class="learn-more">Learn more &#8594;</a></p>
 							</div>
 						</section>
