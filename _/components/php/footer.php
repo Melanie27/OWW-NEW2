@@ -4,25 +4,25 @@
 				<div class="row">
 					<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 footer-brands pull-right">
 						<div class="row">
-							<section class="col-lg-8 col-lg-offset-2 col-md-offset-2">
+							<section class="col-lg-8 col-lg-offset-3 col-md-offset-2">
 								<h5>Our Brands</h5>
 							</section>	
 						</div><!--end nested row-->
 						<div class="row">
-							<section class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-6 col-xs-6">
+							<section class="col-lg-12 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-12 col-xs-6">
 								<img src="images/sitewide/logo-oakwood.jpg" alt="Oakwood Logo" class="img-responsive" />
 							</section>
-							<section class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-6 col-xs-6">
+							<section class="col-lg-12 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-12 col-xs-6">
 								<img src="images/sitewide/logo-execustay.jpg" alt="Execustay Logo" class="img-responsive"/>
 							</section>
 						</div><!--end nested row-->
 						<div class="row">
-							<section class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2">
+							<section class="col-lg-12 col-lg-offset-3 col-md-8 col-md-offset-2 col-sm-12">
 								<img src="images/sitewide/logo-ihs.jpg" alt="logo-ihs" class="img-responsive" />
 							</section>
 						</div>
-						<div class="row">
-							<section class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2">
+						<div class="row contact-us">
+							<section class="col-lg-8 col-lg-offset-3 col-md-9 col-md-offset-2">
 								<h2>Contact Us to Create Your Housing Program</h2>
 								<a class="orange-link hidden-lg hidden-md" href="#">Contact Us &#8594;</a>
 								<div class="row hidden-sm hidden-xs">
@@ -150,10 +150,12 @@
 						</div>
 					</section>
 					<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12 copyright">
-						<span class="icon-housing"> 
-							<img src="images/icons/icon-equal-housing.jpg" alt="icon-equal-housing" width="30" height="30" class="pull-left"/>
-						</span>
-						<p>Equal Housing Opportunity &copy;2004-2013 Oakwood Worldwide. The most trusted name in temporary housing.<sup>SM</sup></p>
+						<div class="row border">
+							<span class="icon-housing"> 
+								<img src="images/icons/icon-equal-housing.jpg" alt="icon-equal-housing" width="30" height="30" class="pull-left"/>
+							</span>
+							<p>Equal Housing Opportunity &copy;2004-2013 Oakwood Worldwide. </p>
+						</div>
 					</section>
 				</div><!--end row-->
 		</footer>

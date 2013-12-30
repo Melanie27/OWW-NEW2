@@ -45,7 +45,7 @@
 					<div class="row">
 						<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12 our-brands">
 							<div class="row">
-								<section class="col-lg-12">
+								<section class="col-lg-12 brands-intro">
 									<h1>Our Brands:	Oakwood, ExecuStay and Insurance Housing Solutions</h1>
 									<p>Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum.</p>
 								</section>	
@@ -53,15 +53,12 @@
 							<div class="row">
 								<section class="col-lg-12 col-md-12 col-sm-12 logos brand-logos">
 									<div class="row">
-										<section class="col-lg-3 col-md-3 col-sm-4 col-xs-6">
-											<img src="images/homepage/logo-oakwood-homepage.jpg" alt="Oakwood" class="logo oakwood img-responsive">
-										</section>
-										<section class="col-lg-3 col-md-3 col-sm-4 col-xs-6">
-											<img src="images/homepage/logo-execustay-homepage.jpg" alt="Execustay" class="logo execustay img-responsive">
-										</section>
-										<section class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-											<img src="images/homepage/logo-ihs-homepage.jpg" alt="Insurance Housing Solutions" class="logo ihs img-responsive">
-										</section>
+										<ul class="logos col-lg-12">
+											<li><img src="images/homepage/logo-oakwood-homepage.jpg" alt="Oakwood" class="logo oakwood img-responsive"></li>
+											<li><img src="images/homepage/logo-execustay-homepage.jpg" alt="Execustay" class="logo execustay img-responsive"></li>
+											<li><img src="images/homepage/logo-ihs-homepage.jpg" alt="Insurance Housing Solutions" class="logo ihs img-responsive"></li>
+										
+										</ul>
 									</div>
 									<div class="clearfix"></div>
 								</section>
@@ -99,12 +96,12 @@
 							<img src="images/homepage/vision-leadership-01.jpg" alt="vision-leadership-01" class="img-responsive hidden-xs">
 							<p class="">Sed aucto lorem ipsum dolore sit amet ndisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posu aesent. Vestibulum ante ipsum primis in faucibus orci luctus.</p>		
 						</div><!--end first third-->
-						<hr>
+						<hr class="hidden-sm">
 						<div class="col-lg-4 col-md-4 col-sm-6 thirds middle-third">
 							<h1><a href="news.php">News</a></h1>
 							<?php include "_/components/php/news-thumbs.php"; ?>												
 						</div>
-						<hr>
+						<hr class="hidden-sm">
 						<div class="col-lg-4 col-md-4 col-sm-6 thirds last-third">
 							<h1>Industry Insights</h1>
 							<?php include "_/components/php/news-thumbs.php"; ?>												

@@ -323,9 +323,8 @@ a.active:link, a.active:visited {
 	padding-right:0px;
 }
 
-
-
 .no-left-padding {
+	
 	padding-left:0px;
 }
 
@@ -334,19 +333,15 @@ a.active:link, a.active:visited {
 .btn.find-housing  {
 	
 	background-color: #FFFFFF;
-    border: none;
     border-radius: 0;
-    font-size: 12px;
-    left: 35px;
-    margin-left: 0;
-    margin-right: 0;
-    padding: 9px;
+    font-size: 10px;
+    font-family: @district-medium;
+    left: 15px;
     position: relative;
     top: 16px;
-    width: 36px;
+    width: 85px;
     height:36px;
-    background-image: url(../../images/icons/icon-find-housing.jpg);
-    background-repeat:no-repeat;
+    border:solid 1px @oww-border;
 	
 }
 
@@ -388,6 +383,20 @@ a.active:link, a.active:visited {
 		
 		}
 	}
+	
+.logos {
+	
+		display:inline-block;
+		padding-left:15px;
+		margin-top:5px;
+		
+		li {
+			
+			float:left;
+		}
+	}
+
+
 	
 
 	
@@ -462,7 +471,7 @@ ul.nav li.dropdown:hover ul.dropdown-menu{
 
 	.navbar-toggle {
 		
-		border: solid 1px @oww-light-gray;
+		border: solid 1px @oww-border;
 		margin-top:15px;
 		margin-bottom:15px;
 		right:15px;
@@ -1191,12 +1200,12 @@ footer {
 	
 	.btn-footer.housing {
 		
-		right:340px;
+		right:310px;
 	}
 			
 	.btn-footer.contact {
 		
-		right:185px;
+		right:165px;
 	}
 	
 	
@@ -1235,11 +1244,9 @@ footer {
 	
 	}
 	
-	
-	
 	.footer-brands {
 		
-		padding-bottom:165px;
+		padding-bottom:0px;
 		
 	}
 	
@@ -1256,7 +1263,10 @@ footer {
 	
 	.copyright {
 		
-		margin-bottom:20px;
+		.border {
+			
+			padding-bottom:20px;
+		}
 		
 		p { 
 			font-size:14px;
@@ -1265,9 +1275,6 @@ footer {
 	}
 		
 }
-
-
-
 
 
 /*Accordion Business Style*/
@@ -1700,6 +1707,8 @@ footer {
 		}
 	}
 	
+	
+		
 	.navbar {
 		
 		min-height:65px !important;
@@ -1961,9 +1970,10 @@ footer {
 				border:none;
 			}
 			
-		.footer-brands {
+		section.footer-brands {
 				
-			padding-bottom:50px;
+			padding-bottom:25px;
+			padding-left:15px;
 			
 		}
 			
@@ -1972,6 +1982,11 @@ footer {
 			padding-top:20px;
 			margin-bottom:20px;
 			
+		}
+		
+		.contact-us {
+			
+			margin-top:25px;
 		}
 	}
 	
@@ -2078,11 +2093,12 @@ footer {
 		
 		}
 		
-		.footer-find-housing {
+		.btn-footer.footer-find-housing {
 		
 			right:210px;
 		
 		}
+		
 	}
 	
 }
