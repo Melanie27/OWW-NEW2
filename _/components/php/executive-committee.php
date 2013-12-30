@@ -53,7 +53,7 @@
 			</li>
 			<li class="clearfix">
 				<img src="images/vision-leadership/_players/ana-castellanos-tb.jpg" alt="Ana Castellanos" class="pull-left" />
-				<h3 class="name">Ana Castellanos</h3>
+				<h3 class="name">Ana Castell</h3>
 				<p class="title">VP, Chief Human Resources Officer</p>
 				<p><a href="executive-leadership.php" class="orange-link">Full Bio &#8594;</a></p>
 			</li>
