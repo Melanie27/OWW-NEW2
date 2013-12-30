@@ -60,7 +60,7 @@
 										</section>
 									</div>
 								</section><!-- end intro-->
-								<hr>
+								<hr />
 								
 								<section class="col-lg-6 col-md-6 intro execustay">
 									<div class="row">
