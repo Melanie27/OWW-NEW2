@@ -60,7 +60,7 @@
 									<a href="#" class="industry-sections">
 										<img src="images/global-services/global-reach.jpg" alt="global-reach" class="img-responsive">
 											<header class="industries">
-												<h3>Explore the Oakwood Worldwide Difference</h3>
+												<h3>Explore the Oakwood Worldwide Difference</h3>
 												<div class="clearfix"></div>
 											</header>
 									</a>
