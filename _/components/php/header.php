@@ -44,7 +44,6 @@
 					<a href="vision-leadership.php">Vision and Leadership</a>
 					<ul class="dropdown-menu">
 						<li><a href="executive-leadership.php">Executive Committee</a></li>
-						<li><a href="industry-affiliations.php">Industry Affiliations</a></li>
 					</ul>
 				</li>
 				<li class="dropdown">
