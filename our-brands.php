@@ -54,7 +54,7 @@
 										<section class="col-lg-8 col-lg-offset-2">
 											<div class="row archives">
 												<section class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0">
-													<a class="link-archives see-all text-center" href="upcoming-events.php">Find & Book</a>
+													<a class="link-archives see-all text-center" href="upcoming-events.php">Find Housing</a>
 												</section>			
 											</div>
 										</section>
@@ -77,7 +77,7 @@
 										<section class="col-lg-8 col-lg-offset-2">
 											<div class="row archives">
 												<section class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0">
-													<a class="link-archives see-all text-center" href="upcoming-events.php">Find & Book</a>
+													<a class="link-archives see-all text-center" href="upcoming-events.php">Find Housing</a>
 												</section>
 											</div>
 										</section>

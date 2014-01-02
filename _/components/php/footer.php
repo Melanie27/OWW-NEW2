@@ -77,7 +77,6 @@
 										<div class="row">
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
 												<li><a href="executive-committee.php">Executive Committee</a></li>
-												<li><a href="industry-affiliations.php">Industry Affiliations</a></li>
 											</section>
 										</div>	
 									</ul>	
@@ -106,12 +105,7 @@
 							<section class="col-lg-3 col-md-3 col-sm-6 col-xs-12 page-links bottom">
 								<h5><a href="affiliations.php">Affiliations</a></h5>
 									<ul class="footer-lists footer-global">
-										<div class="row">
-											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
-												<li><a href="marriott.php">Marriott</a></li>
-											</section>
-										</div>
-										
+																				
 									</ul>
 							</section>				
 							<hr class="hidden-lg hidden-md hidden-sm">	
