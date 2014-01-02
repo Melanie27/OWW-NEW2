@@ -60,7 +60,7 @@
 								</section>
 							</div>
 							<!--Awards Navigation-->
-							<hr class="hidden-lg hidden-md">
+							
 							<div class="row">
 								<section class="col-lg-8 col-md-8 press-release-list">
 									<h1>Awards and Honors: EMMAs</h1>

@@ -21,7 +21,7 @@
 															<li><h4><a href="upcoming-events.php">Upcoming Events</a></h4></li>
 														</ul>
 												</section><!--end news-->	
-												<section class="media-relations">
+												<section class="media-relations hidden-sm hidden-xs">
 													 	<?php include "_/components/php/media-relations.php"; ?>
 												</section><!--Media Relations-->	
 											</section><!--end one third-->
