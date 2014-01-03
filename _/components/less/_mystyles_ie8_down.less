@@ -31,19 +31,14 @@
 
 #united-states-canada, #south-america, #emea, #apac, #government {
 	
-	.carousel-caption {
-		
-		left:0%;
-		right:0%;
-	}
 	
 	.carousel-control {
 		
-		.icon-next {
+		.icon-next, .icon-prev {
 			
 			display:block;
 			height:40px;
-			border:solid 1px red;
+			border:solid 1px yellow;
 		}
 	}
 }
@@ -93,5 +88,23 @@
 		}
 		
 	}
+
+}
+
+/* Medium Screens 992 - 1200 */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+	#united-states-canada, #south-america, #emea, #apac, #government {
+	
+		.carousel-caption {
+		
+			left:15px;
+			right:0%;
+		
+		}
+		
+	}
+
 
 }
