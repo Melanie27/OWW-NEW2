@@ -1,8 +1,8 @@
 							<section class="row container hidden-sm hidden-xs">
-								<div class="col-lg-12 col-md-12 no-padding">
+								<div class="col-lg-12 col-md-12">
 									<div id="carousel-example-generic" class="carousel slide">
 										<!-- Wrapper for slides -->
-											<div class="carousel-inner carousel-global"> 
+											<div class="carousel-inner"> 
 												<!-- Slide -->
 												<div class="item active">
 													<div class="row">
