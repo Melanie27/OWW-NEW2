@@ -66,7 +66,7 @@
 								<section class="col-lg-8 col-md-8 press-release-list">
 									<h1>Awards and Honors: EMMAs</h1>
 									<section class="hidden-lg hidden-md hidden-sm">
-										<?php include "_/components/php/news-press-thumbs.php"; ?>	
+										<?php include "_/components/php/news-awards-thumbs.php"; ?>	
 									</section>
 									<div class="row hidden-xs" id="press1">
 										<ul>
