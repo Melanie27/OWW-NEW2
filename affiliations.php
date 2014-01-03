@@ -36,7 +36,7 @@
 		  			
 				<section class="three container">
 					<div class="row over2">
-						<section class="col-lg-12 col-md-12">
+						<section class="col-lg-12 col-md-12 partners">
 							<div class="row">
 								<h1>Partnerships</h1>
 								<h2 class="hidden-xs">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
@@ -55,6 +55,7 @@
 									<p> Marriott International is the perfect hotel complement to Oakwood Worldwide's move-in ready corporate housing and serviced apartment accommodations. Together, our partnership offers more choice, convenience and customizable solutions for you and your guests.</p>									
 								</section>
 							</div>
+						
 							<hr class="hidden-lg hidden-md">
 							<div class="row affiliations">
 								<section class="col-lg-4 col-md-4 logo-individual hidden-xs">
