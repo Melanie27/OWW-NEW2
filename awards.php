@@ -48,7 +48,7 @@
 			<div class="container">
 				<section class="three">
 					<div class="row over2">
-						<section class="col-lg-12 col-md-12">	
+						<section class="col-lg-12 col-md-12 awards-menu">	
 							<div class="row">
 								<section class="col-lg-6 col-md-6 col-xs-12 awards-sections">
 									<h4>See Awards From:</h4>
@@ -59,6 +59,7 @@
 									</ul>
 								</section>
 							</div>
+							
 							<!--Awards Navigation-->
 							
 							<div class="row">

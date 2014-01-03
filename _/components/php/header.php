@@ -11,7 +11,7 @@
 		  	<button class="btn find-housing" type="button">Find Housing</button>
 		  	<a href="index.php" id="logo" >
 			  	<img src="images/sitewide/logo-oww.jpg" alt="Oakwood Worldwide Logo"/>
-			</a>	
+			</a>		
         </div>
         <div class="navbar-collapse collapse in">
         	<ul class="nav navbar-nav ">
