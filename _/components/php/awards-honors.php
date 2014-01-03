@@ -23,13 +23,13 @@
 																	</section>
 																</div>		
 																<div class="row archives">
-																	<div class="col-md-8 col-md-offset-2 col-sm-6 col-sm-offset-0 col-xs-6 col-xs-offset-3">
-																	<a class="link-archives see-all text-center" href="awards.php">VIEW AWARDS</a>
+																	<div class="col-md-8 col-md-offset-2 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+																		<a class="link-archives see-all text-center" href="awards.php">VIEW AWARDS</a>
+																	</div>
 																</div>
-															</div>
-														</section><!--Awards and Honors-->
-													</div><!--panel body-->
-												</div><!--Collapse Four-->
-											</div><!--panel-->
+															</section><!--Awards and Honors-->
+														</div><!--panel body-->
+													</div><!--Collapse Four-->
+												</div><!--panel-->
 											
 									

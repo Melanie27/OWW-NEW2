@@ -117,8 +117,20 @@
 				</section>
 			</div>
 		</section><!--content 6-->
+		
+		
+		<section class="seven container hidden-sm hidden-xs">
+				<div class="row carousel-heading">
+					<section class="col-lg-12 col-md-12 ">
+						<h1>Promotions</h1>
+						<?php include "_/components/php/carousel-emea.php"; ?>
+					</section>
+				</div>
+			</section><!--end five-->
+		
+		
 			
-		<div class="row">
+		<div class="row hidden-lg hidden-md">
 			<section class="col-lg-12 seven">
 				<div class="container">
 					<section class="row promotions">
