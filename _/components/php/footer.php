@@ -44,7 +44,7 @@
 									<ul class="footer-lists footer-global">
 										<div class="row">
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
-												<li><a href="#">Global Scale and Inventory</a></li>
+												<li><a href="global-reach.php">Global Scale and Inventory</a></li>
 												<li><a href="client-services.php">Client Services</a></li>
 											</section>
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
@@ -60,7 +60,7 @@
 									<ul class="footer-lists" id="footer-industry">
 										<div class="row">
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
-												<li><a href="#">Individual Business Traveler</a></li>
+												<li><a href="individual-business-traveler.php">Individual Business Traveler</a></li>
 												<li><a href="government.php">Government</a></li>
 											</section>
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">	
@@ -87,12 +87,12 @@
 									<ul class="footer-lists" id="footer-news">
 										<div class="row">
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
-												<li><a href="#">Press Releases</a></li>
-												<li><a href="#">In The News</a></li>
+												<li><a href="press-releases.php">Press Releases</a></li>
+												<li><a href="in-the-news.php">In The News</a></li>
 											</section>
 											<section class="col-lg-12 col-md-12 col-sm-12 col-xs-6">
-												<li><a href="#">Awards</a></li>
-												<li><a href="#">Events</a></li>
+												<li><a href="awards.php">Awards</a></li>
+												<li><a href="upcoming-events.php">Events</a></li>
 											</section>
 										</div>
 									</ul>

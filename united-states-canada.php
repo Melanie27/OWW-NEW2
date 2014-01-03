@@ -57,7 +57,7 @@
 				<hr>
 				<section class="five container">
 					<div class="row carousel-heading">
-						<section class="col-lg-12 col-md-12 ">
+						<section class="col-lg-12 col-md-12">
 							<h2>Search Popular US and Canada Destinations</h2>
 								<ul class="hidden-lg hidden-md hidden-sm destinations">
 									<li>Washington, D.C.</li>

@@ -10,6 +10,9 @@
     <!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="_/css/mystyles_global.css" rel="stylesheet" media="screen">
+     <!--[if lt IE 9]>
+		 <link rel="stylesheet" type="text/css" href="_/css/mystyles_ie8_down.css" />
+	<![endif]-->
      <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">-->
    
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
