@@ -33,7 +33,6 @@
 						</section>		
 					</div><!--heading-->
 		  		</section> <!--two container-->	
-		  			
 				<section class="three container">
 					<div class="row over2">
 						<section class="col-lg-12 col-md-12">
@@ -55,13 +54,13 @@
 						</section>
 					</div><!--row-->
 				</section><!--three-->
-				<hr>
+				<hr />
 				<section class="five container">
 					<section class="row industry-affiliations">		
 						<?php include "_/components/php/industry-affiliations.php"; ?>
 					</section>
 				</section>
-				<hr>
+				<hr />
   				<section class="row">
 					<div class="col-lg-12">
 						<section class="six hidden-sm hidden-xs">

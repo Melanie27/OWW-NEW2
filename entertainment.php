@@ -35,11 +35,11 @@
 				</div><!--heading-->
 				<?php include "_/components/php/hero-government.php"; ?>
 		  	</section> <!--two-->	
-			<hr>
+			<hr />
 			<div class="container">
 				<?php include "_/components/php/extended-stay-lodging.php"; ?>
 			</div><!--end container-->		
-			<hr>
+			<hr />
 			<section class="row hidden-sm hidden-xs">
 				<div class="col-lg-12">
 					<section class="four">
@@ -77,7 +77,7 @@
 					</section>
 				</div>
 			</section><!--end three-->
-			<hr>			
+			<hr />			
 			<section class="container five">
 				<div class="row">			
 					<section class="tab-section">
@@ -86,7 +86,7 @@
 					</section>	
 				</div><!--end tabbed section-->
 			</section>
-			<hr class="margin-bottom">
+			<hr class="margin-bottom" />
 			<div class="row industry-insights">
 				<section class="col-sm-12 hidden-lg hidden-md">
 					<div class="container">
@@ -95,7 +95,7 @@
 					<?php include "_/components/php/industry-insights.php"; ?>
 				</section>
 			</div>
-			<hr>
+			<hr />
 			<section class="row hidden-sm">
 				<div class="col-lg-12 hidden-xs">
 					<section class="six">

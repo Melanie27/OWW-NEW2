@@ -34,9 +34,8 @@
 				</section>		
 			</div><!--heading-->	
 			<?php include "_/components/php/hero.php"; ?>
-		  </section> <!--two container-->	
-		  							
-		<section class="three container">
+		  </section> <!--two container-->							
+		  <section class="three container">
 			<div class="row">
 				<section class="col-lg-12 col-md-12 global-intro">
 					<h1>Intro Placeholder Text</h1>
@@ -46,9 +45,7 @@
 				<?php include "_/components/php/global-destinations.php"; ?>						
 			</div>
 		</section>
-		
-		<hr>
-		
+		<hr />
 		<section class="container three three-a">
 			<div class="row">
 				<section class="col-lg-12 col-md-12 regional-supply">
@@ -97,10 +94,8 @@
 					</div>
 				</section>
 			</div>
-		</section>
-					
-		<hr>
-		
+		</section>		
+		<hr />
   		<!--Supply Chain-->
   		<section class="container three three-a">
 			<div class="row">
@@ -150,10 +145,8 @@
 					</div>
 				</section>
 			</div>
-		</section><!--three-->
-						
-		<hr>	
-		
+		</section><!--three-->				
+		<hr />	
 		<?php include "_/components/php/footer.php"; ?>	
 		</section><!-- container -->	
 	</div><!--container-full-->

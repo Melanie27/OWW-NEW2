@@ -54,7 +54,7 @@
 						</section>
 					</div>
 				</section><!--end three-->
-				<hr>
+				<hr />
 				<section class="five container">
 					<div class="row carousel-heading">
 						<section class="col-lg-12 col-md-12">
@@ -73,7 +73,7 @@
 						</section>
 					</div>
 				</section><!--end five-->			
-				<hr>
+				<hr />
 				<section class="seven container">
 					<div class="row global-destinations">
 						<section class="col-lg-12 col-md-12 global-intro">
@@ -82,7 +82,7 @@
 						<?php include "_/components/php/global-destinations.php"; ?>
 					</div>
 				</section><!--seven-->		
-				<hr>	
+				<hr />	
 				<?php include "_/components/php/footer.php"; ?>		
 			</section><!-- container -->	
 		</div><!--container-full-->

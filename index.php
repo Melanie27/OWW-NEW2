@@ -68,25 +68,24 @@
 							<div class="solutions promo-video">
 								<a href="#" class="industry-sections">
 									<img src="images/homepage/video-promo.jpg" alt="video-promo" class="img-responsive">	
-										<header class="industries">
-											<h3>Promo Video Title Lorem Ipsum Dolore Sit Amet</h3>
-											<div class="clearfix"></div>
-										</header>
+									<header class="industries">
+										<h3>Promo Video Title Lorem Ipsum Dolore Sit Amet</h3>
+										<div class="clearfix"></div>
+									</header>
 								</a>
 							</div><!--end video-->
 						</section>
 					</div><!--end nested row-->
 				</section>
 			</div><!--row-->
-		</section><!--three-->
-							
+		</section><!--three-->				
 		<section class="row">
 			<div class="col-lg-12">
 				<section class="four hidden-sm hidden-xs">
 				</section>
 			</div>
 		</section><!--content 4-->
-		<hr>
+		<hr />
 		<div class="row">
 			<section class="col-lg-12 five">
 				<div class="container">	
@@ -117,8 +116,6 @@
 				</section>
 			</div>
 		</section><!--content 6-->
-		
-		
 		<section class="seven container hidden-sm hidden-xs">
 				<div class="row carousel-heading">
 					<section class="col-lg-12 col-md-12 ">
@@ -126,36 +123,33 @@
 						<?php include "_/components/php/carousel-emea.php"; ?>
 					</section>
 				</div>
-			</section><!--end five-->
-		
-		
-			
-		<div class="row hidden-lg hidden-md">
-			<section class="col-lg-12 seven">
-				<div class="container">
-					<section class="row promotions">
-						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-							<img src="images/homepage/promo-1.jpg" alt="promo-1" class="img-responsive" >	
-						</div><!--end first third-->
-						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-							<img src="images/homepage/promo-middle.jpg" alt="promo-middle" class="img-responsive">	
-						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 third-promo">
-							<img src="images/homepage/promo-1.jpg" alt="promo-1" class="img-responsive">				
-						</div>
+			</section><!--end five-->	
+			<div class="row hidden-lg hidden-md">
+				<section class="col-lg-12 seven">
+					<div class="container">
+						<section class="row promotions">
+							<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+								<img src="images/homepage/promo-1.jpg" alt="promo-1" class="img-responsive" >	
+							</div><!--end first third-->
+							<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+								<img src="images/homepage/promo-middle.jpg" alt="promo-middle" class="img-responsive">	
+							</div>
+							<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 third-promo">
+								<img src="images/homepage/promo-1.jpg" alt="promo-1" class="img-responsive">				
+							</div>
+						</section>
+					</div><!--container-->
+				</section><!--seven-->
+			</div><!--row-->
+			<hr />	
+			<section class="row">
+				<div class="col-lg-12">
+					<section class="eight hidden-sm hidden-xs">
 					</section>
-				</div><!--container-->
-			</section><!--seven-->
-		</div><!--row-->
-		<hr />	
-		<section class="row">
-			<div class="col-lg-12">
-				<section class="eight hidden-sm hidden-xs">
-				</section>
-			</div>
-		</section><!--content 8-->
-		<?php include "_/components/php/footer.php"; ?>	
-  	</section><!-- container -->
+				</div>
+			</section><!--content 8-->
+			<?php include "_/components/php/footer.php"; ?>	
+		</section><!-- container -->
   	<script src="_/js/bootstrap.js"></script>
   	<script src="_/js/myscript.js"></script>
   </body>

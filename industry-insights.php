@@ -40,7 +40,7 @@
 		  				<?php include "_/components/php/news-full-story.php"; ?>
 		  			</section>
 		  		</div>	
-		  		<hr class="hidden-lg hidden-md hidden-sm">		
+		  		<hr class="hidden-lg hidden-md hidden-sm" />		
 					<section class="three container">
 						<div class="row over2">
 							<section class="col-lg-12 col-md-12">
@@ -134,11 +134,10 @@
 								</section>
 							</div>
 						</section><!--content 4-->
-						<hr>			
-						<?php include "_/components/php/media-relations-mobile.php"; ?>	
-						<hr>	
-						<?php include "_/components/php/footer.php"; ?>	
-
+						<hr />			
+							<?php include "_/components/php/media-relations-mobile.php"; ?>	
+						<hr />	
+							<?php include "_/components/php/footer.php"; ?>	
 					</section><!-- container -->
 				</div>
   	<script src="_/js/bootstrap.js"></script>

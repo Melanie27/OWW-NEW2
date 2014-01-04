@@ -35,16 +35,14 @@
 					</section>		
 				</div><!--heading-->
 				<?php include "_/components/php/hero-halves-awards.php"; ?>
-		  	</section> <!--two-->	
-		  							
+		  	</section> <!--two-->						
 		  	<div class="container">
 		  		<section class="full-story hidden-lg hidden-md hidden-sm clearfix">
 		  			<h2 class="hidden-sm">Story Title Lorem Ipsum Dolore Sit Amet</h2>
 		  			<?php include "_/components/php/awards-full-story.php"; ?>
 		  		</section>
 		  	</div>			
-		  	<hr class="hidden-lg hidden-md hidden-sm">
-
+		  	<hr class="hidden-lg hidden-md hidden-sm" />
 			<div class="container">
 				<section class="three">
 					<div class="row over2">
@@ -59,9 +57,7 @@
 									</ul>
 								</section>
 							</div>
-							
 							<!--Awards Navigation-->
-							
 							<div class="row">
 								<section class="col-lg-8 col-md-8 press-release-list">
 									<h1>Awards and Honors: EMMAs</h1>
@@ -131,14 +127,12 @@
 												<div class="clearfix"></div>
 											</li>
 										</ul>		
-									</div><!--end press1-->
-													
+									</div><!--end press1-->			
 									<div class="row archives">
 										<div class="hidden-lg hidden-md col-sm-12 col-xs-12">
 											<a class="link-archives text-center" href="#">See More</a>
 										</div>
-									</div>
-													
+									</div>			
 									<div class="row hidden-sm hidden-xs">
 										<section class="col-lg-5 col-lg-offset-2 col-xs-12">
 											<ul class="pagination">
@@ -158,17 +152,16 @@
 						</section>
 					</div><!--row-->
 				</section><!--three-->
-			</div>
-						
+			</div>		
 			<div class="content row">
 				<div class="col-lg-12">
 					<section class="four hidden-sm hidden-xs">
 					</section>
 				</div>
 			</div><!--content 4-->	
-  			<hr>
+  			<hr />
 			<?php include "_/components/php/media-relations-mobile.php"; ?>	
-			<hr>
+			<hr />
 			<?php include "_/components/php/footer.php"; ?>	 		
 		</section><!-- container -->
 	</div>

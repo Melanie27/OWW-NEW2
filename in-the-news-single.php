@@ -59,7 +59,7 @@
 									<p class="more">More from <span class="tags"><a href="#">Awards</a>, <a href="#">Oakwood Worldwide</a></span></p>
 								</section>
 								<div class="clearfix"></div>		
-								<hr>				
+								<hr />				
 							</section>
 							<!--end two thirds-->
 							<section class="hidden-lg hidden-md hidden-sm">
@@ -69,17 +69,16 @@
 						</div><!--end nested row-->
 					</section>
 				</div><!--row-->	
-			</section><!--end 3-->
-					
+			</section><!--end 3-->	
 			<section class="row">
 				<div class="col-lg-12">
 					<section class="four hidden-xs">
 					</section>
 				</div>
 			</section><!--content 4-->			
-  			<hr>
-			<?php include "_/components/php/media-relations-mobile.php"; ?>	
-			<hr>
+  			<hr />
+				<?php include "_/components/php/media-relations-mobile.php"; ?>	
+			<hr />
 			<?php include "_/components/php/footer.php"; ?>	
 		</section><!-- container -->
 	</div>

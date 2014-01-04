@@ -33,7 +33,7 @@
 				</div><!--heading-->
 				<?php include "_/components/php/hero-government.php"; ?>
 		  	</section> <!--two-->				
-			<hr>
+			<hr />
 			<section class="three overview container" id="overview">
 				<div class="row over2">
 					<section class="col-lg-12 col-md-12">
@@ -43,13 +43,13 @@
 								<img src="images/government/industry-insights/hero-industry-insights-relocation.jpg" alt="video-industry-insights" class="img-responsive" />
 								<p class="caption">July 31, 2013 - Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Nullam in dui mauris. Vivamus hendrerit arcu sed erat lorem ipsum.</p>
 							</section><!--end two thirds-->							
-							<hr class="hidden-lg hidden-md hidden-sm">																																		
+							<hr class="hidden-lg hidden-md hidden-sm" />																																		
 							<?php include "_/components/php/solutions-by-industry.php"; ?>
 						</div><!--end nested row-->								
 					</section>
 				</div><!--row-->
 			</section><!--three overview-->			
-			<hr>		
+			<hr />		
 			<section class="row">
 				<div class="col-lg-12 col-md-12">
 					<section class="five container">	
@@ -64,7 +64,7 @@
 					</section><!--five-->						
 				</div><!--columns-->
 			</section><!--row-->		
-			<hr>
+			<hr />
 			<?php include "_/components/php/footer.php"; ?>	
 		</section><!-- container -->
 	</div>

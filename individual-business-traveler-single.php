@@ -34,7 +34,7 @@
 				</div><!--heading-->
 				<?php include "_/components/php/hero-government.php"; ?>
 		  	</section> <!--two-->	
-			<hr>
+			<hr />
 			<section class="three container overview" id="overview">
 				<div class="row over2">
 					<section class="col-lg-12 col-md-12">
@@ -50,7 +50,7 @@
 					</section>
 				</div><!--row-->
 			</section><!--three overview-->					
-			<hr>	
+			<hr />	
 			<section class="row">
 				<div class="col-lg-12 col-md-12">
 					<section class="five container">
@@ -65,7 +65,7 @@
 					</section><!--five-->						
 				</div><!--columns-->
 			</section><!--row-->		
-			<hr>
+			<hr />
 			<?php include "_/components/php/footer.php"; ?>	
 			</section><!-- container -->
 		</div>

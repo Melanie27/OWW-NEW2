@@ -35,16 +35,15 @@
 			</div><!--heading-->	
 		  </section> <!--two-->		
 		  <section class="three container">
-				  <?php include "_/components/php/industry-solutions.php"; ?>
-		</section><!--three-->
-						
+			  <?php include "_/components/php/industry-solutions.php"; ?>
+		  </section><!--three-->				
 		<div class="row">
 			<div class="col-lg-12">
 				<section class="four hidden-sm hidden-xs">
 				</section>
 			</div>
 		</div><!--content 4-->
-		<hr>
+		<hr />
 		<section class="row industry-insights">
 			<div class="col-lg-12">
 				<section class="five">
@@ -55,7 +54,7 @@
 				</section><!--five-->
 			</div>
 		</section>
-  		<hr>
+  		<hr />
   		<section class="row">
 			<div class="col-lg-12">
 				<section class="six hidden-sm hidden-xs">

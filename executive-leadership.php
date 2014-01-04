@@ -17,8 +17,6 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-  
- 
    
   </head>
   <body id="executive-leadership">
@@ -33,8 +31,7 @@
 						</div>
 					</section>		
 				</div><!--heading-->						
-		  	</section> <!--two container-->	
-							
+		  	</section> <!--two container-->					
 		  	<section class="three container">
 				<div class="row over2">
 					<section class="col-lg-12 col-md-12 col-xs-12 no-left-padding">
@@ -61,8 +58,7 @@
 									</section>
 								</div>
 							</section>
-							
-							<hr class="hidden-lg hidden-md hidden-sm">
+							<hr class="hidden-lg hidden-md hidden-sm" />
 								<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 executive-committee">
 									<ul class="leadership-photos">
 										<div class="row">
@@ -82,8 +78,7 @@
 													<p><a href="executive-leadership.php" class="orange-link">Full Bio &#8594;</a></p>															
 												</li>
 											</section>
-										</div>
-													
+										</div>		
 										<div class="row">
 											<section class="col-lg-12 col-md-12 col-sm-6">
 												<li class="clearfix">
@@ -101,8 +96,7 @@
 													<p><a href="executive-leadership.php" class="orange-link">Full Bio &#8594;</a></p>												
 												</li>
 											</section>	
-										</div>
-													
+										</div>		
 										<div class="row">
 											<section class="col-lg-12 col-md-12 col-sm-6">			
 												<li class="clearfix">
@@ -127,9 +121,7 @@
 						</section>
 					</div><!--row-->			
 				</section><!--three-->		
-				
-				<hr>
-				
+				<hr />
 				<section class="row">
 					<div class="col-lg-12">
 						<section class="four hidden-sm hidden-xs">

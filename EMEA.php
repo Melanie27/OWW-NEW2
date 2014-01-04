@@ -20,9 +20,7 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-  
- 
-   
+    
   </head>
   <body id="emea">
   	<div class="container-full">
@@ -38,7 +36,6 @@
 				</div><!--heading-->		
 				<?php include "_/components/php/hero.php"; ?>
 		  	</section> <!--two container-->	
-
 			<section class="three container">
 				<div class="row intro-regional">
 					<section class="col-lg-12 col-md-12  col-sm-12 col-xs-12">
@@ -52,9 +49,7 @@
 					</section>
 				</div>
 			</section><!--end three-->
-			
-			<hr>
-								
+			<hr />
 			<section class="five container">
 				<div class="row carousel-heading">
 					<section class="col-lg-12 col-md-12 ">
@@ -77,9 +72,7 @@
 					</section>
 				</div>
 			</section><!--end five-->
-			
-			<hr>
-			
+			<hr />
 			<section class="seven container">
 				<div class="row global-destinations">
 					<section class="col-lg-12 col-md-12 global-intro">
@@ -87,10 +80,8 @@
 					</section>
 					<?php include "_/components/php/global-destinations.php"; ?>
 				</div>
-			</section><!--seven-->
-						
-			<hr>	
-				
+			</section><!--seven-->		
+			<hr />	
 			<?php include "_/components/php/footer.php"; ?>	  		
 		</section><!-- container -->
 	</div><!--container-full-->

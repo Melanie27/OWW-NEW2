@@ -32,8 +32,7 @@
 							</div>
 						</section>		
 					</div><!--heading-->
-		  		</section> <!--two container-->	
-		  			
+		  		</section> <!--two container-->		
 				<section class="three container">
 					<div class="row over2">
 						<section class="col-lg-12 col-md-12 partners">
@@ -43,7 +42,8 @@
 							</div>
 							<div class="row affiliations">
 								<section class="col-lg-4 col-md-4 logo-individual hidden-xs">
-									<img src="images/affiliations/logo-marriott.jpg" alt="logo-marriott">																			</section>
+									<img src="images/affiliations/logo-marriott.jpg" alt="logo-marriott">																			
+								</section>
 								<section class="col-lg-8 col-md-8 affiliations-text">
 									<h2>Marriott International</h2>
 									<ul class="affiliations-list">
@@ -55,11 +55,11 @@
 									<p> Marriott International is the perfect hotel complement to Oakwood Worldwide's move-in ready corporate housing and serviced apartment accommodations. Together, our partnership offers more choice, convenience and customizable solutions for you and your guests.</p>									
 								</section>
 							</div>
-						
-							<hr class="hidden-lg hidden-md">
+							<hr class="hidden-lg hidden-md" />
 							<div class="row affiliations">
 								<section class="col-lg-4 col-md-4 logo-individual hidden-xs">
-									<img src="images/affiliations/logo-regus.jpg" alt="logo-marriott">																				</section>
+									<img src="images/affiliations/logo-regus.jpg" alt="logo-marriott">																				
+								</section>
 								<section class="col-lg-8 col-md-8 affiliations-text">
 									<h2>Regus</h2>
 									<ul class="affiliations-list">
@@ -70,12 +70,11 @@
 									</ul>
 									<p> Marriott International is the perfect hotel complement to Oakwood Worldwide's move-in ready corporate housing and serviced apartment accommodations. Together, our partnership offers more choice, convenience and customizable solutions for you and your guests.</p>									
 								</section>
-								
 							</div>														
 						</section>
 					</div><!--row-->
 				</section><!--three-->
-				<hr>
+				<hr />
 				<section class="row">
 					<div class="col-lg-12">
 						<section class="four hidden-sm hidden-xs">
@@ -95,7 +94,7 @@
 						</section>
 					</section>
 				</section>
-				<hr>
+				<hr />
   				<section class="row">
 					<div class="col-lg-12">
 						<section class="six hidden-sm hidden-xs">

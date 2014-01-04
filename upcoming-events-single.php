@@ -56,7 +56,7 @@
 										<p class="more">More from <span class="tags"><a href="#">Awards</a>, <a href="#">Oakwood Worldwide</a></span></p>
 										<div class="clearfix"></div>
 									</section>			
-									<hr>		
+									<hr />		
 								</section><!--end two thirds-->
 								<section class="hidden-lg hidden-md hidden-sm">
 									<?php include "_/components/php/news-press-thumbs.php"; ?>	
@@ -72,9 +72,9 @@
 						</section>
 					</div>
 				</section><!--content 4-->		
-  				<hr>
+  				<hr />
 				<?php include "_/components/php/media-relations-mobile.php"; ?>					
-				<hr>
+				<hr />
 				<?php include "_/components/php/footer.php"; ?>	
 			</section><!-- container -->
 		</div>

@@ -47,7 +47,7 @@
 					</section><!--container-->
 				</div><!--end row-->
 			</section><!--three-->					
-			<hr>				
+			<hr />				
 			<section class="three three-a container overview">
 				<div class="row over2">										
 					<section class="col-lg-12 col-md-12">		
@@ -61,7 +61,7 @@
 					</section>
 				</div><!--row-->
 			</section><!--three overview-->
-			<hr class="hidden-lg hidden-md hidden-sm">		
+			<hr class="hidden-lg hidden-md hidden-sm" />		
 			<div class="row industry-insights">
 				<section class="col-sm-12 hidden-lg hidden-md">
 					<div class="container">
@@ -70,7 +70,7 @@
 					<?php include "_/components/php/industry-insights.php"; ?>
 				</section>
 			</div>	
-			<hr>
+			<hr />
 			<?php include "_/components/php/footer.php"; ?>	
 		</section><!-- container -->
 	</div>

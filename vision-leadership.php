@@ -42,7 +42,7 @@
 					<h2>Oakwood Worldwide</h2>
 					<p>Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor.</p>
 				</section><!--End two halves-->	
-				<hr>
+				<hr />
 				<section class="three container">
 					<div class="row over2">
 						<section class="col-lg-12 col-md-12">
@@ -55,7 +55,7 @@
 						</section>
 					</div>
 				</section><!--three-->
-				<hr>
+				<hr />
 				<section class="content row">
 					<div class="col-lg-12">
 						<section class="four hidden-sm hidden-xs">

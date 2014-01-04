@@ -134,9 +134,9 @@
 						</section>
 					</div>
 				</section><!--content 4-->		
-  				<hr>
+  				<hr />
 				<?php include "_/components/php/media-relations-mobile.php"; ?>	
-				<hr>
+				<hr />
 				<?php include "_/components/php/footer.php"; ?>	
 			</section><!-- container -->
 		</div>

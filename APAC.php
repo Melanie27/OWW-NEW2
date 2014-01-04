@@ -36,7 +36,6 @@
 					</div><!--heading-->	
 					<?php include "_/components/php/hero.php"; ?>
 		  		</section> <!--two container-->	
-
 				<section class="three container">
 					<div class="row intro-regional">
 						<section class="col-lg-12 col-md-12  col-sm-12 col-xs-12">
@@ -48,7 +47,7 @@
 						</section>
 					</div>
 				</section><!--end three-->
-				<hr>	
+				<hr />	
 				<section class="five container">
 					<div class="row carousel-heading">
 						<section class="col-lg-12 col-md-12 ">
@@ -71,8 +70,7 @@
 						</section>
 					</div>
 				</section><!--end five-->
-				<hr>
-								
+				<hr />			
 				<section class="seven container">
 					<div class="row global-destinations">
 						<section class="col-lg-12 col-md-12 global-intro">
@@ -81,11 +79,10 @@
 						<?php include "_/components/php/global-destinations.php"; ?>
 					</div>				
 				</section><!--seven-->		
-				<hr>	
+				<hr />	
 				<?php include "_/components/php/footer.php"; ?>	
 			</section><!-- container -->
 		</div><!--container-full-->
-  	
   	<script src="_/js/bootstrap.js"></script>
   	<script src="_/js/myscript.js"></script>
   </body>

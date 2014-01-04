@@ -34,15 +34,13 @@
 					</section>		
 				</div><!--heading-->
 				<?php include "_/components/php/hero-thirds-internal.php"; ?>
-		  	</section> <!--two-->	
-		  						  				
+		  	</section> <!--two-->						  				
 		  	<div class="container">
 				<section class="three">
 					<div class="row over2">
 						<section class="col-lg-12 col-md-12">
 							<div class="row">
 								<section class="col-lg-8 col-md-8 press-release-list">
-								
 								<!--awards navigation-->	
 									<div class="row">
 										<section class="col-lg-9 col-md-11 col-xs-12 awards-sections">
@@ -54,12 +52,10 @@
 											</ul>
 										</section>	
 									</div><!--Awards Navigation-->
-									
 									<h1>Award Name</h1>
 										<section class="press-release-hero">
 											<img src="images/news/press-releases/press-release-splash-01.jpg" alt="press-release-splash-01" class="img-responsive">
-										</section>
-													
+										</section>			
 										<section class="press-release-content">	
 											<p class="press-release-text">LOS ANGELES - July 31, 2013 - Sed vamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna diam porttitor mauris, quis sollicitudin sapien justo in libero. Vestibulum mollis mauris enim. Morbi euismod magna ac lorem rutrum elementum. Donec viverra auctor lobortis. Pellentesque eu est a nulla placerat dignissim. Morbi a enim in magna semper bibendum. Etiam scelerisque, nunc ac egestas consequat.</p>
 											<p class="press-release-text">
@@ -77,10 +73,9 @@
 											</p>
 											<p class="more">More from <span class="tags"><a href="#">Awards</a>, <a href="#">Oakwood Worldwide</a></span></p>
 											<p class="see-release"><a class="orange-link hidden-xs" href="#">See Press Release &#8594;</a></p>
-											
 											<div class="clearfix"></div>
 										</section><!--end press release content-->
-										<hr class="hidden-lg hidden-md">					
+										<hr class="hidden-lg hidden-md" />					
 									</section><!--end press release list-->
 									<section class="hidden-lg hidden-md hidden-sm">
 										<h1>Awards for 2013</h1>
@@ -91,9 +86,7 @@
 							</div><!--row-->
 						</section><!--three-->
 						</div>
-						
-						<hr class="hidden-lg hidden-md">
-
+						<hr class="hidden-lg hidden-md" />
 						<div class="content row hidden-lg hidden-md hidden-sm hidden-xs">
 							<div class="col-lg-12">
 								<section class="four hidden-xs">
@@ -101,11 +94,10 @@
 							</div>
 						</div><!--content 4-->  				
 						<?php include "_/components/php/media-relations-mobile.php"; ?>					
-						<hr>
+						<hr />
 						<?php include "_/components/php/footer.php"; ?>	
 					</section><!-- container -->
-				</div><!--container full-->
-					
+				</div><!--container full-->	
 			<script src="_/js/bootstrap.js"></script>
 			<script src="_/js/myscript.js"></script>
   </body>

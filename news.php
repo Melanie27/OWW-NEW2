@@ -40,19 +40,19 @@
 						<section class="col-lg-12 col-md-12 no-padding">
 							<div class="row">			
 								<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 hidden-md hidden-lg latest-news">		
-								<?php include "_/components/php/latest-news.php"; ?>
+									<?php include "_/components/php/latest-news.php"; ?>
 								</section><!--Latest News-->		
 								<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 cols first-col">	
-								<?php include "_/components/php/press-room.php"; ?>	
+									<?php include "_/components/php/press-room.php"; ?>	
 								</section><!--Press Room-->	
 								<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 cols second-col ">
-								<?php include "_/components/php/in-the-news.php"; ?>
+									<?php include "_/components/php/in-the-news.php"; ?>
 								</section><!--In the News-->		
 								<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 cols third-col">	
-								<?php include "_/components/php/awards-honors.php"; ?>
+									<?php include "_/components/php/awards-honors.php"; ?>
 								</section><!--Awards-->				
 								<section class ="hidden-lg hidden-md">
-								<?php include "_/components/php/events-mobile.php"; ?>
+									<?php include "_/components/php/events-mobile.php"; ?>
 								</section>	
 							</div><!--end nested row-->	
 						</section>
@@ -80,7 +80,7 @@
 					</div>
 				</section><!--content 6-->	
 				<?php include "_/components/php/media-relations-mobile.php"; ?>	
-				<hr>				
+				<hr />				
 				<?php include "_/components/php/footer.php"; ?>	
 			</section><!-- container -->
 		</div>

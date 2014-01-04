@@ -34,7 +34,6 @@
 				</div><!--heading-->		
 				<?php include "_/components/php/hero.php"; ?>
 		  	</section> <!--two-->	
-				
 			<section class="three container">
 				<div class="row">
 					<section class="col-lg-12 col-md-12  col-sm-12 col-xs-12">
@@ -48,8 +47,7 @@
 					</section>
 				</div>
 			</section><!--end three-->
-			<hr>								
-				
+			<hr />								
 			<section class="five container">
 				<div class="row">
 					<section class="col-lg-12 col-md-12 ">
@@ -62,7 +60,7 @@
 					</section>
 				</div>
 			</section><!--end five-->
-			<hr>				
+			<hr />				
 			<section class="seven container">
 				<div class="row">
 					<section class="col-lg-12 col-md-12 ">
@@ -76,7 +74,7 @@
 					</section>		
 				</div>
 			</section><!--seven-->		
-			<hr>		
+			<hr />		
 			<section class="nine container">
 				<div class="row">
 					<section class="col-lg-12 col-md-12">
@@ -88,7 +86,7 @@
 					</section>
 				</div>
 			</section><!--nine-->		
-			<hr>			
+			<hr />			
 			<section class="eleven container">
 				<div class="row">
 					<section class="col-lg-12 col-md-12 ">
@@ -105,7 +103,7 @@
 					</section>
 				</div>
 			</section><!--eleven-->
-			<hr>	
+			<hr />	
 			<?php include "_/components/php/footer.php"; ?>	
 		</section><!-- container -->
 	</div><!--container-full-->
