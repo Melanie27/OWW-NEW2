@@ -210,7 +210,7 @@ if ( $(window).width() < 1200) {
 	
 	$('#overview1').click(function() {
 		
-		$(window).scrollTop(380); 
+		$(window).scrollTop(400); 
 		/*$('.sub-navigation').addClass("sub-move");
 		$('#government-contractors1, #military1, #federal-civilian1, #gsa1').removeClass("active");
 		$('#overview1').addClass("active");*/
@@ -218,7 +218,7 @@ if ( $(window).width() < 1200) {
 	
 	$('#federal-civilian1').click(function() {
 		
-		$(window).scrollTop(2970);	
+		$(window).scrollTop(3050);	
 		/*$('.sub-navigation').addClass("sub-move");
 		$('#overview1, #military1, #government-contractors1, #gsa1').removeClass("active"); 
 		$('#federal-civilian1').addClass("active");*/
@@ -226,17 +226,17 @@ if ( $(window).width() < 1200) {
 	
 	$('#government-contractors1').click(function() {
 		
-		$(window).scrollTop(3700);
+		$(window).scrollTop(3800);
 		
-		$('.sub-navigation').addClass("sub-move");
+		/*$('.sub-navigation').addClass("sub-move");
 		$('#government-contractors1').addClass("active");
-		$('#military1, #overview1, #federal-civilian1, #gsa1').removeClass("active");
+		$('#military1, #overview1, #federal-civilian1, #gsa1').removeClass("active");*/
 				
 	});
 	
 	$('#gsa1').click(function() {
 		
-		$(window).scrollTop(4400);
+		$(window).scrollTop(4500);
 		
 		 
 		/*$('.sub-navigation').addClass("sub-move");
