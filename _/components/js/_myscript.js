@@ -196,7 +196,7 @@ if ( $("#industry-insights-relocation a:contains('Business Solutions')") ) {
 
 /*Scrolling distance for iPad*/
 
-if ( $(window).width() < 992) {
+if ( $(window).width() < 1200) {
 	
 	$('#overview1').click(function() {
 		
