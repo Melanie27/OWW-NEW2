@@ -210,13 +210,18 @@ if ( $(window).width() < 1200) {
 	
 	$('#overview1').click(function() {
 		
-		$(window).scrollTop(335);
-		
-		//$("html").animate({ scrollTop: "335px" }, 1000);	 
+		$(window).scrollTop(380); 
 		$('.sub-navigation').addClass("sub-move");
 		$('#government-contractors1, #military1, #federal-civilian1, #gsa1').removeClass("active");
 		//$('#overview1').addClass("active");
 	});
-
+	
+	$('#federal-civilian1').click(function() {
+		
+		$(window).scrollTop(3000);	
+		$('.sub-navigation').addClass("sub-move");
+		$('#overview1, #military1, #government-contractors1, #gsa1').removeClass("active"); 
+		$('#federal-civilian1').addClass("active");
+	});
 }
 
