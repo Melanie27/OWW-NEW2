@@ -1,4 +1,4 @@
-				<div class="panel panel-default" id="gsa-48">
+				<div class="panel panel-default">
 					<div class="panel-heading collapse4" id="collapse4">
 						<h1 class="title4 panel-title">
 							<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" class="collapser">	

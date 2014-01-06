@@ -46,11 +46,11 @@
 							<!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 								<ul class="nav navbar-nav">
-									<li id="overview1"><a href="#overview">Overview</a></li>
-									<li id="military1"><a href="#military">Military</a></li>
-									<li id="federal-civilian1"><a href="#federal-civilian">Federal Civilian</a></li>
-									<li id="government-contractors1"><a href="#government-contractors">Government Contractors</a></li>
-									<li id="gsa1"><a href="#gsa-48">GSA Schedule 48</a></li>
+									<li id="overview1"><a>Overview</a></li>
+									<li id="military1"><a>Military</a></li>
+									<li id="federal-civilian1"><a>Federal Civilian</a></li>
+									<li id="government-contractors1"><a>Government Contractors</a></li>
+									<li id="gsa1"><a>GSA Schedule 48</a></li>
 								</ul>
 							</div><!-- /.navbar-collapse -->
 						</nav>
@@ -89,7 +89,7 @@
 					</div>
 				</section><!--content 6-->		
 				<!--Federal Civilian Accordion Panel-->
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">									
+				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="federal-civilian">									
 						<?php include "_/components/php/government-federal-civilian.php"; ?>
 				</section>
 				<section class="row">
@@ -99,7 +99,7 @@
 					</div>
 				</section><!--content 8-->	
 				<!--Government Contractors Accordion Panel-->	
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">		
+				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="government-contractors">		
 				<?php include "_/components/php/government-government-contractors.php"; ?>	
 				</section>	
 				<section class="content row">
@@ -109,7 +109,7 @@
 					</div>
 				</section><!--content 10-->
 				<!--GSA Schedule 48 Accordion Panel-->
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
+				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="gsa-48">	
 					<?php include "_/components/php/government-gsa.php"; ?>
 				</section>
 			</div>
