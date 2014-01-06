@@ -11,7 +11,7 @@
 						<div id="collapseOne" class="panel-collapse collapse in container">
 							<div class="panel-body">
 								<div class="content row">
-									<div class="col-lg-12 col-md-12 ">
+									<div class="col-lg-12 col-md-12">
 										<section class="five military" id="military">
 											<section class="row">								
 												<div class="col-lg-8 col-md-8 two-col-text">
