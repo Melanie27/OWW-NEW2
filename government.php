@@ -46,7 +46,7 @@
 							<!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 								<ul class="nav navbar-nav">
-									<li id="overview1" class="active"><a href="#overview">Overview</a></li>
+									<li id="overview1"><a href="#overview">Overview</a></li>
 									<li id="military1"><a href="#">Military</a></li>
 									<li id="federal-civilian1"><a href="#federal-civilian">Federal Civilian</a></li>
 									<li id="government-contractors1"><a href="#government-contractors">Government Contractors</a></li>
