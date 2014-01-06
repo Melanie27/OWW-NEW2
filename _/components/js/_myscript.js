@@ -52,7 +52,7 @@ $('#collapseFive').on('hidden.bs.collapse', function () {
 });
 
 
-/*$('.panel-heading-business a ').each(function (index) {
+$('.panel-heading-business a ').each(function (index) {
 			
 	var hashCol = $(this).attr('href');
 	var grandParent = $(this).parent().parent().attr('id');
@@ -84,7 +84,7 @@ $('#collapseFive').on('hidden.bs.collapse', function () {
 	});
 
 
-//});
+});
 
 
 
