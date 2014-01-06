@@ -1,4 +1,4 @@
-			<div class="panel panel-default">
+				<div class="panel panel-default" id="federal-civilian">
 					<div class="panel-heading collapse2" id="collapse2">
 						<h1 class="title2 panel-title">
 							<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="collapser">
@@ -11,7 +11,7 @@
 					<div class="panel-body">		
 						<div class="content row">
 							<div class="col-lg-12 col-md-12">
-								<section class="seven federal-civilian" id="federal-civilian">
+								<section class="seven federal-civilian">
 									<div class="container">
 										<section class="row">								
 											<div class="col-lg-8 col-md-8 two-col-text">

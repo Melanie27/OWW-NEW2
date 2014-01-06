@@ -1,5 +1,5 @@
 				<div class="panel-group" id="accordion">
-					<div class="panel panel-default">
+					<div class="panel panel-default" id="military">
 						<div class="panel-heading collapse1" id="collapse1">
 							<h1 class="title1 panel-title">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="collapser">	
@@ -12,7 +12,7 @@
 							<div class="panel-body">
 								<div class="content row">
 									<div class="col-lg-12 col-md-12">
-										<section class="five military" id="military">
+										<section class="five military">
 											<section class="row">								
 												<div class="col-lg-8 col-md-8 two-col-text">
 													<h1 class="hidden-xs hidden-sm">Military</h1>
