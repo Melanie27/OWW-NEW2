@@ -65,7 +65,7 @@
 								<section class="col-lg-4 col-md-4 intro execustay ">
 									<div class="row">
 										<section class="col-lg-12 col-md-12 col-xs-6 logo">
-											<img src="images/sitewide/logo-execustay-lg.jpg" alt="Execustay">
+											<img src="images/sitewide/logo-execustay-lg.jpg" alt="Execustay" class="img-responsive">
 										</section>
 										<div class="clearfix"></div>
 										<section class="col-lg-12 col-md-12">
@@ -88,7 +88,7 @@
 								<section class="col-lg-4 col-md-4 intro ihs">
 									<div class="row">
 										<section class="col-lg-12 col-md-12 col-xs-6 logo">
-											<img src="images/sitewide/logo-ihs-lg.jpg" alt="Insurance Housing Solutions">
+											<img src="images/sitewide/logo-ihs-lg.jpg" alt="Insurance Housing Solutions" class="img-responsive">
 										</section>
 										<div class="clearfix"></div>
 										<section class="col-lg-12 col-md-12">
