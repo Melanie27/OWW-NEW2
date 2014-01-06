@@ -203,7 +203,7 @@ if ( $(window).width() < 1200) {
 		$("html").animate({ scrollTop: "335px" }, 1000);	 
 		$('.sub-navigation').addClass("sub-move");
 		$('#government-contractors1, #military1, #federal-civilian1, #gsa1').removeClass("active");
-		$('#overview1').addClass("active");
+		//$('#overview1').addClass("active");
 	});
 
 }
