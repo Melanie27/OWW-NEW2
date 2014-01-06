@@ -192,4 +192,19 @@ if ( $("#industry-insights-relocation a:contains('Business Solutions')") ) {
 		$('#overview1, #military1, #federal-civilian1, #government-contractors1').removeClass("active");	 
 		$('#gsa1').addClass("active"); 
 	});
+	
+
+/*Scrolling distance for iPad*/
+
+if ( $(window).width() < 992) {
+	
+	$('#overview1').click(function() {
+		
+		$("html").animate({ scrollTop: "335px" }, 1000);	 
+		$('.sub-navigation').addClass("sub-move");
+		$('#government-contractors1, #military1, #federal-civilian1, #gsa1').removeClass("active");
+		$('#overview1').addClass("active");
+	});
+
+}
 
