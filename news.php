@@ -35,29 +35,29 @@
 				</div><!--heading-->
 				<?php include "_/components/php/hero-thirds.php"; ?>
 			</section> <!--two-->	
-		  		<section class="three container">
-					<div class="row over2">
-						<section class="col-lg-12 col-md-12 no-padding">
-							<div class="row">			
-								<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 hidden-md hidden-lg latest-news">		
-									<?php include "_/components/php/latest-news.php"; ?>
-								</section><!--Latest News-->		
-								<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 cols first-col">	
-									<?php include "_/components/php/press-room.php"; ?>	
-								</section><!--Press Room-->	
-								<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 cols second-col ">
-									<?php include "_/components/php/in-the-news.php"; ?>
-								</section><!--In the News-->		
-								<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 cols third-col">	
-									<?php include "_/components/php/awards-honors.php"; ?>
-								</section><!--Awards-->				
-								<section class ="hidden-lg hidden-md">
-									<?php include "_/components/php/events-mobile.php"; ?>
-								</section>	
-							</div><!--end nested row-->	
-						</section>
-					</div><!--row-->
-				</section><!--three-->
+		  	<section class="three container">
+				<div class="row over2">
+					<section class="col-lg-12 col-md-12">
+						<div class="row">			
+							<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 hidden-md hidden-lg latest-news">		
+								<?php include "_/components/php/latest-news.php"; ?>
+							</section><!--Latest News-->		
+							<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 cols first-col">	
+								<?php include "_/components/php/press-room.php"; ?>	
+							</section><!--Press Room-->	
+							<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 cols second-col ">
+								<?php include "_/components/php/in-the-news.php"; ?>
+							</section><!--In the News-->		
+							<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12 cols third-col">	
+								<?php include "_/components/php/awards-honors.php"; ?>
+							</section><!--Awards-->				
+							<section class ="hidden-lg hidden-md">
+								<?php include "_/components/php/events-mobile.php"; ?>
+							</section>	
+						</div><!--end nested row-->	
+					</section>
+				</div><!--row-->
+			</section><!--three-->
 				<section class="row">
 					<div class="col-lg-12">
 						<section class="four hidden-xs">

@@ -78,9 +78,12 @@
 			</div>
 					
 			<!--ACCORDION-->
+			<section class="three">
 			<div class="row">
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12">	
-					<?php include "_/components/php/government-military.php"; ?>							
+				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12 accord-padding">
+					<div class="container">	
+						<?php include "_/components/php/government-military.php"; ?>	
+					</div>						
   				</section>
   				<section class="row">
 					<div class="col-lg-12">
@@ -89,8 +92,10 @@
 					</div>
 				</section><!--content 6-->		
 				<!--Federal Civilian Accordion Panel-->
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="federal-civilian">									
+				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12 accord-padding" id="federal-civilian">
+					<div class="container">									
 						<?php include "_/components/php/government-federal-civilian.php"; ?>
+					</div>
 				</section>
 				<section class="row">
 					<div class="col-lg-12">
@@ -99,8 +104,10 @@
 					</div>
 				</section><!--content 8-->	
 				<!--Government Contractors Accordion Panel-->	
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="government-contractors">		
-				<?php include "_/components/php/government-government-contractors.php"; ?>	
+				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12 accord-padding" id="government-contractors">
+					<div class="container">		
+						<?php include "_/components/php/government-government-contractors.php"; ?>
+					</div>	
 				</section>	
 				<section class="content row">
 					<div class="col-lg-12">
@@ -109,10 +116,13 @@
 					</div>
 				</section><!--content 10-->
 				<!--GSA Schedule 48 Accordion Panel-->
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="gsa-48">	
-					<?php include "_/components/php/government-gsa.php"; ?>
+				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12 accord-padding" id="gsa-48">
+					<div class="container">	
+						<?php include "_/components/php/government-gsa.php"; ?>
+					</div>
 				</section>
 			</div>
+			</section>
 			<!--end row that holds accordion-->		
 			<section class="content row">
 				<div class="col-lg-12">

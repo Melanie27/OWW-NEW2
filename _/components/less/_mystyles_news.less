@@ -435,6 +435,18 @@
 		height:200px;
 	}
 	
+	.three {
+	
+		padding-left:0px;
+		padding-right:0px;
+		
+		.cols, .latest-news, .events-mobile  {
+			
+			padding: 0px 0px 0px 0px;
+			
+		}
+	}
+	
 	.press-text {
 		
 		padding-left:15px;
@@ -464,6 +476,8 @@
 		padding-left:0px;
 		
 	}
+	
+	
 	
 	.full-story {			
 			
@@ -649,14 +663,27 @@
 			
 		}
 	}
+	
+	.three {
+		
+		.cols, .latest-news, .events-mobile  {
+			
+			padding: 0px 0px 0px 15px;
+			
+		}
+	}
 
 	.press-release-list {
 		
 		padding-left:15px;
 	}
 	
-	.awards-sections {
+	.press-release-content {
 		
+		margin-bottom:25px;
+	}
+	
+	.awards-sections {
 		
 		padding-left:15px;
 	}
@@ -719,8 +746,15 @@
 		
 		h1 {
 			
-			margin-top:0px;
+			margin-top:25px;
 		}
+	}
+	
+	.media-relations.phone {
+		
+		padding-left:15px;
+		padding-right:15px;
+		margin-bottom:25px;
 	}
 		
 }
@@ -781,8 +815,30 @@
 	
 		h1 {
 		
-		font-size:35px;
+			font-size:35px;
 		
 		}
 	}
+}
+
+/*Extra Small, Small and Medium*/
+
+@media (min-width: 1px) and (max-width: 992px) { 
+
+	.three {
+	
+				
+		.awards-honors {
+		
+			.link-archives {
+				
+				margin-top:10px !important;	
+				
+			}
+	
+		}
+				
+	}
+
+
 }
