@@ -1,6 +1,4 @@
 
-
-
 $('.carousel').carousel({
   interval: false
 });
@@ -153,7 +151,6 @@ if ( $("#industry-insights-relocation a:contains('Business Solutions')") ) {
 /*Scroll to Sections on Government Page*/
 	
 	$('#overview1').click(function() {
-	
 		$(window).scrollTop(445);
 		$('.sub-navigation').addClass("sub-move");
 		$('#government-contractors1, #military1, #federal-civilian1, #gsa1').removeClass("active");
@@ -161,7 +158,6 @@ if ( $("#industry-insights-relocation a:contains('Business Solutions')") ) {
 	});
 	
 	$('#military1').click(function() {
-		
 		$(window).scrollTop(2000);
 		$('.sub-navigation').addClass("sub-move");
 		$('#overview1, #government-contractors1, #federal-civilian1, #gsa1').removeClass("active");
@@ -169,7 +165,6 @@ if ( $("#industry-insights-relocation a:contains('Business Solutions')") ) {
 	});
 	
 	$('#federal-civilian1').click(function() {
-		
 		$(window).scrollTop(3250);
 		$('.sub-navigation').addClass("sub-move");
 		$('#overview1, #military1, #government-contractors1, #gsa1').removeClass("active"); 
@@ -177,7 +172,6 @@ if ( $("#industry-insights-relocation a:contains('Business Solutions')") ) {
 	});
 	
 	$('#government-contractors1').click(function() {
-		
 		$(window).scrollTop(4000);
 		$('.sub-navigation').addClass("sub-move");
 		$('#government-contractors1').addClass("active");
@@ -186,7 +180,6 @@ if ( $("#industry-insights-relocation a:contains('Business Solutions')") ) {
 	});
 	
 	$('#gsa1').click(function() {
-		
 		$(window).scrollTop(4720);	 
 		$('.sub-navigation').addClass("sub-move");
 		$('#overview1, #military1, #federal-civilian1, #government-contractors1').removeClass("active");	 
