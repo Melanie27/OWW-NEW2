@@ -2136,6 +2136,19 @@ footer {
 
 /*STYLING BACKGROUND IMAGES - FROM LATIS*/
 
+/*Remove dropdown from iPhone */
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+
+	ul.nav li.dropdown:hover ul.dropdown-menu {
+    
+    	display: none;
+	
+	}	
+
+}
+
+
 /* iPads (portrait) ----------- */
 @media only screen 
 and (min-device-width : 768px) 
@@ -2181,6 +2194,12 @@ and (orientation : landscape) {
 		background-position-y: -100px;
 	
 	}
+	
+	ul.nav li.dropdown:hover ul.dropdown-menu{
+    
+    	display: none;
+	
+	}	
 }
 
 /* Media Queries for Screens with a max size of 768 px */
