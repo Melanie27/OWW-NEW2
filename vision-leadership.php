@@ -62,29 +62,6 @@
 						</section>
 					</div>
 				</section><!--content 4-->
-				<section class="row">
-					<div class="col-lg-12">
-						<section class="five container">
-							<section class="row industry-affiliations">
-								<div class="col-lg-12 col-md-12">
-									<h1>Industry Affiliations</h1>
-								</div>
-								<?php include "_/components/php/industry-affiliations.php"; ?>	
-							</section>
-							<div class="row archives">
-								<section class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-xs-8 col-xs-offset-2">
-									<a class="link-archives learn-more text-center" href="industry-affiliations.php">Learn More &#8594;</a>
-								</section>
-							</div>
-						</section><!--five-->
-					</div>
-				</section>
-  				<section class="content row">
-					<div class="col-lg-12">
-						<section class="six hidden-sm">
-						</section>
-					</div>
-				</section><!--content 6-->
 				<?php include "_/components/php/footer.php"; ?>	
 			</section><!-- container -->
 		</div><!--container full-->

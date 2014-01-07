@@ -85,7 +85,7 @@
 											<section class="col-lg-4 col-md-4 col-sm-12 col-xs-12">		
 												<div class="solutions relocation">
 													<a href="relocation.php" class="industry-sections">
-														<img src="images/business-solutions/relocation.jpg" alt="Woman on iPad" />
+														<img src="images/business-solutions/relocation.jpg" alt="Woman on iPad" class="img-responsive"/>
 														<header class="industries">
 															<h3>Relocation</h3>
 															<div class="clearfix"></div>
