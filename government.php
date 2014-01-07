@@ -80,7 +80,7 @@
 			<!--ACCORDION-->
 			<section class="three">
 			<div class="row">
-				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12 accord-padding">
+				<section class="col-lg-12 col-md-12 col-sm-12 col-xs-12 accord-padding" id="military">
 					<div class="container">	
 						<?php include "_/components/php/government-military.php"; ?>	
 					</div>						

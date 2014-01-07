@@ -187,3 +187,23 @@ if ( $("#industry-insights-relocation a:contains('Business Solutions')") ) {
 	});
 	
 
+
+/*Make the subnavigation fixed on govt page*/
+
+var fixmeTop = $('.sub-navigation').offset().top; // get initial position
+
+$(window).scroll(function() {
+	
+	var currentPosition = $(window).scrollTop(); //get current position
+	
+	if (currentPosition >= 513) {
+		
+		$('.sub-navigation').addClass("sub-move");
+	}
+	
+	else {
+		
+		$('.sub-navigation').removeClass("sub-move");
+	}
+	
+});

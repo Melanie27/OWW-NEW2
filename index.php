@@ -50,7 +50,7 @@
 					<div class="row">
 						<section class="col-lg-8 col-md-8 col-sm-12 col-xs-12 our-brands">
 							<div class="row">
-								<section class="col-lg-12 brands-intro">
+								<section class="col-lg-11 col-md-12 col-sm-11 brands-intro">
 									<h1>Our Brands:	Oakwood, ExecuStay and Insurance Housing Solutions</h1>
 									<p>Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum.</p>
 								</section>	

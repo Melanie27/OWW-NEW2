@@ -90,7 +90,7 @@
 				<div class="row">
 					<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">		
 						<div class="solutions clearfix" id="client-services">
-							<a href="client-services.php">
+							<a href="client-services.php" class="industry-sections">
 								<img src="images/business-solutions/consulting.jpg" alt="Woman Texting" class="img-responsive" />
 								<header class="industries">
 									<h3>Client Services</h3>
@@ -104,7 +104,7 @@
 					</section>	
 					<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">		
 						<div class="solutions" id="technologies">
-							<a href="technologies.php">
+							<a href="technologies.php" class="industry-sections">
 								<img src="images/business-solutions/government.jpg" alt="Woman Texting" class="img-responsive" />
 								<header class="industries">
 									<h3>Technologies</h3>
@@ -118,7 +118,7 @@
 					</section>	
 					<section class="col-lg-4 col-md-4 col-sm-6 col-xs-12">		
 						<div class="solutions" id="safety-security">
-							<a href="safety-security.php">
+							<a href="safety-security.php" class="industry-sections">
 								<img src="images/business-solutions/insurance.jpg" alt="Woman Texting" class="img-responsive" />
 								<header class="industries">
 									<h3>Safety and Security</h3>
