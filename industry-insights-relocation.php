@@ -31,7 +31,7 @@
 						</div>
 					</section>		
 				</div><!--heading-->
-				<?php include "_/components/php/hero-government.php"; ?>
+				<?php /*include "_/components/php/hero-government.php"; */?>
 		  	</section> <!--two-->				
 			<hr />
 			<section class="three overview container" id="overview">
