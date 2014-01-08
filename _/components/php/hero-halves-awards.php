@@ -1,4 +1,4 @@
-							<div class="row over hidden-xs">
+							<div class="row container over hidden-xs">
 								<section class="col-lg-12 vert">		
 									<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">	
 									<!-- Wrapper for slides -->
