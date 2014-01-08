@@ -17,7 +17,9 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-     
+     <script type="text/javascript">var switchTo5x=true;</script>
+	 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	 <script type="text/javascript">stLight.options({publisher: "bf5b6916-a51a-43a3-a810-6b862bff3236", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
   </head>
   <body id="industry-insights-relocation">
   	<div class="container-full">
@@ -37,8 +39,15 @@
 			<section class="three overview container" id="overview">
 				<div class="row over2">
 					<section class="col-lg-12 col-md-12">
+					
 						<div class="row overview-top">
+							
 							<section class="col-lg-8 col-md-7 col-sm-12 col-xs-12 insights no-padding">
+								<span class='st_facebook_large' displayText='Facebook'></span>
+								<span class='st_twitter_large' displayText='Tweet'></span>
+								<span class='st_linkedin_large' displayText='LinkedIn'></span>
+								<span class='st_pinterest_large' displayText='Pinterest'></span>
+								<span class='st_email_large' displayText='Email'></span>
 								<h1>Temporary Housing: Located at the Intersection of Globalization and Talent Mobility</h1>
 								<img src="images/government/industry-insights/hero-industry-insights-relocation-02.jpg" alt="video-industry-insights" class="img-responsive" />
 								<p class="caption">Photo Caption</p>
