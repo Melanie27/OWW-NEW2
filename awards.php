@@ -34,7 +34,9 @@
 						</div>
 					</section>		
 				</div><!--heading-->
+				
 				<?php include "_/components/php/hero-halves-awards.php"; ?>
+				
 		  	</section> <!--two-->						
 		  	<div class="container">
 		  		<section class="full-story hidden-lg hidden-md hidden-sm clearfix">

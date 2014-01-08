@@ -208,19 +208,40 @@
 
 #awards {
 
+	.two {
+		
+		background-color:white;
+		background-image:none;
+	}
+	
 	.over {
     	
     	background-color: #FFFFFF;
 		margin: 0px auto;
-		padding: 0px;
+		
 	}
 	
 	.vert {
 		
-		height:420px;
+		padding:0px;
+		margin: 0px auto;
+		width:1270px;
 	}
 	
+	.press-release-list {
+		
+		h1 {
+		
+			margin-top:45px;
+			margin-bottom:50px;
+			
+		}
+	}
 	
+	p.date {
+		
+		margin-bottom: 5px;
+	}
 
 }
 
@@ -270,25 +291,6 @@
 }
 
 
-#awards {
-	
-	.press-release-list {
-		
-		h1 {
-		
-			margin-top:45px;
-			margin-bottom:50px;
-			
-		}
-	}
-	
-	p.date {
-		
-		margin-bottom: 5px;
-	}
-
-}
-
 /*Awards carousel*/
 #awards {
 	
@@ -306,26 +308,29 @@
 		text-shadow:none;
 	}
 	
+	.carousel-control {
+		
+		z-index:100;
+	   	 opacity:1;
+	   	 width:55px;
+	   	 height:55px;
+	   	 background-image: none;
+	}
+	
 	.carousel-control.left {
    	 	
-   	 	background-image: none;
-   	 	bottom: 0px;
-   	 	left: -90px;
-   	 	 z-index:100;
-   	 	 opacity:1;
-   	 	 
+   	 	top: 150px;
+   	 	left: 0px;
+   	 		 
    	 }
    	 
    	 .carousel-control.right {
 	   	 
-	   	 background-image: none;
-	   	 background-repeat: repeat-x;
-	   	 bottom: 0px;
-	   	 left: 1025px;
-	   	 z-index:100;
-	   	 opacity:1;
+	   	 top: 150px;
+	   	 left: 1205px;
 	   	 
-	  }
+	   	 
+	 }
 	   	
 	  .carousel-indicators {
 		  
@@ -347,16 +352,25 @@
         z-index: -1;
         
     }
+    
+    .glyphicon-chevron-right, .glyphicon-chevron-left {
+	    
+	    width:55px;
+		height:55px;
+    }
 		  
 	.glyphicon-chevron-right:before {
 	
 		content: url(../../images/news/awards/carousel-arrow-right.png);
+		
 
 	}
 		
 	.glyphicon-chevron-left:before {
 			
 		content: url(../../images/news/awards/carousel-arrow-left.png);
+		width:55px;
+		height:55px;
 			
 	}
 		
@@ -786,6 +800,11 @@
 	
 	#awards {
 	
+		.two {
+			
+			height:420px;
+		}
+	
 		.carousel-caption {
 			
 			bottom:50px;
@@ -800,15 +819,15 @@
 		
 		 .carousel-control.left {
 			 
-			 bottom: -140px;
-			 left: 400px;
+			 top:100px;
+			 left: 70px;
 			 z-index:100;
 		 }
 		 
 		 .carousel-control.right {
 			  
-			  bottom: -140px;
-			  left: 820px;
+			  top:100px;
+			  left: 1020px;
 			  z-index:100;
 		 }
 		 
@@ -817,6 +836,21 @@
 			 position: relative;
 			 text-shadow: none;
 			 top: 205px;
+		}
+		
+		.carousel {
+			
+			left:0px;
+		}
+		
+		.item {
+			
+			/*width:992px;
+			margin-left:80px;*/
+			
+			width: 970px;
+			margin: 0px auto;
+			
 		}	
 	}
 	
