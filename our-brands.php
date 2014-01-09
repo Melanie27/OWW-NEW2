@@ -9,8 +9,8 @@
 
     <!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
-    <link href="_/css/mystyles_brands.css" rel="stylesheet" media="screen">
-     <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">-->
+    <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
+     
    
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

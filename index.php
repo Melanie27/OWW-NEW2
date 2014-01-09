@@ -14,7 +14,7 @@
 		 <link rel="stylesheet" type="text/css" href="_/css/mystyles_ie8_down.css" />
 	<![endif]-->
 	
-     <!--<link href="_/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">-->
+     
    
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
